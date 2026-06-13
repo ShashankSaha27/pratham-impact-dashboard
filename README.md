@@ -31,17 +31,14 @@ and outcome-level decision making.
 ## Quick start
 
 ```bash
-# 1. Install dependencies
+# 1. Clone the repo
+git clone https://github.com/ShashankSaha27/pratham-impact-dashboard
+cd pratham-impact-dashboard
+
+# 2. Install dependencies
 pip install -r requirements.txt
 
-# 2. Download source data from Kaggle
-#    https://www.kaggle.com/datasets/iamsouravbanerjee/education-in-india
-#    Place these files in data/:
-#      - Udise_Data_students_Enrollment.csv
-#      - 2015_16_Districtwise.csv
-#      - 2015_16_Statewise_Secondary.csv
-
-# 3. Build the database
+# 3. Build the database (source CSVs are included in data/)
 python setup_db.py
 
 # 4. Calibrate effect sizes from real data
@@ -97,13 +94,13 @@ IMPACT      Literacy rate · Female literacy · SC/ST equity gap
 
 ## Data sources
 
-| Dataset | Source | Rows |
-|---------|--------|------|
-| UDISE Student Enrollment 2012-20 | Kaggle / UDISE | 5,560 district×year |
-| DISE 2015-16 Districtwise Quality | Kaggle / DISE | 680 districts |
-| DISE 2015-16 Statewise Secondary | Kaggle / DISE | 36 states |
+| Dataset | File | Rows |
+|---------|------|------|
+| UDISE Student Enrollment 2012-20 | `data/Udise_Data_students_Enrollment.csv` | 5,560 district×year |
+| DISE 2015-16 Districtwise Quality | `data/2015_16_Districtwise.csv` | 680 districts |
+| DISE 2015-16 Statewise Secondary | `data/2015_16_Statewise_Secondary.csv` | 36 states |
 
-All public government data. No individual records. Anonymised at district level.
+All public government data. Included in this repo. No individual records. Anonymised at district level.
 
 ---
 
