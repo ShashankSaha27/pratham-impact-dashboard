@@ -29,7 +29,5 @@ metabase.db/
 # Database (rebuilt by setup_db.py — too large for git)
 data/pratham.db
 
-# Raw source CSVs (too large for git — download from Kaggle)
-data/Udise_Data_students_Enrollment.csv
-data/2015_16_Districtwise.csv
-data/2015_16_Statewise_Secondary.csv
+# Database (rebuilt by setup_db.py)
+data/pratham.db
