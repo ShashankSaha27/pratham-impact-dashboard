@@ -1,0 +1,2881 @@
+date,week_number,state,district,class,boys_enrolled,girls_enrolled,teacher_present,mdm_served,data_source
+2026-03-21,1,Uttar Pradesh,LUCKNOW,1,38,26,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,LUCKNOW,2,33,25,1,0,demo_generated
+2026-03-21,1,Uttar Pradesh,LUCKNOW,3,47,33,1,0,demo_generated
+2026-03-21,1,Uttar Pradesh,LUCKNOW,4,31,31,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,LUCKNOW,5,36,12,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,LUCKNOW,6,26,29,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,LUCKNOW,7,46,25,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,LUCKNOW,8,30,28,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,1,30,25,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,2,34,19,1,0,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,3,41,18,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,4,24,29,0,1,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,5,40,29,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,6,34,25,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,7,31,36,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,8,37,24,1,0,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,1,29,32,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,2,43,35,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,3,28,25,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,4,31,26,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,5,41,38,0,1,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,6,37,22,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,7,34,40,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,8,35,25,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,KANPUR,1,33,30,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,KANPUR,2,28,23,0,1,demo_generated
+2026-03-21,1,Uttar Pradesh,KANPUR,3,42,29,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,KANPUR,4,35,35,1,0,demo_generated
+2026-03-21,1,Uttar Pradesh,KANPUR,5,29,25,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,KANPUR,6,37,29,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,KANPUR,7,23,24,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,KANPUR,8,33,30,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,ALLAHABAD,1,37,27,0,1,demo_generated
+2026-03-21,1,Uttar Pradesh,ALLAHABAD,2,19,27,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,ALLAHABAD,3,35,47,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,ALLAHABAD,4,33,29,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,ALLAHABAD,5,44,33,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,ALLAHABAD,6,46,16,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,ALLAHABAD,7,27,22,1,1,demo_generated
+2026-03-21,1,Uttar Pradesh,ALLAHABAD,8,22,28,1,1,demo_generated
+2026-03-21,1,Bihar,PATNA,1,27,39,0,1,demo_generated
+2026-03-21,1,Bihar,PATNA,2,28,25,0,0,demo_generated
+2026-03-21,1,Bihar,PATNA,3,41,17,1,1,demo_generated
+2026-03-21,1,Bihar,PATNA,4,22,29,1,0,demo_generated
+2026-03-21,1,Bihar,PATNA,5,37,34,1,1,demo_generated
+2026-03-21,1,Bihar,PATNA,6,39,29,0,1,demo_generated
+2026-03-21,1,Bihar,PATNA,7,29,29,1,0,demo_generated
+2026-03-21,1,Bihar,PATNA,8,37,22,1,1,demo_generated
+2026-03-21,1,Bihar,GAYA,1,49,31,1,1,demo_generated
+2026-03-21,1,Bihar,GAYA,2,27,34,1,1,demo_generated
+2026-03-21,1,Bihar,GAYA,3,42,30,1,1,demo_generated
+2026-03-21,1,Bihar,GAYA,4,33,22,1,1,demo_generated
+2026-03-21,1,Bihar,GAYA,5,34,30,0,1,demo_generated
+2026-03-21,1,Bihar,GAYA,6,35,39,1,1,demo_generated
+2026-03-21,1,Bihar,GAYA,7,40,21,1,1,demo_generated
+2026-03-21,1,Bihar,GAYA,8,26,31,0,0,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,1,33,33,1,0,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,2,38,27,0,0,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,3,28,15,1,1,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,4,36,17,0,1,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,5,27,29,1,0,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,6,35,18,0,1,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,7,43,36,1,1,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,8,39,31,1,0,demo_generated
+2026-03-21,1,Bihar,BHAGALPUR,1,39,58,1,1,demo_generated
+2026-03-21,1,Bihar,BHAGALPUR,2,42,32,0,1,demo_generated
+2026-03-21,1,Bihar,BHAGALPUR,3,28,25,1,1,demo_generated
+2026-03-21,1,Bihar,BHAGALPUR,4,53,13,1,1,demo_generated
+2026-03-21,1,Bihar,BHAGALPUR,5,31,36,1,1,demo_generated
+2026-03-21,1,Bihar,BHAGALPUR,6,29,33,1,1,demo_generated
+2026-03-21,1,Bihar,BHAGALPUR,7,35,22,1,1,demo_generated
+2026-03-21,1,Bihar,BHAGALPUR,8,18,29,1,1,demo_generated
+2026-03-21,1,Bihar,DARBHANGA,1,28,26,1,0,demo_generated
+2026-03-21,1,Bihar,DARBHANGA,2,39,34,1,1,demo_generated
+2026-03-21,1,Bihar,DARBHANGA,3,31,22,1,1,demo_generated
+2026-03-21,1,Bihar,DARBHANGA,4,24,35,0,1,demo_generated
+2026-03-21,1,Bihar,DARBHANGA,5,51,36,1,1,demo_generated
+2026-03-21,1,Bihar,DARBHANGA,6,45,22,1,1,demo_generated
+2026-03-21,1,Bihar,DARBHANGA,7,38,33,1,1,demo_generated
+2026-03-21,1,Bihar,DARBHANGA,8,9,19,1,1,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,1,48,19,1,1,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,2,46,19,1,0,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,3,27,36,1,1,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,4,35,28,0,1,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,5,47,20,1,1,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,6,33,37,0,0,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,7,37,26,1,1,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,8,30,39,1,1,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,1,42,34,1,1,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,2,28,26,1,1,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,3,34,33,1,1,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,4,39,30,1,1,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,5,41,39,1,0,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,6,45,32,1,0,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,7,37,30,0,1,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,8,28,50,1,1,demo_generated
+2026-03-21,1,Rajasthan,UDAIPUR,1,44,39,1,1,demo_generated
+2026-03-21,1,Rajasthan,UDAIPUR,2,34,23,1,1,demo_generated
+2026-03-21,1,Rajasthan,UDAIPUR,3,42,30,1,1,demo_generated
+2026-03-21,1,Rajasthan,UDAIPUR,4,38,26,1,1,demo_generated
+2026-03-21,1,Rajasthan,UDAIPUR,5,36,27,1,0,demo_generated
+2026-03-21,1,Rajasthan,UDAIPUR,6,31,34,1,0,demo_generated
+2026-03-21,1,Rajasthan,UDAIPUR,7,23,19,1,0,demo_generated
+2026-03-21,1,Rajasthan,UDAIPUR,8,29,30,1,1,demo_generated
+2026-03-21,1,Rajasthan,AJMER,1,41,30,1,1,demo_generated
+2026-03-21,1,Rajasthan,AJMER,2,34,29,1,1,demo_generated
+2026-03-21,1,Rajasthan,AJMER,3,37,24,1,1,demo_generated
+2026-03-21,1,Rajasthan,AJMER,4,34,35,1,0,demo_generated
+2026-03-21,1,Rajasthan,AJMER,5,36,32,1,1,demo_generated
+2026-03-21,1,Rajasthan,AJMER,6,35,36,1,1,demo_generated
+2026-03-21,1,Rajasthan,AJMER,7,52,25,1,0,demo_generated
+2026-03-21,1,Rajasthan,AJMER,8,52,24,1,1,demo_generated
+2026-03-21,1,Rajasthan,KOTA,1,18,27,1,1,demo_generated
+2026-03-21,1,Rajasthan,KOTA,2,37,48,1,1,demo_generated
+2026-03-21,1,Rajasthan,KOTA,3,27,36,0,0,demo_generated
+2026-03-21,1,Rajasthan,KOTA,4,24,48,0,0,demo_generated
+2026-03-21,1,Rajasthan,KOTA,5,44,27,0,1,demo_generated
+2026-03-21,1,Rajasthan,KOTA,6,21,44,0,0,demo_generated
+2026-03-21,1,Rajasthan,KOTA,7,34,43,1,1,demo_generated
+2026-03-21,1,Rajasthan,KOTA,8,35,32,1,0,demo_generated
+2026-03-21,1,Maharashtra,PUNE,1,31,37,1,1,demo_generated
+2026-03-21,1,Maharashtra,PUNE,2,35,36,1,1,demo_generated
+2026-03-21,1,Maharashtra,PUNE,3,22,43,1,1,demo_generated
+2026-03-21,1,Maharashtra,PUNE,4,47,33,1,0,demo_generated
+2026-03-21,1,Maharashtra,PUNE,5,51,47,0,1,demo_generated
+2026-03-21,1,Maharashtra,PUNE,6,40,44,1,1,demo_generated
+2026-03-21,1,Maharashtra,PUNE,7,43,16,1,1,demo_generated
+2026-03-21,1,Maharashtra,PUNE,8,32,38,1,1,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,1,48,19,1,0,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,2,21,31,1,0,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,3,18,31,1,1,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,4,37,23,1,1,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,5,34,40,1,1,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,6,30,24,1,1,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,7,34,22,1,1,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,8,50,32,1,1,demo_generated
+2026-03-21,1,Maharashtra,AURANGABAD,1,29,33,0,0,demo_generated
+2026-03-21,1,Maharashtra,AURANGABAD,2,34,30,1,1,demo_generated
+2026-03-21,1,Maharashtra,AURANGABAD,3,30,26,1,1,demo_generated
+2026-03-21,1,Maharashtra,AURANGABAD,4,22,44,1,1,demo_generated
+2026-03-21,1,Maharashtra,AURANGABAD,5,39,34,1,1,demo_generated
+2026-03-21,1,Maharashtra,AURANGABAD,6,33,23,1,1,demo_generated
+2026-03-21,1,Maharashtra,AURANGABAD,7,28,19,1,1,demo_generated
+2026-03-21,1,Maharashtra,AURANGABAD,8,29,22,1,0,demo_generated
+2026-03-21,1,Maharashtra,NAGPUR,1,48,39,1,1,demo_generated
+2026-03-21,1,Maharashtra,NAGPUR,2,35,24,1,1,demo_generated
+2026-03-21,1,Maharashtra,NAGPUR,3,26,30,1,1,demo_generated
+2026-03-21,1,Maharashtra,NAGPUR,4,42,49,1,0,demo_generated
+2026-03-21,1,Maharashtra,NAGPUR,5,23,37,1,1,demo_generated
+2026-03-21,1,Maharashtra,NAGPUR,6,29,27,1,1,demo_generated
+2026-03-21,1,Maharashtra,NAGPUR,7,35,24,1,0,demo_generated
+2026-03-21,1,Maharashtra,NAGPUR,8,33,23,0,0,demo_generated
+2026-03-21,1,Maharashtra,SOLAPUR,1,30,38,1,1,demo_generated
+2026-03-21,1,Maharashtra,SOLAPUR,2,35,38,1,1,demo_generated
+2026-03-21,1,Maharashtra,SOLAPUR,3,29,37,1,1,demo_generated
+2026-03-21,1,Maharashtra,SOLAPUR,4,21,32,1,1,demo_generated
+2026-03-21,1,Maharashtra,SOLAPUR,5,40,17,1,1,demo_generated
+2026-03-21,1,Maharashtra,SOLAPUR,6,29,32,1,1,demo_generated
+2026-03-21,1,Maharashtra,SOLAPUR,7,43,26,1,1,demo_generated
+2026-03-21,1,Maharashtra,SOLAPUR,8,39,44,1,1,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,1,39,30,1,0,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,2,37,26,0,1,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,3,35,30,1,0,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,4,37,28,1,1,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,5,38,28,1,1,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,6,41,29,1,1,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,7,18,22,1,1,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,8,35,47,1,0,demo_generated
+2026-03-21,1,Gujarat,SURAT,1,41,12,0,1,demo_generated
+2026-03-21,1,Gujarat,SURAT,2,23,42,1,1,demo_generated
+2026-03-21,1,Gujarat,SURAT,3,40,52,0,1,demo_generated
+2026-03-21,1,Gujarat,SURAT,4,31,24,1,1,demo_generated
+2026-03-21,1,Gujarat,SURAT,5,35,27,1,0,demo_generated
+2026-03-21,1,Gujarat,SURAT,6,43,27,1,0,demo_generated
+2026-03-21,1,Gujarat,SURAT,7,32,23,1,1,demo_generated
+2026-03-21,1,Gujarat,SURAT,8,41,23,1,1,demo_generated
+2026-03-21,1,Gujarat,VADODARA,1,38,48,1,1,demo_generated
+2026-03-21,1,Gujarat,VADODARA,2,20,45,1,0,demo_generated
+2026-03-21,1,Gujarat,VADODARA,3,37,21,1,1,demo_generated
+2026-03-21,1,Gujarat,VADODARA,4,35,38,1,0,demo_generated
+2026-03-21,1,Gujarat,VADODARA,5,28,36,1,1,demo_generated
+2026-03-21,1,Gujarat,VADODARA,6,47,27,0,0,demo_generated
+2026-03-21,1,Gujarat,VADODARA,7,27,30,0,0,demo_generated
+2026-03-21,1,Gujarat,VADODARA,8,35,41,1,1,demo_generated
+2026-03-21,1,Gujarat,RAJKOT,1,33,28,1,1,demo_generated
+2026-03-21,1,Gujarat,RAJKOT,2,26,17,1,0,demo_generated
+2026-03-21,1,Gujarat,RAJKOT,3,24,20,1,1,demo_generated
+2026-03-21,1,Gujarat,RAJKOT,4,32,18,1,1,demo_generated
+2026-03-21,1,Gujarat,RAJKOT,5,13,31,0,1,demo_generated
+2026-03-21,1,Gujarat,RAJKOT,6,49,42,1,1,demo_generated
+2026-03-21,1,Gujarat,RAJKOT,7,32,22,1,0,demo_generated
+2026-03-21,1,Gujarat,RAJKOT,8,55,32,1,1,demo_generated
+2026-03-21,1,Gujarat,GANDHINAGAR,1,36,30,1,1,demo_generated
+2026-03-21,1,Gujarat,GANDHINAGAR,2,34,27,1,1,demo_generated
+2026-03-21,1,Gujarat,GANDHINAGAR,3,32,45,1,1,demo_generated
+2026-03-21,1,Gujarat,GANDHINAGAR,4,44,13,1,1,demo_generated
+2026-03-21,1,Gujarat,GANDHINAGAR,5,23,24,1,1,demo_generated
+2026-03-21,1,Gujarat,GANDHINAGAR,6,42,43,1,1,demo_generated
+2026-03-21,1,Gujarat,GANDHINAGAR,7,40,21,1,1,demo_generated
+2026-03-21,1,Gujarat,GANDHINAGAR,8,30,36,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,1,33,28,1,0,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,2,32,42,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,3,39,29,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,4,37,20,1,0,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,5,30,41,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,6,22,37,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,7,18,47,1,0,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,8,30,35,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,1,35,33,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,2,37,16,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,3,36,30,0,1,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,4,30,24,1,0,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,5,36,23,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,6,43,36,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,7,37,40,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,8,20,20,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,GWALIOR,1,39,25,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,GWALIOR,2,30,19,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,GWALIOR,3,27,41,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,GWALIOR,4,38,33,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,GWALIOR,5,30,33,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,GWALIOR,6,44,25,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,GWALIOR,7,34,47,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,GWALIOR,8,40,26,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,JABALPUR,1,39,17,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,JABALPUR,2,34,37,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,JABALPUR,3,38,37,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,JABALPUR,4,41,36,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,JABALPUR,5,38,33,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,JABALPUR,6,26,41,0,0,demo_generated
+2026-03-21,1,Madhya Pradesh,JABALPUR,7,34,38,1,0,demo_generated
+2026-03-21,1,Madhya Pradesh,JABALPUR,8,42,27,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,UJJAIN,1,31,29,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,UJJAIN,2,45,23,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,UJJAIN,3,46,33,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,UJJAIN,4,37,40,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,UJJAIN,5,35,41,0,1,demo_generated
+2026-03-21,1,Madhya Pradesh,UJJAIN,6,30,44,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,UJJAIN,7,31,45,1,1,demo_generated
+2026-03-21,1,Madhya Pradesh,UJJAIN,8,31,29,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,1,26,22,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,2,34,29,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,3,42,26,0,1,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,4,26,30,0,1,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,5,36,31,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,6,29,23,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,7,29,36,1,0,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,8,46,22,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,1,30,32,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,2,47,42,1,0,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,3,30,24,0,0,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,4,37,30,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,5,33,21,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,6,34,42,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,7,30,29,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,8,55,23,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,1,40,42,1,0,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,2,39,36,1,0,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,3,41,31,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,4,46,32,1,0,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,5,33,29,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,6,37,24,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,7,36,28,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,8,40,44,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,KANPUR,1,36,40,0,1,demo_generated
+2026-03-28,2,Uttar Pradesh,KANPUR,2,39,29,1,0,demo_generated
+2026-03-28,2,Uttar Pradesh,KANPUR,3,31,29,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,KANPUR,4,36,22,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,KANPUR,5,30,30,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,KANPUR,6,47,27,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,KANPUR,7,23,10,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,KANPUR,8,26,33,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,ALLAHABAD,1,24,34,0,1,demo_generated
+2026-03-28,2,Uttar Pradesh,ALLAHABAD,2,40,27,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,ALLAHABAD,3,22,22,0,1,demo_generated
+2026-03-28,2,Uttar Pradesh,ALLAHABAD,4,33,30,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,ALLAHABAD,5,24,38,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,ALLAHABAD,6,37,31,1,0,demo_generated
+2026-03-28,2,Uttar Pradesh,ALLAHABAD,7,40,37,1,1,demo_generated
+2026-03-28,2,Uttar Pradesh,ALLAHABAD,8,36,33,1,1,demo_generated
+2026-03-28,2,Bihar,PATNA,1,29,42,1,1,demo_generated
+2026-03-28,2,Bihar,PATNA,2,36,22,1,1,demo_generated
+2026-03-28,2,Bihar,PATNA,3,31,12,1,1,demo_generated
+2026-03-28,2,Bihar,PATNA,4,31,8,1,1,demo_generated
+2026-03-28,2,Bihar,PATNA,5,41,30,1,1,demo_generated
+2026-03-28,2,Bihar,PATNA,6,27,27,1,0,demo_generated
+2026-03-28,2,Bihar,PATNA,7,34,18,1,1,demo_generated
+2026-03-28,2,Bihar,PATNA,8,33,28,1,1,demo_generated
+2026-03-28,2,Bihar,GAYA,1,33,22,1,1,demo_generated
+2026-03-28,2,Bihar,GAYA,2,26,25,1,1,demo_generated
+2026-03-28,2,Bihar,GAYA,3,30,32,1,1,demo_generated
+2026-03-28,2,Bihar,GAYA,4,46,35,1,0,demo_generated
+2026-03-28,2,Bihar,GAYA,5,35,22,1,0,demo_generated
+2026-03-28,2,Bihar,GAYA,6,42,32,1,1,demo_generated
+2026-03-28,2,Bihar,GAYA,7,45,29,1,1,demo_generated
+2026-03-28,2,Bihar,GAYA,8,48,29,1,1,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,1,29,23,0,1,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,2,39,22,1,1,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,3,48,30,1,0,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,4,35,29,1,1,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,5,32,14,1,1,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,6,31,40,1,1,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,7,36,36,1,1,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,8,43,27,0,1,demo_generated
+2026-03-28,2,Bihar,BHAGALPUR,1,40,14,0,1,demo_generated
+2026-03-28,2,Bihar,BHAGALPUR,2,46,38,1,1,demo_generated
+2026-03-28,2,Bihar,BHAGALPUR,3,38,29,1,1,demo_generated
+2026-03-28,2,Bihar,BHAGALPUR,4,34,36,1,0,demo_generated
+2026-03-28,2,Bihar,BHAGALPUR,5,41,5,1,1,demo_generated
+2026-03-28,2,Bihar,BHAGALPUR,6,32,18,0,1,demo_generated
+2026-03-28,2,Bihar,BHAGALPUR,7,24,36,1,1,demo_generated
+2026-03-28,2,Bihar,BHAGALPUR,8,34,31,1,1,demo_generated
+2026-03-28,2,Bihar,DARBHANGA,1,35,17,1,0,demo_generated
+2026-03-28,2,Bihar,DARBHANGA,2,22,24,1,1,demo_generated
+2026-03-28,2,Bihar,DARBHANGA,3,32,24,1,1,demo_generated
+2026-03-28,2,Bihar,DARBHANGA,4,32,44,1,1,demo_generated
+2026-03-28,2,Bihar,DARBHANGA,5,43,29,1,1,demo_generated
+2026-03-28,2,Bihar,DARBHANGA,6,34,27,1,0,demo_generated
+2026-03-28,2,Bihar,DARBHANGA,7,40,27,1,1,demo_generated
+2026-03-28,2,Bihar,DARBHANGA,8,42,30,1,1,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,1,51,30,1,1,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,2,43,22,1,1,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,3,30,49,1,1,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,4,41,36,0,1,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,5,54,31,1,1,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,6,43,42,1,1,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,7,48,21,1,1,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,8,34,34,0,1,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,1,47,36,0,1,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,2,44,20,1,1,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,3,32,44,1,1,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,4,33,32,1,1,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,5,47,24,1,1,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,6,29,20,1,1,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,7,48,41,1,1,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,8,42,29,1,1,demo_generated
+2026-03-28,2,Rajasthan,UDAIPUR,1,23,17,1,1,demo_generated
+2026-03-28,2,Rajasthan,UDAIPUR,2,46,37,1,1,demo_generated
+2026-03-28,2,Rajasthan,UDAIPUR,3,41,34,1,0,demo_generated
+2026-03-28,2,Rajasthan,UDAIPUR,4,28,29,1,1,demo_generated
+2026-03-28,2,Rajasthan,UDAIPUR,5,27,22,1,1,demo_generated
+2026-03-28,2,Rajasthan,UDAIPUR,6,42,17,1,1,demo_generated
+2026-03-28,2,Rajasthan,UDAIPUR,7,27,29,1,1,demo_generated
+2026-03-28,2,Rajasthan,UDAIPUR,8,35,19,1,1,demo_generated
+2026-03-28,2,Rajasthan,AJMER,1,22,35,0,1,demo_generated
+2026-03-28,2,Rajasthan,AJMER,2,36,44,1,1,demo_generated
+2026-03-28,2,Rajasthan,AJMER,3,35,36,1,0,demo_generated
+2026-03-28,2,Rajasthan,AJMER,4,29,26,1,1,demo_generated
+2026-03-28,2,Rajasthan,AJMER,5,25,25,1,1,demo_generated
+2026-03-28,2,Rajasthan,AJMER,6,32,43,1,1,demo_generated
+2026-03-28,2,Rajasthan,AJMER,7,28,51,1,1,demo_generated
+2026-03-28,2,Rajasthan,AJMER,8,40,35,1,1,demo_generated
+2026-03-28,2,Rajasthan,KOTA,1,35,30,1,1,demo_generated
+2026-03-28,2,Rajasthan,KOTA,2,30,19,1,1,demo_generated
+2026-03-28,2,Rajasthan,KOTA,3,28,46,1,1,demo_generated
+2026-03-28,2,Rajasthan,KOTA,4,39,46,1,1,demo_generated
+2026-03-28,2,Rajasthan,KOTA,5,30,22,1,1,demo_generated
+2026-03-28,2,Rajasthan,KOTA,6,35,25,1,1,demo_generated
+2026-03-28,2,Rajasthan,KOTA,7,36,17,0,1,demo_generated
+2026-03-28,2,Rajasthan,KOTA,8,19,35,1,1,demo_generated
+2026-03-28,2,Maharashtra,PUNE,1,48,35,1,1,demo_generated
+2026-03-28,2,Maharashtra,PUNE,2,39,32,1,1,demo_generated
+2026-03-28,2,Maharashtra,PUNE,3,36,19,1,1,demo_generated
+2026-03-28,2,Maharashtra,PUNE,4,29,43,1,1,demo_generated
+2026-03-28,2,Maharashtra,PUNE,5,26,29,0,0,demo_generated
+2026-03-28,2,Maharashtra,PUNE,6,44,33,1,1,demo_generated
+2026-03-28,2,Maharashtra,PUNE,7,36,29,1,0,demo_generated
+2026-03-28,2,Maharashtra,PUNE,8,40,40,1,1,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,1,28,20,1,0,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,2,20,36,1,1,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,3,38,54,0,1,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,4,35,31,1,0,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,5,37,34,1,1,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,6,33,25,1,1,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,7,35,31,1,0,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,8,34,39,1,1,demo_generated
+2026-03-28,2,Maharashtra,AURANGABAD,1,35,20,1,1,demo_generated
+2026-03-28,2,Maharashtra,AURANGABAD,2,30,30,1,1,demo_generated
+2026-03-28,2,Maharashtra,AURANGABAD,3,35,36,0,1,demo_generated
+2026-03-28,2,Maharashtra,AURANGABAD,4,35,14,1,1,demo_generated
+2026-03-28,2,Maharashtra,AURANGABAD,5,25,37,1,1,demo_generated
+2026-03-28,2,Maharashtra,AURANGABAD,6,33,45,1,0,demo_generated
+2026-03-28,2,Maharashtra,AURANGABAD,7,36,28,0,1,demo_generated
+2026-03-28,2,Maharashtra,AURANGABAD,8,30,29,1,1,demo_generated
+2026-03-28,2,Maharashtra,NAGPUR,1,36,32,1,1,demo_generated
+2026-03-28,2,Maharashtra,NAGPUR,2,42,18,1,1,demo_generated
+2026-03-28,2,Maharashtra,NAGPUR,3,24,29,1,1,demo_generated
+2026-03-28,2,Maharashtra,NAGPUR,4,39,38,1,1,demo_generated
+2026-03-28,2,Maharashtra,NAGPUR,5,30,8,1,1,demo_generated
+2026-03-28,2,Maharashtra,NAGPUR,6,30,35,1,1,demo_generated
+2026-03-28,2,Maharashtra,NAGPUR,7,34,37,1,1,demo_generated
+2026-03-28,2,Maharashtra,NAGPUR,8,44,30,1,1,demo_generated
+2026-03-28,2,Maharashtra,SOLAPUR,1,31,24,1,1,demo_generated
+2026-03-28,2,Maharashtra,SOLAPUR,2,24,17,1,1,demo_generated
+2026-03-28,2,Maharashtra,SOLAPUR,3,29,41,1,1,demo_generated
+2026-03-28,2,Maharashtra,SOLAPUR,4,40,27,1,0,demo_generated
+2026-03-28,2,Maharashtra,SOLAPUR,5,52,26,1,0,demo_generated
+2026-03-28,2,Maharashtra,SOLAPUR,6,45,46,1,1,demo_generated
+2026-03-28,2,Maharashtra,SOLAPUR,7,38,25,1,1,demo_generated
+2026-03-28,2,Maharashtra,SOLAPUR,8,32,33,1,1,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,1,24,23,1,1,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,2,26,36,1,1,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,3,44,38,1,1,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,4,42,25,1,1,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,5,32,29,1,1,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,6,38,51,1,0,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,7,29,40,0,1,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,8,47,36,1,1,demo_generated
+2026-03-28,2,Gujarat,SURAT,1,32,24,0,1,demo_generated
+2026-03-28,2,Gujarat,SURAT,2,26,14,1,1,demo_generated
+2026-03-28,2,Gujarat,SURAT,3,33,29,0,1,demo_generated
+2026-03-28,2,Gujarat,SURAT,4,41,26,1,0,demo_generated
+2026-03-28,2,Gujarat,SURAT,5,33,34,1,1,demo_generated
+2026-03-28,2,Gujarat,SURAT,6,38,38,1,1,demo_generated
+2026-03-28,2,Gujarat,SURAT,7,36,20,0,0,demo_generated
+2026-03-28,2,Gujarat,SURAT,8,38,26,1,1,demo_generated
+2026-03-28,2,Gujarat,VADODARA,1,44,32,1,1,demo_generated
+2026-03-28,2,Gujarat,VADODARA,2,36,55,1,1,demo_generated
+2026-03-28,2,Gujarat,VADODARA,3,41,35,1,1,demo_generated
+2026-03-28,2,Gujarat,VADODARA,4,33,20,1,1,demo_generated
+2026-03-28,2,Gujarat,VADODARA,5,33,24,1,1,demo_generated
+2026-03-28,2,Gujarat,VADODARA,6,48,35,1,1,demo_generated
+2026-03-28,2,Gujarat,VADODARA,7,44,26,1,1,demo_generated
+2026-03-28,2,Gujarat,VADODARA,8,28,37,0,1,demo_generated
+2026-03-28,2,Gujarat,RAJKOT,1,27,28,1,0,demo_generated
+2026-03-28,2,Gujarat,RAJKOT,2,48,28,0,1,demo_generated
+2026-03-28,2,Gujarat,RAJKOT,3,23,16,1,1,demo_generated
+2026-03-28,2,Gujarat,RAJKOT,4,22,43,1,1,demo_generated
+2026-03-28,2,Gujarat,RAJKOT,5,30,55,1,1,demo_generated
+2026-03-28,2,Gujarat,RAJKOT,6,47,50,1,1,demo_generated
+2026-03-28,2,Gujarat,RAJKOT,7,43,37,1,0,demo_generated
+2026-03-28,2,Gujarat,RAJKOT,8,28,31,1,1,demo_generated
+2026-03-28,2,Gujarat,GANDHINAGAR,1,40,40,1,1,demo_generated
+2026-03-28,2,Gujarat,GANDHINAGAR,2,25,30,1,1,demo_generated
+2026-03-28,2,Gujarat,GANDHINAGAR,3,34,30,1,1,demo_generated
+2026-03-28,2,Gujarat,GANDHINAGAR,4,26,48,1,1,demo_generated
+2026-03-28,2,Gujarat,GANDHINAGAR,5,33,23,1,1,demo_generated
+2026-03-28,2,Gujarat,GANDHINAGAR,6,50,45,1,1,demo_generated
+2026-03-28,2,Gujarat,GANDHINAGAR,7,36,16,1,0,demo_generated
+2026-03-28,2,Gujarat,GANDHINAGAR,8,31,17,0,0,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,1,39,27,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,2,34,47,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,3,30,36,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,4,41,43,0,1,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,5,34,30,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,6,33,35,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,7,46,29,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,8,15,39,1,0,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,1,35,36,0,1,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,2,22,27,1,0,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,3,41,20,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,4,38,31,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,5,29,24,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,6,26,32,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,7,36,28,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,8,26,5,1,0,demo_generated
+2026-03-28,2,Madhya Pradesh,GWALIOR,1,38,40,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,GWALIOR,2,39,50,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,GWALIOR,3,33,44,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,GWALIOR,4,29,24,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,GWALIOR,5,35,46,1,0,demo_generated
+2026-03-28,2,Madhya Pradesh,GWALIOR,6,32,17,0,1,demo_generated
+2026-03-28,2,Madhya Pradesh,GWALIOR,7,42,31,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,GWALIOR,8,37,25,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,JABALPUR,1,35,19,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,JABALPUR,2,49,41,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,JABALPUR,3,35,39,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,JABALPUR,4,29,41,1,0,demo_generated
+2026-03-28,2,Madhya Pradesh,JABALPUR,5,32,28,1,0,demo_generated
+2026-03-28,2,Madhya Pradesh,JABALPUR,6,27,35,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,JABALPUR,7,35,44,0,1,demo_generated
+2026-03-28,2,Madhya Pradesh,JABALPUR,8,26,35,0,1,demo_generated
+2026-03-28,2,Madhya Pradesh,UJJAIN,1,44,55,1,0,demo_generated
+2026-03-28,2,Madhya Pradesh,UJJAIN,2,36,28,1,0,demo_generated
+2026-03-28,2,Madhya Pradesh,UJJAIN,3,36,43,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,UJJAIN,4,45,30,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,UJJAIN,5,45,31,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,UJJAIN,6,41,36,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,UJJAIN,7,31,23,1,1,demo_generated
+2026-03-28,2,Madhya Pradesh,UJJAIN,8,44,45,1,0,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,1,38,27,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,2,25,36,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,3,37,25,1,0,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,4,41,16,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,5,26,22,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,6,39,29,0,1,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,7,40,36,1,0,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,8,40,43,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,1,43,26,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,2,30,27,1,0,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,3,40,24,1,0,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,4,40,32,1,0,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,5,27,36,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,6,37,42,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,7,34,25,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,8,26,19,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,1,42,41,0,1,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,2,34,26,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,3,35,36,1,0,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,4,27,29,1,0,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,5,42,31,0,1,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,6,13,33,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,7,39,38,0,1,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,8,47,37,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,KANPUR,1,35,14,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,KANPUR,2,52,26,0,1,demo_generated
+2026-04-04,3,Uttar Pradesh,KANPUR,3,35,41,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,KANPUR,4,29,17,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,KANPUR,5,31,22,0,1,demo_generated
+2026-04-04,3,Uttar Pradesh,KANPUR,6,23,27,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,KANPUR,7,35,15,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,KANPUR,8,32,22,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,ALLAHABAD,1,19,29,0,1,demo_generated
+2026-04-04,3,Uttar Pradesh,ALLAHABAD,2,36,22,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,ALLAHABAD,3,43,28,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,ALLAHABAD,4,29,15,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,ALLAHABAD,5,37,31,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,ALLAHABAD,6,31,29,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,ALLAHABAD,7,47,35,1,1,demo_generated
+2026-04-04,3,Uttar Pradesh,ALLAHABAD,8,17,22,1,1,demo_generated
+2026-04-04,3,Bihar,PATNA,1,33,28,1,1,demo_generated
+2026-04-04,3,Bihar,PATNA,2,36,30,1,1,demo_generated
+2026-04-04,3,Bihar,PATNA,3,34,28,1,0,demo_generated
+2026-04-04,3,Bihar,PATNA,4,42,29,1,1,demo_generated
+2026-04-04,3,Bihar,PATNA,5,25,28,1,1,demo_generated
+2026-04-04,3,Bihar,PATNA,6,33,13,1,1,demo_generated
+2026-04-04,3,Bihar,PATNA,7,36,19,1,1,demo_generated
+2026-04-04,3,Bihar,PATNA,8,42,30,1,1,demo_generated
+2026-04-04,3,Bihar,GAYA,1,25,35,1,1,demo_generated
+2026-04-04,3,Bihar,GAYA,2,46,25,1,0,demo_generated
+2026-04-04,3,Bihar,GAYA,3,33,34,1,1,demo_generated
+2026-04-04,3,Bihar,GAYA,4,45,14,1,1,demo_generated
+2026-04-04,3,Bihar,GAYA,5,26,24,1,1,demo_generated
+2026-04-04,3,Bihar,GAYA,6,32,34,1,1,demo_generated
+2026-04-04,3,Bihar,GAYA,7,45,38,1,1,demo_generated
+2026-04-04,3,Bihar,GAYA,8,21,21,1,1,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,1,25,22,0,1,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,2,28,30,1,1,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,3,39,28,1,1,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,4,34,24,1,1,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,5,32,40,1,0,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,6,40,24,1,0,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,7,34,31,1,1,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,8,25,29,1,1,demo_generated
+2026-04-04,3,Bihar,BHAGALPUR,1,40,31,1,1,demo_generated
+2026-04-04,3,Bihar,BHAGALPUR,2,28,22,1,1,demo_generated
+2026-04-04,3,Bihar,BHAGALPUR,3,19,33,1,1,demo_generated
+2026-04-04,3,Bihar,BHAGALPUR,4,51,20,1,1,demo_generated
+2026-04-04,3,Bihar,BHAGALPUR,5,43,43,1,1,demo_generated
+2026-04-04,3,Bihar,BHAGALPUR,6,31,27,1,1,demo_generated
+2026-04-04,3,Bihar,BHAGALPUR,7,37,31,1,0,demo_generated
+2026-04-04,3,Bihar,BHAGALPUR,8,37,24,1,1,demo_generated
+2026-04-04,3,Bihar,DARBHANGA,1,39,24,0,1,demo_generated
+2026-04-04,3,Bihar,DARBHANGA,2,38,27,1,0,demo_generated
+2026-04-04,3,Bihar,DARBHANGA,3,20,37,1,1,demo_generated
+2026-04-04,3,Bihar,DARBHANGA,4,30,38,1,1,demo_generated
+2026-04-04,3,Bihar,DARBHANGA,5,43,29,0,1,demo_generated
+2026-04-04,3,Bihar,DARBHANGA,6,39,32,1,0,demo_generated
+2026-04-04,3,Bihar,DARBHANGA,7,33,26,1,1,demo_generated
+2026-04-04,3,Bihar,DARBHANGA,8,39,4,1,0,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,1,34,28,1,1,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,2,28,35,1,1,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,3,29,39,1,0,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,4,42,36,1,1,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,5,40,36,1,1,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,6,41,38,1,1,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,7,37,41,1,1,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,8,33,25,1,1,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,1,28,29,1,0,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,2,19,33,1,1,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,3,40,40,1,1,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,4,22,25,1,1,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,5,41,30,1,1,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,6,40,20,0,1,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,7,45,20,1,0,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,8,10,33,1,1,demo_generated
+2026-04-04,3,Rajasthan,UDAIPUR,1,36,27,1,1,demo_generated
+2026-04-04,3,Rajasthan,UDAIPUR,2,38,36,1,1,demo_generated
+2026-04-04,3,Rajasthan,UDAIPUR,3,38,27,1,1,demo_generated
+2026-04-04,3,Rajasthan,UDAIPUR,4,29,28,1,1,demo_generated
+2026-04-04,3,Rajasthan,UDAIPUR,5,28,42,1,1,demo_generated
+2026-04-04,3,Rajasthan,UDAIPUR,6,32,33,1,1,demo_generated
+2026-04-04,3,Rajasthan,UDAIPUR,7,41,24,1,1,demo_generated
+2026-04-04,3,Rajasthan,UDAIPUR,8,24,24,1,1,demo_generated
+2026-04-04,3,Rajasthan,AJMER,1,37,33,1,0,demo_generated
+2026-04-04,3,Rajasthan,AJMER,2,38,31,1,1,demo_generated
+2026-04-04,3,Rajasthan,AJMER,3,15,30,1,1,demo_generated
+2026-04-04,3,Rajasthan,AJMER,4,42,43,0,1,demo_generated
+2026-04-04,3,Rajasthan,AJMER,5,35,33,1,1,demo_generated
+2026-04-04,3,Rajasthan,AJMER,6,39,42,1,1,demo_generated
+2026-04-04,3,Rajasthan,AJMER,7,35,37,1,1,demo_generated
+2026-04-04,3,Rajasthan,AJMER,8,30,21,1,1,demo_generated
+2026-04-04,3,Rajasthan,KOTA,1,31,45,1,0,demo_generated
+2026-04-04,3,Rajasthan,KOTA,2,39,21,1,0,demo_generated
+2026-04-04,3,Rajasthan,KOTA,3,40,22,1,1,demo_generated
+2026-04-04,3,Rajasthan,KOTA,4,38,23,1,1,demo_generated
+2026-04-04,3,Rajasthan,KOTA,5,25,46,1,1,demo_generated
+2026-04-04,3,Rajasthan,KOTA,6,32,37,1,1,demo_generated
+2026-04-04,3,Rajasthan,KOTA,7,35,22,1,0,demo_generated
+2026-04-04,3,Rajasthan,KOTA,8,33,23,1,1,demo_generated
+2026-04-04,3,Maharashtra,PUNE,1,54,39,1,1,demo_generated
+2026-04-04,3,Maharashtra,PUNE,2,35,36,1,1,demo_generated
+2026-04-04,3,Maharashtra,PUNE,3,40,38,1,0,demo_generated
+2026-04-04,3,Maharashtra,PUNE,4,40,37,1,1,demo_generated
+2026-04-04,3,Maharashtra,PUNE,5,35,45,1,1,demo_generated
+2026-04-04,3,Maharashtra,PUNE,6,36,32,1,1,demo_generated
+2026-04-04,3,Maharashtra,PUNE,7,36,34,1,1,demo_generated
+2026-04-04,3,Maharashtra,PUNE,8,22,24,1,1,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,1,34,17,1,1,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,2,35,34,0,1,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,3,24,26,1,1,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,4,45,37,1,1,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,5,38,42,1,1,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,6,28,20,0,1,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,7,42,31,1,1,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,8,28,50,1,0,demo_generated
+2026-04-04,3,Maharashtra,AURANGABAD,1,22,33,1,1,demo_generated
+2026-04-04,3,Maharashtra,AURANGABAD,2,33,28,1,1,demo_generated
+2026-04-04,3,Maharashtra,AURANGABAD,3,17,45,1,1,demo_generated
+2026-04-04,3,Maharashtra,AURANGABAD,4,23,29,1,0,demo_generated
+2026-04-04,3,Maharashtra,AURANGABAD,5,31,37,0,1,demo_generated
+2026-04-04,3,Maharashtra,AURANGABAD,6,22,36,1,1,demo_generated
+2026-04-04,3,Maharashtra,AURANGABAD,7,36,26,0,1,demo_generated
+2026-04-04,3,Maharashtra,AURANGABAD,8,38,32,1,1,demo_generated
+2026-04-04,3,Maharashtra,NAGPUR,1,49,30,1,1,demo_generated
+2026-04-04,3,Maharashtra,NAGPUR,2,27,36,1,1,demo_generated
+2026-04-04,3,Maharashtra,NAGPUR,3,32,31,1,1,demo_generated
+2026-04-04,3,Maharashtra,NAGPUR,4,24,37,1,0,demo_generated
+2026-04-04,3,Maharashtra,NAGPUR,5,31,34,1,1,demo_generated
+2026-04-04,3,Maharashtra,NAGPUR,6,51,29,1,1,demo_generated
+2026-04-04,3,Maharashtra,NAGPUR,7,40,30,0,1,demo_generated
+2026-04-04,3,Maharashtra,NAGPUR,8,29,43,1,1,demo_generated
+2026-04-04,3,Maharashtra,SOLAPUR,1,20,41,1,1,demo_generated
+2026-04-04,3,Maharashtra,SOLAPUR,2,19,40,1,1,demo_generated
+2026-04-04,3,Maharashtra,SOLAPUR,3,35,23,1,1,demo_generated
+2026-04-04,3,Maharashtra,SOLAPUR,4,31,38,0,1,demo_generated
+2026-04-04,3,Maharashtra,SOLAPUR,5,50,17,1,1,demo_generated
+2026-04-04,3,Maharashtra,SOLAPUR,6,27,20,0,0,demo_generated
+2026-04-04,3,Maharashtra,SOLAPUR,7,33,40,1,1,demo_generated
+2026-04-04,3,Maharashtra,SOLAPUR,8,23,31,1,1,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,1,42,28,1,1,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,2,14,33,1,0,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,3,44,22,1,1,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,4,20,34,1,1,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,5,37,27,1,1,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,6,29,32,0,1,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,7,26,22,1,1,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,8,40,21,1,0,demo_generated
+2026-04-04,3,Gujarat,SURAT,1,21,25,1,1,demo_generated
+2026-04-04,3,Gujarat,SURAT,2,31,36,1,0,demo_generated
+2026-04-04,3,Gujarat,SURAT,3,30,44,1,1,demo_generated
+2026-04-04,3,Gujarat,SURAT,4,35,24,1,1,demo_generated
+2026-04-04,3,Gujarat,SURAT,5,38,44,0,1,demo_generated
+2026-04-04,3,Gujarat,SURAT,6,40,18,1,1,demo_generated
+2026-04-04,3,Gujarat,SURAT,7,31,34,1,1,demo_generated
+2026-04-04,3,Gujarat,SURAT,8,39,30,1,1,demo_generated
+2026-04-04,3,Gujarat,VADODARA,1,32,48,0,1,demo_generated
+2026-04-04,3,Gujarat,VADODARA,2,40,35,1,1,demo_generated
+2026-04-04,3,Gujarat,VADODARA,3,30,22,1,0,demo_generated
+2026-04-04,3,Gujarat,VADODARA,4,38,39,1,1,demo_generated
+2026-04-04,3,Gujarat,VADODARA,5,34,38,1,1,demo_generated
+2026-04-04,3,Gujarat,VADODARA,6,40,39,1,1,demo_generated
+2026-04-04,3,Gujarat,VADODARA,7,22,28,1,1,demo_generated
+2026-04-04,3,Gujarat,VADODARA,8,39,32,1,1,demo_generated
+2026-04-04,3,Gujarat,RAJKOT,1,40,35,1,1,demo_generated
+2026-04-04,3,Gujarat,RAJKOT,2,17,41,1,0,demo_generated
+2026-04-04,3,Gujarat,RAJKOT,3,31,24,1,0,demo_generated
+2026-04-04,3,Gujarat,RAJKOT,4,43,37,1,1,demo_generated
+2026-04-04,3,Gujarat,RAJKOT,5,44,34,0,1,demo_generated
+2026-04-04,3,Gujarat,RAJKOT,6,32,33,1,1,demo_generated
+2026-04-04,3,Gujarat,RAJKOT,7,26,19,1,1,demo_generated
+2026-04-04,3,Gujarat,RAJKOT,8,29,45,1,1,demo_generated
+2026-04-04,3,Gujarat,GANDHINAGAR,1,30,16,1,1,demo_generated
+2026-04-04,3,Gujarat,GANDHINAGAR,2,33,27,0,1,demo_generated
+2026-04-04,3,Gujarat,GANDHINAGAR,3,43,45,1,1,demo_generated
+2026-04-04,3,Gujarat,GANDHINAGAR,4,31,34,1,1,demo_generated
+2026-04-04,3,Gujarat,GANDHINAGAR,5,37,31,1,1,demo_generated
+2026-04-04,3,Gujarat,GANDHINAGAR,6,33,23,1,1,demo_generated
+2026-04-04,3,Gujarat,GANDHINAGAR,7,20,23,1,1,demo_generated
+2026-04-04,3,Gujarat,GANDHINAGAR,8,34,18,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,1,36,32,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,2,30,29,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,3,24,39,1,0,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,4,41,21,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,5,26,23,1,0,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,6,39,35,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,7,43,42,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,8,22,36,1,0,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,1,43,28,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,2,34,30,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,3,33,39,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,4,48,44,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,5,30,34,1,0,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,6,28,25,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,7,34,25,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,8,30,34,0,0,demo_generated
+2026-04-04,3,Madhya Pradesh,GWALIOR,1,38,36,0,1,demo_generated
+2026-04-04,3,Madhya Pradesh,GWALIOR,2,38,20,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,GWALIOR,3,28,32,1,0,demo_generated
+2026-04-04,3,Madhya Pradesh,GWALIOR,4,43,53,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,GWALIOR,5,37,38,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,GWALIOR,6,24,38,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,GWALIOR,7,50,25,0,1,demo_generated
+2026-04-04,3,Madhya Pradesh,GWALIOR,8,30,39,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,JABALPUR,1,35,14,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,JABALPUR,2,31,44,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,JABALPUR,3,32,29,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,JABALPUR,4,41,35,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,JABALPUR,5,32,26,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,JABALPUR,6,58,43,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,JABALPUR,7,38,36,1,0,demo_generated
+2026-04-04,3,Madhya Pradesh,JABALPUR,8,33,34,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,UJJAIN,1,33,24,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,UJJAIN,2,37,29,1,0,demo_generated
+2026-04-04,3,Madhya Pradesh,UJJAIN,3,38,37,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,UJJAIN,4,38,23,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,UJJAIN,5,31,29,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,UJJAIN,6,42,40,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,UJJAIN,7,29,20,1,1,demo_generated
+2026-04-04,3,Madhya Pradesh,UJJAIN,8,54,35,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,1,23,22,1,0,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,2,43,44,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,3,49,30,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,4,13,28,0,1,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,5,26,28,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,6,27,24,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,7,41,25,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,8,32,27,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,1,55,18,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,2,37,41,1,0,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,3,34,37,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,4,24,26,1,0,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,5,28,27,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,6,34,28,1,0,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,7,41,9,0,1,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,8,30,29,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,1,19,32,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,2,30,26,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,3,42,37,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,4,40,18,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,5,39,33,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,6,38,39,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,7,35,38,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,8,46,33,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,KANPUR,1,37,31,0,1,demo_generated
+2026-04-11,4,Uttar Pradesh,KANPUR,2,48,36,0,1,demo_generated
+2026-04-11,4,Uttar Pradesh,KANPUR,3,26,30,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,KANPUR,4,28,22,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,KANPUR,5,32,16,0,1,demo_generated
+2026-04-11,4,Uttar Pradesh,KANPUR,6,27,39,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,KANPUR,7,29,34,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,KANPUR,8,36,31,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,ALLAHABAD,1,39,20,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,ALLAHABAD,2,41,17,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,ALLAHABAD,3,29,32,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,ALLAHABAD,4,26,12,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,ALLAHABAD,5,37,14,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,ALLAHABAD,6,40,25,0,1,demo_generated
+2026-04-11,4,Uttar Pradesh,ALLAHABAD,7,37,29,1,1,demo_generated
+2026-04-11,4,Uttar Pradesh,ALLAHABAD,8,41,32,1,0,demo_generated
+2026-04-11,4,Bihar,PATNA,1,26,25,1,1,demo_generated
+2026-04-11,4,Bihar,PATNA,2,37,38,1,1,demo_generated
+2026-04-11,4,Bihar,PATNA,3,39,37,1,1,demo_generated
+2026-04-11,4,Bihar,PATNA,4,38,36,1,1,demo_generated
+2026-04-11,4,Bihar,PATNA,5,36,36,1,0,demo_generated
+2026-04-11,4,Bihar,PATNA,6,32,40,1,1,demo_generated
+2026-04-11,4,Bihar,PATNA,7,38,16,0,0,demo_generated
+2026-04-11,4,Bihar,PATNA,8,37,11,1,0,demo_generated
+2026-04-11,4,Bihar,GAYA,1,40,34,1,1,demo_generated
+2026-04-11,4,Bihar,GAYA,2,50,23,1,1,demo_generated
+2026-04-11,4,Bihar,GAYA,3,50,28,1,1,demo_generated
+2026-04-11,4,Bihar,GAYA,4,29,23,1,1,demo_generated
+2026-04-11,4,Bihar,GAYA,5,39,21,1,1,demo_generated
+2026-04-11,4,Bihar,GAYA,6,32,30,1,1,demo_generated
+2026-04-11,4,Bihar,GAYA,7,47,34,1,1,demo_generated
+2026-04-11,4,Bihar,GAYA,8,35,32,1,1,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,1,36,18,1,0,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,2,49,40,1,1,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,3,34,23,1,1,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,4,25,32,1,0,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,5,40,21,1,1,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,6,37,34,0,1,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,7,30,26,0,1,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,8,33,22,1,1,demo_generated
+2026-04-11,4,Bihar,BHAGALPUR,1,33,15,1,1,demo_generated
+2026-04-11,4,Bihar,BHAGALPUR,2,32,25,0,1,demo_generated
+2026-04-11,4,Bihar,BHAGALPUR,3,34,31,1,1,demo_generated
+2026-04-11,4,Bihar,BHAGALPUR,4,25,19,1,1,demo_generated
+2026-04-11,4,Bihar,BHAGALPUR,5,28,17,1,1,demo_generated
+2026-04-11,4,Bihar,BHAGALPUR,6,39,22,1,1,demo_generated
+2026-04-11,4,Bihar,BHAGALPUR,7,34,21,1,1,demo_generated
+2026-04-11,4,Bihar,BHAGALPUR,8,32,29,1,1,demo_generated
+2026-04-11,4,Bihar,DARBHANGA,1,37,19,1,1,demo_generated
+2026-04-11,4,Bihar,DARBHANGA,2,34,21,1,0,demo_generated
+2026-04-11,4,Bihar,DARBHANGA,3,34,22,1,1,demo_generated
+2026-04-11,4,Bihar,DARBHANGA,4,49,34,1,0,demo_generated
+2026-04-11,4,Bihar,DARBHANGA,5,38,12,1,0,demo_generated
+2026-04-11,4,Bihar,DARBHANGA,6,32,34,1,1,demo_generated
+2026-04-11,4,Bihar,DARBHANGA,7,34,41,1,0,demo_generated
+2026-04-11,4,Bihar,DARBHANGA,8,42,24,1,1,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,1,47,29,1,1,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,2,50,46,1,1,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,3,37,18,1,1,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,4,36,22,1,1,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,5,30,27,1,1,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,6,26,33,1,1,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,7,29,29,1,0,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,8,30,36,1,1,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,1,38,29,1,1,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,2,39,43,1,1,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,3,18,26,1,1,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,4,27,25,1,0,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,5,17,12,1,1,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,6,13,27,1,0,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,7,30,44,1,1,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,8,36,12,1,0,demo_generated
+2026-04-11,4,Rajasthan,UDAIPUR,1,39,67,1,1,demo_generated
+2026-04-11,4,Rajasthan,UDAIPUR,2,18,47,1,1,demo_generated
+2026-04-11,4,Rajasthan,UDAIPUR,3,34,28,1,1,demo_generated
+2026-04-11,4,Rajasthan,UDAIPUR,4,30,34,1,1,demo_generated
+2026-04-11,4,Rajasthan,UDAIPUR,5,31,21,1,1,demo_generated
+2026-04-11,4,Rajasthan,UDAIPUR,6,30,35,1,1,demo_generated
+2026-04-11,4,Rajasthan,UDAIPUR,7,40,48,0,1,demo_generated
+2026-04-11,4,Rajasthan,UDAIPUR,8,35,43,1,1,demo_generated
+2026-04-11,4,Rajasthan,AJMER,1,33,31,0,1,demo_generated
+2026-04-11,4,Rajasthan,AJMER,2,34,33,1,1,demo_generated
+2026-04-11,4,Rajasthan,AJMER,3,41,27,0,0,demo_generated
+2026-04-11,4,Rajasthan,AJMER,4,27,40,1,0,demo_generated
+2026-04-11,4,Rajasthan,AJMER,5,42,45,0,1,demo_generated
+2026-04-11,4,Rajasthan,AJMER,6,30,29,1,1,demo_generated
+2026-04-11,4,Rajasthan,AJMER,7,42,27,0,1,demo_generated
+2026-04-11,4,Rajasthan,AJMER,8,40,30,1,1,demo_generated
+2026-04-11,4,Rajasthan,KOTA,1,37,21,1,0,demo_generated
+2026-04-11,4,Rajasthan,KOTA,2,35,5,1,1,demo_generated
+2026-04-11,4,Rajasthan,KOTA,3,44,38,1,1,demo_generated
+2026-04-11,4,Rajasthan,KOTA,4,27,47,1,0,demo_generated
+2026-04-11,4,Rajasthan,KOTA,5,44,22,1,1,demo_generated
+2026-04-11,4,Rajasthan,KOTA,6,30,22,1,0,demo_generated
+2026-04-11,4,Rajasthan,KOTA,7,37,26,1,1,demo_generated
+2026-04-11,4,Rajasthan,KOTA,8,19,31,1,1,demo_generated
+2026-04-11,4,Maharashtra,PUNE,1,42,32,1,1,demo_generated
+2026-04-11,4,Maharashtra,PUNE,2,39,33,1,1,demo_generated
+2026-04-11,4,Maharashtra,PUNE,3,40,34,1,1,demo_generated
+2026-04-11,4,Maharashtra,PUNE,4,34,32,1,1,demo_generated
+2026-04-11,4,Maharashtra,PUNE,5,47,37,1,1,demo_generated
+2026-04-11,4,Maharashtra,PUNE,6,27,32,1,1,demo_generated
+2026-04-11,4,Maharashtra,PUNE,7,37,30,1,0,demo_generated
+2026-04-11,4,Maharashtra,PUNE,8,19,24,1,1,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,1,31,48,1,1,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,2,38,18,1,0,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,3,34,43,1,1,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,4,30,41,1,1,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,5,22,6,1,1,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,6,44,27,1,1,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,7,20,28,0,1,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,8,36,36,1,1,demo_generated
+2026-04-11,4,Maharashtra,AURANGABAD,1,15,26,1,1,demo_generated
+2026-04-11,4,Maharashtra,AURANGABAD,2,35,36,1,1,demo_generated
+2026-04-11,4,Maharashtra,AURANGABAD,3,27,30,1,0,demo_generated
+2026-04-11,4,Maharashtra,AURANGABAD,4,30,34,1,1,demo_generated
+2026-04-11,4,Maharashtra,AURANGABAD,5,44,28,1,1,demo_generated
+2026-04-11,4,Maharashtra,AURANGABAD,6,24,25,1,1,demo_generated
+2026-04-11,4,Maharashtra,AURANGABAD,7,48,24,1,1,demo_generated
+2026-04-11,4,Maharashtra,AURANGABAD,8,25,28,1,0,demo_generated
+2026-04-11,4,Maharashtra,NAGPUR,1,34,27,1,0,demo_generated
+2026-04-11,4,Maharashtra,NAGPUR,2,22,34,1,1,demo_generated
+2026-04-11,4,Maharashtra,NAGPUR,3,36,38,1,1,demo_generated
+2026-04-11,4,Maharashtra,NAGPUR,4,36,46,1,1,demo_generated
+2026-04-11,4,Maharashtra,NAGPUR,5,41,36,1,0,demo_generated
+2026-04-11,4,Maharashtra,NAGPUR,6,44,33,1,1,demo_generated
+2026-04-11,4,Maharashtra,NAGPUR,7,33,34,1,1,demo_generated
+2026-04-11,4,Maharashtra,NAGPUR,8,19,33,1,1,demo_generated
+2026-04-11,4,Maharashtra,SOLAPUR,1,34,35,1,1,demo_generated
+2026-04-11,4,Maharashtra,SOLAPUR,2,43,37,0,1,demo_generated
+2026-04-11,4,Maharashtra,SOLAPUR,3,29,39,0,1,demo_generated
+2026-04-11,4,Maharashtra,SOLAPUR,4,48,41,1,1,demo_generated
+2026-04-11,4,Maharashtra,SOLAPUR,5,24,37,1,1,demo_generated
+2026-04-11,4,Maharashtra,SOLAPUR,6,25,29,1,1,demo_generated
+2026-04-11,4,Maharashtra,SOLAPUR,7,38,34,1,1,demo_generated
+2026-04-11,4,Maharashtra,SOLAPUR,8,43,46,1,1,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,1,38,28,0,1,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,2,19,43,1,1,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,3,34,31,1,1,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,4,35,35,1,1,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,5,38,29,1,1,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,6,34,26,1,1,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,7,29,25,1,0,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,8,34,23,1,0,demo_generated
+2026-04-11,4,Gujarat,SURAT,1,11,28,1,1,demo_generated
+2026-04-11,4,Gujarat,SURAT,2,25,32,1,1,demo_generated
+2026-04-11,4,Gujarat,SURAT,3,30,36,1,1,demo_generated
+2026-04-11,4,Gujarat,SURAT,4,25,16,1,1,demo_generated
+2026-04-11,4,Gujarat,SURAT,5,34,28,1,1,demo_generated
+2026-04-11,4,Gujarat,SURAT,6,24,38,0,0,demo_generated
+2026-04-11,4,Gujarat,SURAT,7,26,25,1,1,demo_generated
+2026-04-11,4,Gujarat,SURAT,8,42,36,1,0,demo_generated
+2026-04-11,4,Gujarat,VADODARA,1,26,29,1,1,demo_generated
+2026-04-11,4,Gujarat,VADODARA,2,25,40,1,0,demo_generated
+2026-04-11,4,Gujarat,VADODARA,3,42,48,1,1,demo_generated
+2026-04-11,4,Gujarat,VADODARA,4,53,26,1,1,demo_generated
+2026-04-11,4,Gujarat,VADODARA,5,40,15,1,1,demo_generated
+2026-04-11,4,Gujarat,VADODARA,6,36,35,1,1,demo_generated
+2026-04-11,4,Gujarat,VADODARA,7,27,25,1,1,demo_generated
+2026-04-11,4,Gujarat,VADODARA,8,42,36,1,1,demo_generated
+2026-04-11,4,Gujarat,RAJKOT,1,48,45,1,1,demo_generated
+2026-04-11,4,Gujarat,RAJKOT,2,21,27,1,1,demo_generated
+2026-04-11,4,Gujarat,RAJKOT,3,26,38,1,1,demo_generated
+2026-04-11,4,Gujarat,RAJKOT,4,37,23,1,1,demo_generated
+2026-04-11,4,Gujarat,RAJKOT,5,28,43,1,0,demo_generated
+2026-04-11,4,Gujarat,RAJKOT,6,31,13,1,1,demo_generated
+2026-04-11,4,Gujarat,RAJKOT,7,26,49,1,1,demo_generated
+2026-04-11,4,Gujarat,RAJKOT,8,43,20,0,1,demo_generated
+2026-04-11,4,Gujarat,GANDHINAGAR,1,36,40,1,1,demo_generated
+2026-04-11,4,Gujarat,GANDHINAGAR,2,21,41,0,1,demo_generated
+2026-04-11,4,Gujarat,GANDHINAGAR,3,38,25,1,1,demo_generated
+2026-04-11,4,Gujarat,GANDHINAGAR,4,39,34,1,1,demo_generated
+2026-04-11,4,Gujarat,GANDHINAGAR,5,37,33,1,1,demo_generated
+2026-04-11,4,Gujarat,GANDHINAGAR,6,27,25,1,1,demo_generated
+2026-04-11,4,Gujarat,GANDHINAGAR,7,33,32,1,1,demo_generated
+2026-04-11,4,Gujarat,GANDHINAGAR,8,40,49,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,1,36,37,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,2,42,38,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,3,27,44,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,4,44,33,0,1,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,5,28,32,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,6,22,45,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,7,29,29,1,0,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,8,46,9,0,0,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,1,45,35,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,2,48,23,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,3,37,23,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,4,43,41,1,0,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,5,49,31,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,6,51,22,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,7,34,23,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,8,36,23,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,GWALIOR,1,43,36,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,GWALIOR,2,26,39,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,GWALIOR,3,47,37,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,GWALIOR,4,24,30,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,GWALIOR,5,40,29,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,GWALIOR,6,26,43,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,GWALIOR,7,32,46,1,0,demo_generated
+2026-04-11,4,Madhya Pradesh,GWALIOR,8,30,28,1,0,demo_generated
+2026-04-11,4,Madhya Pradesh,JABALPUR,1,30,30,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,JABALPUR,2,38,23,0,1,demo_generated
+2026-04-11,4,Madhya Pradesh,JABALPUR,3,25,16,1,0,demo_generated
+2026-04-11,4,Madhya Pradesh,JABALPUR,4,20,19,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,JABALPUR,5,30,33,1,0,demo_generated
+2026-04-11,4,Madhya Pradesh,JABALPUR,6,38,33,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,JABALPUR,7,46,48,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,JABALPUR,8,32,23,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,UJJAIN,1,52,42,0,1,demo_generated
+2026-04-11,4,Madhya Pradesh,UJJAIN,2,43,26,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,UJJAIN,3,41,33,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,UJJAIN,4,34,31,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,UJJAIN,5,39,45,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,UJJAIN,6,53,28,1,1,demo_generated
+2026-04-11,4,Madhya Pradesh,UJJAIN,7,36,31,1,0,demo_generated
+2026-04-11,4,Madhya Pradesh,UJJAIN,8,38,9,1,0,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,1,33,44,1,0,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,2,29,24,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,3,30,26,1,0,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,4,24,23,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,5,38,30,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,6,37,38,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,7,38,38,1,0,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,8,53,35,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,1,24,29,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,2,36,40,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,3,34,21,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,4,31,17,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,5,11,44,1,0,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,6,35,18,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,7,48,43,0,1,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,8,36,16,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,1,31,26,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,2,35,19,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,3,42,11,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,4,44,38,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,5,32,27,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,6,47,32,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,7,32,26,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,8,39,43,1,0,demo_generated
+2026-04-18,5,Uttar Pradesh,KANPUR,1,33,24,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,KANPUR,2,35,28,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,KANPUR,3,37,27,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,KANPUR,4,44,21,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,KANPUR,5,38,31,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,KANPUR,6,28,30,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,KANPUR,7,39,7,0,1,demo_generated
+2026-04-18,5,Uttar Pradesh,KANPUR,8,27,40,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,ALLAHABAD,1,30,18,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,ALLAHABAD,2,20,19,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,ALLAHABAD,3,34,17,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,ALLAHABAD,4,40,21,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,ALLAHABAD,5,37,39,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,ALLAHABAD,6,46,29,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,ALLAHABAD,7,26,27,1,1,demo_generated
+2026-04-18,5,Uttar Pradesh,ALLAHABAD,8,37,47,1,1,demo_generated
+2026-04-18,5,Bihar,PATNA,1,20,27,1,1,demo_generated
+2026-04-18,5,Bihar,PATNA,2,40,29,1,1,demo_generated
+2026-04-18,5,Bihar,PATNA,3,36,22,1,1,demo_generated
+2026-04-18,5,Bihar,PATNA,4,42,28,1,1,demo_generated
+2026-04-18,5,Bihar,PATNA,5,36,36,0,1,demo_generated
+2026-04-18,5,Bihar,PATNA,6,32,37,1,0,demo_generated
+2026-04-18,5,Bihar,PATNA,7,24,29,1,1,demo_generated
+2026-04-18,5,Bihar,PATNA,8,28,19,1,1,demo_generated
+2026-04-18,5,Bihar,GAYA,1,50,17,1,1,demo_generated
+2026-04-18,5,Bihar,GAYA,2,35,17,1,1,demo_generated
+2026-04-18,5,Bihar,GAYA,3,44,24,1,1,demo_generated
+2026-04-18,5,Bihar,GAYA,4,43,32,0,1,demo_generated
+2026-04-18,5,Bihar,GAYA,5,53,15,1,1,demo_generated
+2026-04-18,5,Bihar,GAYA,6,27,36,0,1,demo_generated
+2026-04-18,5,Bihar,GAYA,7,37,25,1,1,demo_generated
+2026-04-18,5,Bihar,GAYA,8,51,28,1,1,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,1,28,36,1,1,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,2,35,29,0,1,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,3,40,33,1,0,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,4,27,25,1,1,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,5,24,30,1,1,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,6,50,20,1,1,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,7,22,22,1,1,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,8,33,33,1,0,demo_generated
+2026-04-18,5,Bihar,BHAGALPUR,1,32,30,0,1,demo_generated
+2026-04-18,5,Bihar,BHAGALPUR,2,31,26,1,1,demo_generated
+2026-04-18,5,Bihar,BHAGALPUR,3,28,18,1,0,demo_generated
+2026-04-18,5,Bihar,BHAGALPUR,4,41,24,1,1,demo_generated
+2026-04-18,5,Bihar,BHAGALPUR,5,38,21,0,1,demo_generated
+2026-04-18,5,Bihar,BHAGALPUR,6,35,11,1,1,demo_generated
+2026-04-18,5,Bihar,BHAGALPUR,7,32,22,1,0,demo_generated
+2026-04-18,5,Bihar,BHAGALPUR,8,44,17,1,1,demo_generated
+2026-04-18,5,Bihar,DARBHANGA,1,33,30,1,1,demo_generated
+2026-04-18,5,Bihar,DARBHANGA,2,43,34,1,1,demo_generated
+2026-04-18,5,Bihar,DARBHANGA,3,34,28,1,1,demo_generated
+2026-04-18,5,Bihar,DARBHANGA,4,44,27,1,1,demo_generated
+2026-04-18,5,Bihar,DARBHANGA,5,36,37,1,1,demo_generated
+2026-04-18,5,Bihar,DARBHANGA,6,54,29,1,0,demo_generated
+2026-04-18,5,Bihar,DARBHANGA,7,39,34,1,0,demo_generated
+2026-04-18,5,Bihar,DARBHANGA,8,44,36,1,0,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,1,30,34,1,0,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,2,43,45,1,1,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,3,33,34,1,1,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,4,38,32,1,1,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,5,37,12,1,0,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,6,60,52,1,0,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,7,33,31,1,1,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,8,21,15,1,1,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,1,38,41,1,1,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,2,41,24,1,1,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,3,41,30,1,1,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,4,32,19,1,1,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,5,29,36,1,1,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,6,37,33,1,1,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,7,17,33,1,1,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,8,30,34,1,0,demo_generated
+2026-04-18,5,Rajasthan,UDAIPUR,1,45,27,1,1,demo_generated
+2026-04-18,5,Rajasthan,UDAIPUR,2,35,50,1,0,demo_generated
+2026-04-18,5,Rajasthan,UDAIPUR,3,37,31,1,0,demo_generated
+2026-04-18,5,Rajasthan,UDAIPUR,4,28,39,1,0,demo_generated
+2026-04-18,5,Rajasthan,UDAIPUR,5,27,43,1,1,demo_generated
+2026-04-18,5,Rajasthan,UDAIPUR,6,40,27,1,0,demo_generated
+2026-04-18,5,Rajasthan,UDAIPUR,7,28,25,1,1,demo_generated
+2026-04-18,5,Rajasthan,UDAIPUR,8,20,36,1,1,demo_generated
+2026-04-18,5,Rajasthan,AJMER,1,18,31,1,0,demo_generated
+2026-04-18,5,Rajasthan,AJMER,2,33,29,1,1,demo_generated
+2026-04-18,5,Rajasthan,AJMER,3,38,27,1,1,demo_generated
+2026-04-18,5,Rajasthan,AJMER,4,36,43,1,0,demo_generated
+2026-04-18,5,Rajasthan,AJMER,5,39,28,1,0,demo_generated
+2026-04-18,5,Rajasthan,AJMER,6,35,29,1,0,demo_generated
+2026-04-18,5,Rajasthan,AJMER,7,33,33,1,1,demo_generated
+2026-04-18,5,Rajasthan,AJMER,8,23,17,1,1,demo_generated
+2026-04-18,5,Rajasthan,KOTA,1,27,36,1,1,demo_generated
+2026-04-18,5,Rajasthan,KOTA,2,40,39,1,1,demo_generated
+2026-04-18,5,Rajasthan,KOTA,3,28,32,1,1,demo_generated
+2026-04-18,5,Rajasthan,KOTA,4,31,30,1,1,demo_generated
+2026-04-18,5,Rajasthan,KOTA,5,31,34,0,1,demo_generated
+2026-04-18,5,Rajasthan,KOTA,6,29,42,1,1,demo_generated
+2026-04-18,5,Rajasthan,KOTA,7,44,36,1,1,demo_generated
+2026-04-18,5,Rajasthan,KOTA,8,43,19,1,1,demo_generated
+2026-04-18,5,Maharashtra,PUNE,1,44,35,1,1,demo_generated
+2026-04-18,5,Maharashtra,PUNE,2,30,25,1,1,demo_generated
+2026-04-18,5,Maharashtra,PUNE,3,47,39,1,0,demo_generated
+2026-04-18,5,Maharashtra,PUNE,4,33,19,1,1,demo_generated
+2026-04-18,5,Maharashtra,PUNE,5,45,22,1,1,demo_generated
+2026-04-18,5,Maharashtra,PUNE,6,32,30,1,1,demo_generated
+2026-04-18,5,Maharashtra,PUNE,7,29,30,1,1,demo_generated
+2026-04-18,5,Maharashtra,PUNE,8,34,30,1,1,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,1,37,46,0,1,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,2,23,33,1,0,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,3,26,18,1,1,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,4,42,34,1,1,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,5,22,30,1,0,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,6,20,23,0,1,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,7,17,30,0,1,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,8,40,37,1,1,demo_generated
+2026-04-18,5,Maharashtra,AURANGABAD,1,31,41,1,0,demo_generated
+2026-04-18,5,Maharashtra,AURANGABAD,2,46,38,1,0,demo_generated
+2026-04-18,5,Maharashtra,AURANGABAD,3,30,30,1,1,demo_generated
+2026-04-18,5,Maharashtra,AURANGABAD,4,47,29,1,1,demo_generated
+2026-04-18,5,Maharashtra,AURANGABAD,5,39,25,1,1,demo_generated
+2026-04-18,5,Maharashtra,AURANGABAD,6,43,24,1,1,demo_generated
+2026-04-18,5,Maharashtra,AURANGABAD,7,34,36,1,0,demo_generated
+2026-04-18,5,Maharashtra,AURANGABAD,8,49,34,1,1,demo_generated
+2026-04-18,5,Maharashtra,NAGPUR,1,32,28,1,1,demo_generated
+2026-04-18,5,Maharashtra,NAGPUR,2,42,36,1,1,demo_generated
+2026-04-18,5,Maharashtra,NAGPUR,3,40,45,1,1,demo_generated
+2026-04-18,5,Maharashtra,NAGPUR,4,35,35,1,1,demo_generated
+2026-04-18,5,Maharashtra,NAGPUR,5,32,25,1,1,demo_generated
+2026-04-18,5,Maharashtra,NAGPUR,6,30,10,1,1,demo_generated
+2026-04-18,5,Maharashtra,NAGPUR,7,39,35,1,1,demo_generated
+2026-04-18,5,Maharashtra,NAGPUR,8,39,24,1,1,demo_generated
+2026-04-18,5,Maharashtra,SOLAPUR,1,30,26,1,1,demo_generated
+2026-04-18,5,Maharashtra,SOLAPUR,2,43,33,1,1,demo_generated
+2026-04-18,5,Maharashtra,SOLAPUR,3,35,38,1,1,demo_generated
+2026-04-18,5,Maharashtra,SOLAPUR,4,30,35,1,1,demo_generated
+2026-04-18,5,Maharashtra,SOLAPUR,5,51,43,1,1,demo_generated
+2026-04-18,5,Maharashtra,SOLAPUR,6,37,32,1,0,demo_generated
+2026-04-18,5,Maharashtra,SOLAPUR,7,39,45,1,1,demo_generated
+2026-04-18,5,Maharashtra,SOLAPUR,8,45,46,1,1,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,1,36,13,1,1,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,2,50,25,1,1,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,3,19,38,0,0,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,4,18,32,1,1,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,5,18,29,0,1,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,6,48,35,1,1,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,7,35,36,1,1,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,8,13,26,1,1,demo_generated
+2026-04-18,5,Gujarat,SURAT,1,31,37,1,1,demo_generated
+2026-04-18,5,Gujarat,SURAT,2,27,33,1,1,demo_generated
+2026-04-18,5,Gujarat,SURAT,3,34,26,1,1,demo_generated
+2026-04-18,5,Gujarat,SURAT,4,30,31,1,1,demo_generated
+2026-04-18,5,Gujarat,SURAT,5,20,39,1,1,demo_generated
+2026-04-18,5,Gujarat,SURAT,6,28,29,1,0,demo_generated
+2026-04-18,5,Gujarat,SURAT,7,47,39,1,1,demo_generated
+2026-04-18,5,Gujarat,SURAT,8,25,6,1,1,demo_generated
+2026-04-18,5,Gujarat,VADODARA,1,39,30,1,1,demo_generated
+2026-04-18,5,Gujarat,VADODARA,2,36,38,1,1,demo_generated
+2026-04-18,5,Gujarat,VADODARA,3,42,28,1,1,demo_generated
+2026-04-18,5,Gujarat,VADODARA,4,34,35,1,1,demo_generated
+2026-04-18,5,Gujarat,VADODARA,5,38,33,1,1,demo_generated
+2026-04-18,5,Gujarat,VADODARA,6,46,36,1,0,demo_generated
+2026-04-18,5,Gujarat,VADODARA,7,40,34,1,1,demo_generated
+2026-04-18,5,Gujarat,VADODARA,8,27,26,0,1,demo_generated
+2026-04-18,5,Gujarat,RAJKOT,1,25,41,1,1,demo_generated
+2026-04-18,5,Gujarat,RAJKOT,2,22,30,1,1,demo_generated
+2026-04-18,5,Gujarat,RAJKOT,3,32,13,1,0,demo_generated
+2026-04-18,5,Gujarat,RAJKOT,4,31,29,1,1,demo_generated
+2026-04-18,5,Gujarat,RAJKOT,5,48,14,1,1,demo_generated
+2026-04-18,5,Gujarat,RAJKOT,6,45,29,0,1,demo_generated
+2026-04-18,5,Gujarat,RAJKOT,7,41,32,1,0,demo_generated
+2026-04-18,5,Gujarat,RAJKOT,8,26,44,0,1,demo_generated
+2026-04-18,5,Gujarat,GANDHINAGAR,1,44,22,1,0,demo_generated
+2026-04-18,5,Gujarat,GANDHINAGAR,2,39,26,1,1,demo_generated
+2026-04-18,5,Gujarat,GANDHINAGAR,3,22,24,1,0,demo_generated
+2026-04-18,5,Gujarat,GANDHINAGAR,4,45,39,0,1,demo_generated
+2026-04-18,5,Gujarat,GANDHINAGAR,5,32,44,1,1,demo_generated
+2026-04-18,5,Gujarat,GANDHINAGAR,6,44,25,1,1,demo_generated
+2026-04-18,5,Gujarat,GANDHINAGAR,7,48,28,1,1,demo_generated
+2026-04-18,5,Gujarat,GANDHINAGAR,8,33,14,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,1,30,30,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,2,37,22,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,3,29,46,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,4,43,43,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,5,34,35,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,6,39,46,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,7,22,8,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,8,30,34,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,1,35,25,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,2,39,27,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,3,35,36,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,4,31,39,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,5,42,25,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,6,31,23,0,1,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,7,34,34,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,8,49,28,0,1,demo_generated
+2026-04-18,5,Madhya Pradesh,GWALIOR,1,37,27,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,GWALIOR,2,31,35,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,GWALIOR,3,31,31,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,GWALIOR,4,38,34,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,GWALIOR,5,15,27,0,0,demo_generated
+2026-04-18,5,Madhya Pradesh,GWALIOR,6,43,17,0,0,demo_generated
+2026-04-18,5,Madhya Pradesh,GWALIOR,7,10,37,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,GWALIOR,8,36,22,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,JABALPUR,1,35,26,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,JABALPUR,2,38,6,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,JABALPUR,3,32,27,0,0,demo_generated
+2026-04-18,5,Madhya Pradesh,JABALPUR,4,41,15,0,1,demo_generated
+2026-04-18,5,Madhya Pradesh,JABALPUR,5,35,37,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,JABALPUR,6,49,27,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,JABALPUR,7,37,15,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,JABALPUR,8,34,42,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,UJJAIN,1,49,35,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,UJJAIN,2,22,44,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,UJJAIN,3,22,21,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,UJJAIN,4,46,31,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,UJJAIN,5,30,38,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,UJJAIN,6,36,51,1,0,demo_generated
+2026-04-18,5,Madhya Pradesh,UJJAIN,7,43,33,1,1,demo_generated
+2026-04-18,5,Madhya Pradesh,UJJAIN,8,36,41,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,1,34,21,1,0,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,2,41,25,0,1,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,3,37,12,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,4,33,23,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,5,18,27,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,6,34,30,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,7,44,35,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,8,31,29,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,1,39,24,1,0,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,2,23,26,1,0,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,3,44,15,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,4,27,21,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,5,27,33,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,6,29,33,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,7,35,14,1,0,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,8,31,36,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,1,36,24,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,2,44,19,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,3,30,35,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,4,40,18,1,0,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,5,38,22,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,6,18,25,1,0,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,7,50,36,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,8,34,14,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,KANPUR,1,18,28,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,KANPUR,2,38,33,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,KANPUR,3,39,33,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,KANPUR,4,37,36,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,KANPUR,5,30,28,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,KANPUR,6,21,23,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,KANPUR,7,42,32,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,KANPUR,8,16,44,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,ALLAHABAD,1,36,29,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,ALLAHABAD,2,30,24,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,ALLAHABAD,3,36,32,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,ALLAHABAD,4,37,23,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,ALLAHABAD,5,27,20,0,1,demo_generated
+2026-04-25,6,Uttar Pradesh,ALLAHABAD,6,43,35,1,0,demo_generated
+2026-04-25,6,Uttar Pradesh,ALLAHABAD,7,38,36,1,1,demo_generated
+2026-04-25,6,Uttar Pradesh,ALLAHABAD,8,33,34,1,1,demo_generated
+2026-04-25,6,Bihar,PATNA,1,39,34,1,1,demo_generated
+2026-04-25,6,Bihar,PATNA,2,26,7,0,1,demo_generated
+2026-04-25,6,Bihar,PATNA,3,37,12,1,0,demo_generated
+2026-04-25,6,Bihar,PATNA,4,32,10,1,1,demo_generated
+2026-04-25,6,Bihar,PATNA,5,45,35,1,1,demo_generated
+2026-04-25,6,Bihar,PATNA,6,37,21,1,1,demo_generated
+2026-04-25,6,Bihar,PATNA,7,20,9,1,1,demo_generated
+2026-04-25,6,Bihar,PATNA,8,30,33,1,0,demo_generated
+2026-04-25,6,Bihar,GAYA,1,32,31,1,1,demo_generated
+2026-04-25,6,Bihar,GAYA,2,39,33,1,0,demo_generated
+2026-04-25,6,Bihar,GAYA,3,19,22,1,1,demo_generated
+2026-04-25,6,Bihar,GAYA,4,38,39,1,1,demo_generated
+2026-04-25,6,Bihar,GAYA,5,44,29,1,1,demo_generated
+2026-04-25,6,Bihar,GAYA,6,45,29,1,1,demo_generated
+2026-04-25,6,Bihar,GAYA,7,22,32,1,1,demo_generated
+2026-04-25,6,Bihar,GAYA,8,44,42,1,1,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,1,30,18,1,1,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,2,41,30,0,1,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,3,37,37,1,1,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,4,41,31,1,1,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,5,31,33,1,1,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,6,25,29,1,1,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,7,34,14,0,1,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,8,38,22,1,0,demo_generated
+2026-04-25,6,Bihar,BHAGALPUR,1,38,20,1,1,demo_generated
+2026-04-25,6,Bihar,BHAGALPUR,2,41,41,1,1,demo_generated
+2026-04-25,6,Bihar,BHAGALPUR,3,17,18,0,1,demo_generated
+2026-04-25,6,Bihar,BHAGALPUR,4,27,16,1,1,demo_generated
+2026-04-25,6,Bihar,BHAGALPUR,5,33,30,0,1,demo_generated
+2026-04-25,6,Bihar,BHAGALPUR,6,40,29,1,0,demo_generated
+2026-04-25,6,Bihar,BHAGALPUR,7,40,27,1,1,demo_generated
+2026-04-25,6,Bihar,BHAGALPUR,8,30,20,1,1,demo_generated
+2026-04-25,6,Bihar,DARBHANGA,1,33,20,1,1,demo_generated
+2026-04-25,6,Bihar,DARBHANGA,2,37,20,1,1,demo_generated
+2026-04-25,6,Bihar,DARBHANGA,3,31,36,1,1,demo_generated
+2026-04-25,6,Bihar,DARBHANGA,4,44,36,1,1,demo_generated
+2026-04-25,6,Bihar,DARBHANGA,5,34,23,0,1,demo_generated
+2026-04-25,6,Bihar,DARBHANGA,6,39,21,1,0,demo_generated
+2026-04-25,6,Bihar,DARBHANGA,7,40,22,1,1,demo_generated
+2026-04-25,6,Bihar,DARBHANGA,8,33,33,1,1,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,1,20,26,1,0,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,2,37,37,1,1,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,3,38,29,1,1,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,4,41,23,1,1,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,5,26,35,1,1,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,6,26,47,1,1,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,7,41,26,0,1,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,8,41,20,0,0,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,1,46,32,1,0,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,2,30,29,1,1,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,3,29,30,1,0,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,4,25,48,1,0,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,5,30,39,1,1,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,6,36,23,0,1,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,7,33,42,1,1,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,8,31,22,1,1,demo_generated
+2026-04-25,6,Rajasthan,UDAIPUR,1,39,12,0,1,demo_generated
+2026-04-25,6,Rajasthan,UDAIPUR,2,32,43,1,1,demo_generated
+2026-04-25,6,Rajasthan,UDAIPUR,3,33,40,1,1,demo_generated
+2026-04-25,6,Rajasthan,UDAIPUR,4,26,29,1,1,demo_generated
+2026-04-25,6,Rajasthan,UDAIPUR,5,32,36,1,1,demo_generated
+2026-04-25,6,Rajasthan,UDAIPUR,6,35,13,1,0,demo_generated
+2026-04-25,6,Rajasthan,UDAIPUR,7,46,27,1,1,demo_generated
+2026-04-25,6,Rajasthan,UDAIPUR,8,35,29,1,1,demo_generated
+2026-04-25,6,Rajasthan,AJMER,1,34,31,1,1,demo_generated
+2026-04-25,6,Rajasthan,AJMER,2,27,38,1,1,demo_generated
+2026-04-25,6,Rajasthan,AJMER,3,29,25,1,0,demo_generated
+2026-04-25,6,Rajasthan,AJMER,4,22,27,1,1,demo_generated
+2026-04-25,6,Rajasthan,AJMER,5,29,5,1,1,demo_generated
+2026-04-25,6,Rajasthan,AJMER,6,18,6,1,0,demo_generated
+2026-04-25,6,Rajasthan,AJMER,7,33,44,1,1,demo_generated
+2026-04-25,6,Rajasthan,AJMER,8,23,31,1,1,demo_generated
+2026-04-25,6,Rajasthan,KOTA,1,33,37,0,1,demo_generated
+2026-04-25,6,Rajasthan,KOTA,2,40,51,1,1,demo_generated
+2026-04-25,6,Rajasthan,KOTA,3,36,24,1,1,demo_generated
+2026-04-25,6,Rajasthan,KOTA,4,30,27,1,0,demo_generated
+2026-04-25,6,Rajasthan,KOTA,5,29,46,1,1,demo_generated
+2026-04-25,6,Rajasthan,KOTA,6,40,17,1,0,demo_generated
+2026-04-25,6,Rajasthan,KOTA,7,38,22,1,1,demo_generated
+2026-04-25,6,Rajasthan,KOTA,8,40,41,1,0,demo_generated
+2026-04-25,6,Maharashtra,PUNE,1,33,26,1,0,demo_generated
+2026-04-25,6,Maharashtra,PUNE,2,46,25,1,1,demo_generated
+2026-04-25,6,Maharashtra,PUNE,3,28,23,1,1,demo_generated
+2026-04-25,6,Maharashtra,PUNE,4,34,34,1,1,demo_generated
+2026-04-25,6,Maharashtra,PUNE,5,42,36,1,1,demo_generated
+2026-04-25,6,Maharashtra,PUNE,6,39,43,1,1,demo_generated
+2026-04-25,6,Maharashtra,PUNE,7,27,18,1,1,demo_generated
+2026-04-25,6,Maharashtra,PUNE,8,39,30,1,1,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,1,42,31,0,1,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,2,30,37,1,0,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,3,35,31,1,1,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,4,54,42,1,1,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,5,40,33,1,0,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,6,35,29,1,1,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,7,36,27,1,1,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,8,25,31,1,1,demo_generated
+2026-04-25,6,Maharashtra,AURANGABAD,1,37,40,1,0,demo_generated
+2026-04-25,6,Maharashtra,AURANGABAD,2,28,32,1,1,demo_generated
+2026-04-25,6,Maharashtra,AURANGABAD,3,39,36,0,1,demo_generated
+2026-04-25,6,Maharashtra,AURANGABAD,4,47,29,1,1,demo_generated
+2026-04-25,6,Maharashtra,AURANGABAD,5,28,32,1,0,demo_generated
+2026-04-25,6,Maharashtra,AURANGABAD,6,33,28,0,1,demo_generated
+2026-04-25,6,Maharashtra,AURANGABAD,7,30,34,1,1,demo_generated
+2026-04-25,6,Maharashtra,AURANGABAD,8,29,38,1,1,demo_generated
+2026-04-25,6,Maharashtra,NAGPUR,1,40,35,1,0,demo_generated
+2026-04-25,6,Maharashtra,NAGPUR,2,27,34,1,1,demo_generated
+2026-04-25,6,Maharashtra,NAGPUR,3,43,39,1,1,demo_generated
+2026-04-25,6,Maharashtra,NAGPUR,4,40,32,1,1,demo_generated
+2026-04-25,6,Maharashtra,NAGPUR,5,34,42,1,1,demo_generated
+2026-04-25,6,Maharashtra,NAGPUR,6,37,34,1,1,demo_generated
+2026-04-25,6,Maharashtra,NAGPUR,7,57,29,1,1,demo_generated
+2026-04-25,6,Maharashtra,NAGPUR,8,18,30,1,1,demo_generated
+2026-04-25,6,Maharashtra,SOLAPUR,1,34,34,1,1,demo_generated
+2026-04-25,6,Maharashtra,SOLAPUR,2,38,14,1,1,demo_generated
+2026-04-25,6,Maharashtra,SOLAPUR,3,39,31,1,1,demo_generated
+2026-04-25,6,Maharashtra,SOLAPUR,4,32,17,1,1,demo_generated
+2026-04-25,6,Maharashtra,SOLAPUR,5,46,28,1,1,demo_generated
+2026-04-25,6,Maharashtra,SOLAPUR,6,40,24,1,0,demo_generated
+2026-04-25,6,Maharashtra,SOLAPUR,7,37,29,1,1,demo_generated
+2026-04-25,6,Maharashtra,SOLAPUR,8,40,29,1,1,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,1,28,31,1,0,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,2,34,34,0,1,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,3,42,22,1,0,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,4,41,21,1,1,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,5,39,37,1,1,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,6,31,25,1,1,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,7,28,32,1,1,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,8,40,30,1,1,demo_generated
+2026-04-25,6,Gujarat,SURAT,1,17,27,1,0,demo_generated
+2026-04-25,6,Gujarat,SURAT,2,30,36,1,1,demo_generated
+2026-04-25,6,Gujarat,SURAT,3,39,33,1,1,demo_generated
+2026-04-25,6,Gujarat,SURAT,4,41,40,1,0,demo_generated
+2026-04-25,6,Gujarat,SURAT,5,31,24,1,1,demo_generated
+2026-04-25,6,Gujarat,SURAT,6,34,16,1,0,demo_generated
+2026-04-25,6,Gujarat,SURAT,7,36,27,1,0,demo_generated
+2026-04-25,6,Gujarat,SURAT,8,59,44,1,1,demo_generated
+2026-04-25,6,Gujarat,VADODARA,1,30,22,1,1,demo_generated
+2026-04-25,6,Gujarat,VADODARA,2,29,40,1,1,demo_generated
+2026-04-25,6,Gujarat,VADODARA,3,42,44,1,0,demo_generated
+2026-04-25,6,Gujarat,VADODARA,4,28,36,1,0,demo_generated
+2026-04-25,6,Gujarat,VADODARA,5,28,46,0,1,demo_generated
+2026-04-25,6,Gujarat,VADODARA,6,28,21,1,1,demo_generated
+2026-04-25,6,Gujarat,VADODARA,7,26,31,1,1,demo_generated
+2026-04-25,6,Gujarat,VADODARA,8,40,37,1,1,demo_generated
+2026-04-25,6,Gujarat,RAJKOT,1,26,28,1,1,demo_generated
+2026-04-25,6,Gujarat,RAJKOT,2,31,21,1,1,demo_generated
+2026-04-25,6,Gujarat,RAJKOT,3,30,43,1,0,demo_generated
+2026-04-25,6,Gujarat,RAJKOT,4,24,33,1,0,demo_generated
+2026-04-25,6,Gujarat,RAJKOT,5,45,43,1,0,demo_generated
+2026-04-25,6,Gujarat,RAJKOT,6,48,34,1,1,demo_generated
+2026-04-25,6,Gujarat,RAJKOT,7,38,27,1,1,demo_generated
+2026-04-25,6,Gujarat,RAJKOT,8,24,30,1,1,demo_generated
+2026-04-25,6,Gujarat,GANDHINAGAR,1,43,12,1,1,demo_generated
+2026-04-25,6,Gujarat,GANDHINAGAR,2,31,36,1,0,demo_generated
+2026-04-25,6,Gujarat,GANDHINAGAR,3,35,43,0,1,demo_generated
+2026-04-25,6,Gujarat,GANDHINAGAR,4,42,19,1,0,demo_generated
+2026-04-25,6,Gujarat,GANDHINAGAR,5,35,25,1,1,demo_generated
+2026-04-25,6,Gujarat,GANDHINAGAR,6,29,19,1,1,demo_generated
+2026-04-25,6,Gujarat,GANDHINAGAR,7,36,43,1,1,demo_generated
+2026-04-25,6,Gujarat,GANDHINAGAR,8,37,19,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,1,34,36,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,2,34,34,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,3,29,29,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,4,32,45,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,5,26,13,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,6,46,33,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,7,25,39,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,8,39,46,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,1,36,53,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,2,34,37,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,3,40,60,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,4,31,27,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,5,40,20,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,6,29,30,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,7,47,38,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,8,35,27,0,0,demo_generated
+2026-04-25,6,Madhya Pradesh,GWALIOR,1,18,50,0,1,demo_generated
+2026-04-25,6,Madhya Pradesh,GWALIOR,2,34,25,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,GWALIOR,3,53,20,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,GWALIOR,4,45,32,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,GWALIOR,5,40,36,0,0,demo_generated
+2026-04-25,6,Madhya Pradesh,GWALIOR,6,40,53,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,GWALIOR,7,52,25,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,GWALIOR,8,38,16,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,JABALPUR,1,41,41,0,1,demo_generated
+2026-04-25,6,Madhya Pradesh,JABALPUR,2,18,31,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,JABALPUR,3,40,35,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,JABALPUR,4,25,21,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,JABALPUR,5,33,28,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,JABALPUR,6,32,19,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,JABALPUR,7,35,46,0,1,demo_generated
+2026-04-25,6,Madhya Pradesh,JABALPUR,8,25,30,0,1,demo_generated
+2026-04-25,6,Madhya Pradesh,UJJAIN,1,39,18,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,UJJAIN,2,35,41,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,UJJAIN,3,27,33,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,UJJAIN,4,42,52,0,1,demo_generated
+2026-04-25,6,Madhya Pradesh,UJJAIN,5,35,25,1,0,demo_generated
+2026-04-25,6,Madhya Pradesh,UJJAIN,6,20,25,0,1,demo_generated
+2026-04-25,6,Madhya Pradesh,UJJAIN,7,23,47,1,1,demo_generated
+2026-04-25,6,Madhya Pradesh,UJJAIN,8,42,21,0,1,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,1,28,28,0,1,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,2,43,31,1,0,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,3,38,29,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,4,26,28,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,5,34,16,0,1,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,6,48,22,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,7,23,24,0,1,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,8,32,27,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,1,32,27,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,2,36,28,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,3,38,31,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,4,38,33,0,1,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,5,29,22,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,6,43,24,1,0,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,7,34,26,1,0,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,8,53,21,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,1,28,27,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,2,33,18,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,3,34,28,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,4,30,26,1,0,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,5,28,18,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,6,31,20,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,7,24,13,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,8,36,23,0,1,demo_generated
+2026-05-02,7,Uttar Pradesh,KANPUR,1,43,12,0,0,demo_generated
+2026-05-02,7,Uttar Pradesh,KANPUR,2,32,29,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,KANPUR,3,29,27,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,KANPUR,4,20,24,1,0,demo_generated
+2026-05-02,7,Uttar Pradesh,KANPUR,5,28,35,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,KANPUR,6,36,33,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,KANPUR,7,44,23,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,KANPUR,8,35,19,0,1,demo_generated
+2026-05-02,7,Uttar Pradesh,ALLAHABAD,1,37,31,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,ALLAHABAD,2,37,23,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,ALLAHABAD,3,49,28,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,ALLAHABAD,4,58,19,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,ALLAHABAD,5,39,35,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,ALLAHABAD,6,26,25,1,1,demo_generated
+2026-05-02,7,Uttar Pradesh,ALLAHABAD,7,23,36,0,1,demo_generated
+2026-05-02,7,Uttar Pradesh,ALLAHABAD,8,34,21,1,1,demo_generated
+2026-05-02,7,Bihar,PATNA,1,42,27,1,1,demo_generated
+2026-05-02,7,Bihar,PATNA,2,41,30,1,0,demo_generated
+2026-05-02,7,Bihar,PATNA,3,27,23,1,1,demo_generated
+2026-05-02,7,Bihar,PATNA,4,28,18,1,1,demo_generated
+2026-05-02,7,Bihar,PATNA,5,21,44,1,1,demo_generated
+2026-05-02,7,Bihar,PATNA,6,37,30,1,1,demo_generated
+2026-05-02,7,Bihar,PATNA,7,43,23,1,1,demo_generated
+2026-05-02,7,Bihar,PATNA,8,24,33,1,1,demo_generated
+2026-05-02,7,Bihar,GAYA,1,25,33,1,1,demo_generated
+2026-05-02,7,Bihar,GAYA,2,23,17,1,1,demo_generated
+2026-05-02,7,Bihar,GAYA,3,29,32,1,1,demo_generated
+2026-05-02,7,Bihar,GAYA,4,47,30,1,1,demo_generated
+2026-05-02,7,Bihar,GAYA,5,30,35,1,1,demo_generated
+2026-05-02,7,Bihar,GAYA,6,23,20,1,1,demo_generated
+2026-05-02,7,Bihar,GAYA,7,35,33,1,0,demo_generated
+2026-05-02,7,Bihar,GAYA,8,33,25,1,0,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,1,32,36,1,1,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,2,28,20,1,1,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,3,32,37,1,1,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,4,29,25,0,1,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,5,22,26,0,1,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,6,36,18,0,1,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,7,43,29,1,0,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,8,30,29,0,1,demo_generated
+2026-05-02,7,Bihar,BHAGALPUR,1,38,14,1,1,demo_generated
+2026-05-02,7,Bihar,BHAGALPUR,2,37,36,0,1,demo_generated
+2026-05-02,7,Bihar,BHAGALPUR,3,28,23,1,1,demo_generated
+2026-05-02,7,Bihar,BHAGALPUR,4,32,33,1,0,demo_generated
+2026-05-02,7,Bihar,BHAGALPUR,5,26,30,1,1,demo_generated
+2026-05-02,7,Bihar,BHAGALPUR,6,32,41,0,1,demo_generated
+2026-05-02,7,Bihar,BHAGALPUR,7,32,10,1,1,demo_generated
+2026-05-02,7,Bihar,BHAGALPUR,8,39,30,0,1,demo_generated
+2026-05-02,7,Bihar,DARBHANGA,1,36,36,1,1,demo_generated
+2026-05-02,7,Bihar,DARBHANGA,2,21,20,1,1,demo_generated
+2026-05-02,7,Bihar,DARBHANGA,3,34,29,1,1,demo_generated
+2026-05-02,7,Bihar,DARBHANGA,4,33,15,1,1,demo_generated
+2026-05-02,7,Bihar,DARBHANGA,5,31,40,1,1,demo_generated
+2026-05-02,7,Bihar,DARBHANGA,6,26,27,1,0,demo_generated
+2026-05-02,7,Bihar,DARBHANGA,7,38,33,1,1,demo_generated
+2026-05-02,7,Bihar,DARBHANGA,8,39,22,1,1,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,1,27,47,0,1,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,2,41,32,0,1,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,3,45,18,1,0,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,4,24,12,1,1,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,5,35,33,1,1,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,6,23,39,0,1,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,7,19,34,1,1,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,8,39,32,1,1,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,1,22,42,1,1,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,2,30,27,1,1,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,3,29,37,1,1,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,4,30,21,1,1,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,5,42,31,0,1,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,6,42,31,1,1,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,7,28,16,1,1,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,8,35,28,1,1,demo_generated
+2026-05-02,7,Rajasthan,UDAIPUR,1,40,26,1,1,demo_generated
+2026-05-02,7,Rajasthan,UDAIPUR,2,37,31,1,1,demo_generated
+2026-05-02,7,Rajasthan,UDAIPUR,3,28,27,1,0,demo_generated
+2026-05-02,7,Rajasthan,UDAIPUR,4,24,47,0,1,demo_generated
+2026-05-02,7,Rajasthan,UDAIPUR,5,37,19,1,1,demo_generated
+2026-05-02,7,Rajasthan,UDAIPUR,6,48,22,1,1,demo_generated
+2026-05-02,7,Rajasthan,UDAIPUR,7,29,29,1,1,demo_generated
+2026-05-02,7,Rajasthan,UDAIPUR,8,34,37,1,1,demo_generated
+2026-05-02,7,Rajasthan,AJMER,1,19,31,1,0,demo_generated
+2026-05-02,7,Rajasthan,AJMER,2,32,33,1,1,demo_generated
+2026-05-02,7,Rajasthan,AJMER,3,32,27,0,1,demo_generated
+2026-05-02,7,Rajasthan,AJMER,4,33,46,1,1,demo_generated
+2026-05-02,7,Rajasthan,AJMER,5,31,41,1,1,demo_generated
+2026-05-02,7,Rajasthan,AJMER,6,35,32,1,1,demo_generated
+2026-05-02,7,Rajasthan,AJMER,7,36,35,1,1,demo_generated
+2026-05-02,7,Rajasthan,AJMER,8,31,41,1,1,demo_generated
+2026-05-02,7,Rajasthan,KOTA,1,38,20,1,1,demo_generated
+2026-05-02,7,Rajasthan,KOTA,2,17,46,1,0,demo_generated
+2026-05-02,7,Rajasthan,KOTA,3,36,19,0,0,demo_generated
+2026-05-02,7,Rajasthan,KOTA,4,31,39,1,1,demo_generated
+2026-05-02,7,Rajasthan,KOTA,5,33,30,0,1,demo_generated
+2026-05-02,7,Rajasthan,KOTA,6,40,34,1,1,demo_generated
+2026-05-02,7,Rajasthan,KOTA,7,39,37,1,1,demo_generated
+2026-05-02,7,Rajasthan,KOTA,8,29,26,1,1,demo_generated
+2026-05-02,7,Maharashtra,PUNE,1,28,26,1,0,demo_generated
+2026-05-02,7,Maharashtra,PUNE,2,33,31,1,1,demo_generated
+2026-05-02,7,Maharashtra,PUNE,3,45,33,0,1,demo_generated
+2026-05-02,7,Maharashtra,PUNE,4,33,54,1,0,demo_generated
+2026-05-02,7,Maharashtra,PUNE,5,26,28,1,1,demo_generated
+2026-05-02,7,Maharashtra,PUNE,6,48,47,1,0,demo_generated
+2026-05-02,7,Maharashtra,PUNE,7,32,16,1,1,demo_generated
+2026-05-02,7,Maharashtra,PUNE,8,31,43,1,1,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,1,33,37,1,1,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,2,34,18,0,1,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,3,34,38,1,1,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,4,30,38,0,0,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,5,35,38,1,1,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,6,37,23,1,1,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,7,32,28,1,1,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,8,29,33,1,1,demo_generated
+2026-05-02,7,Maharashtra,AURANGABAD,1,50,41,1,1,demo_generated
+2026-05-02,7,Maharashtra,AURANGABAD,2,44,25,1,1,demo_generated
+2026-05-02,7,Maharashtra,AURANGABAD,3,44,45,1,1,demo_generated
+2026-05-02,7,Maharashtra,AURANGABAD,4,28,35,1,1,demo_generated
+2026-05-02,7,Maharashtra,AURANGABAD,5,38,29,1,1,demo_generated
+2026-05-02,7,Maharashtra,AURANGABAD,6,35,36,1,1,demo_generated
+2026-05-02,7,Maharashtra,AURANGABAD,7,33,40,1,0,demo_generated
+2026-05-02,7,Maharashtra,AURANGABAD,8,24,28,1,0,demo_generated
+2026-05-02,7,Maharashtra,NAGPUR,1,40,47,0,1,demo_generated
+2026-05-02,7,Maharashtra,NAGPUR,2,43,32,1,1,demo_generated
+2026-05-02,7,Maharashtra,NAGPUR,3,33,29,1,0,demo_generated
+2026-05-02,7,Maharashtra,NAGPUR,4,32,15,1,1,demo_generated
+2026-05-02,7,Maharashtra,NAGPUR,5,48,31,1,1,demo_generated
+2026-05-02,7,Maharashtra,NAGPUR,6,28,35,0,1,demo_generated
+2026-05-02,7,Maharashtra,NAGPUR,7,29,39,0,1,demo_generated
+2026-05-02,7,Maharashtra,NAGPUR,8,28,38,1,1,demo_generated
+2026-05-02,7,Maharashtra,SOLAPUR,1,32,34,0,0,demo_generated
+2026-05-02,7,Maharashtra,SOLAPUR,2,41,26,1,1,demo_generated
+2026-05-02,7,Maharashtra,SOLAPUR,3,41,16,1,1,demo_generated
+2026-05-02,7,Maharashtra,SOLAPUR,4,46,40,1,1,demo_generated
+2026-05-02,7,Maharashtra,SOLAPUR,5,33,42,1,1,demo_generated
+2026-05-02,7,Maharashtra,SOLAPUR,6,43,31,1,1,demo_generated
+2026-05-02,7,Maharashtra,SOLAPUR,7,34,23,0,1,demo_generated
+2026-05-02,7,Maharashtra,SOLAPUR,8,35,18,1,1,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,1,40,38,1,0,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,2,21,44,1,1,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,3,29,57,1,1,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,4,36,44,1,1,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,5,27,28,1,1,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,6,30,18,1,1,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,7,24,30,1,1,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,8,37,22,1,1,demo_generated
+2026-05-02,7,Gujarat,SURAT,1,31,25,0,0,demo_generated
+2026-05-02,7,Gujarat,SURAT,2,34,37,1,1,demo_generated
+2026-05-02,7,Gujarat,SURAT,3,35,26,1,1,demo_generated
+2026-05-02,7,Gujarat,SURAT,4,42,34,1,1,demo_generated
+2026-05-02,7,Gujarat,SURAT,5,35,22,1,1,demo_generated
+2026-05-02,7,Gujarat,SURAT,6,41,35,1,1,demo_generated
+2026-05-02,7,Gujarat,SURAT,7,38,29,1,1,demo_generated
+2026-05-02,7,Gujarat,SURAT,8,31,47,1,1,demo_generated
+2026-05-02,7,Gujarat,VADODARA,1,31,21,1,1,demo_generated
+2026-05-02,7,Gujarat,VADODARA,2,36,31,1,1,demo_generated
+2026-05-02,7,Gujarat,VADODARA,3,43,30,1,1,demo_generated
+2026-05-02,7,Gujarat,VADODARA,4,39,44,1,1,demo_generated
+2026-05-02,7,Gujarat,VADODARA,5,37,23,1,1,demo_generated
+2026-05-02,7,Gujarat,VADODARA,6,20,35,0,0,demo_generated
+2026-05-02,7,Gujarat,VADODARA,7,31,33,1,1,demo_generated
+2026-05-02,7,Gujarat,VADODARA,8,34,20,1,1,demo_generated
+2026-05-02,7,Gujarat,RAJKOT,1,33,22,1,0,demo_generated
+2026-05-02,7,Gujarat,RAJKOT,2,30,39,1,1,demo_generated
+2026-05-02,7,Gujarat,RAJKOT,3,35,36,1,1,demo_generated
+2026-05-02,7,Gujarat,RAJKOT,4,35,29,1,0,demo_generated
+2026-05-02,7,Gujarat,RAJKOT,5,36,17,1,1,demo_generated
+2026-05-02,7,Gujarat,RAJKOT,6,40,24,1,1,demo_generated
+2026-05-02,7,Gujarat,RAJKOT,7,38,28,0,1,demo_generated
+2026-05-02,7,Gujarat,RAJKOT,8,25,25,1,1,demo_generated
+2026-05-02,7,Gujarat,GANDHINAGAR,1,38,50,0,1,demo_generated
+2026-05-02,7,Gujarat,GANDHINAGAR,2,34,49,1,1,demo_generated
+2026-05-02,7,Gujarat,GANDHINAGAR,3,21,9,1,0,demo_generated
+2026-05-02,7,Gujarat,GANDHINAGAR,4,32,31,1,1,demo_generated
+2026-05-02,7,Gujarat,GANDHINAGAR,5,39,26,0,0,demo_generated
+2026-05-02,7,Gujarat,GANDHINAGAR,6,37,29,1,1,demo_generated
+2026-05-02,7,Gujarat,GANDHINAGAR,7,44,33,1,1,demo_generated
+2026-05-02,7,Gujarat,GANDHINAGAR,8,56,29,1,0,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,1,43,44,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,2,15,38,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,3,25,29,0,1,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,4,26,42,1,0,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,5,30,16,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,6,36,44,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,7,26,39,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,8,19,44,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,1,37,21,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,2,40,27,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,3,27,26,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,4,39,23,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,5,17,27,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,6,44,43,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,7,30,26,1,0,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,8,29,25,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,GWALIOR,1,29,33,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,GWALIOR,2,45,23,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,GWALIOR,3,28,34,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,GWALIOR,4,40,18,0,0,demo_generated
+2026-05-02,7,Madhya Pradesh,GWALIOR,5,23,47,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,GWALIOR,6,16,28,0,1,demo_generated
+2026-05-02,7,Madhya Pradesh,GWALIOR,7,23,18,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,GWALIOR,8,22,41,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,JABALPUR,1,35,41,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,JABALPUR,2,33,41,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,JABALPUR,3,33,5,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,JABALPUR,4,39,31,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,JABALPUR,5,33,23,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,JABALPUR,6,40,22,1,0,demo_generated
+2026-05-02,7,Madhya Pradesh,JABALPUR,7,40,32,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,JABALPUR,8,40,33,1,0,demo_generated
+2026-05-02,7,Madhya Pradesh,UJJAIN,1,44,35,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,UJJAIN,2,35,11,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,UJJAIN,3,44,17,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,UJJAIN,4,24,38,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,UJJAIN,5,35,18,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,UJJAIN,6,30,42,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,UJJAIN,7,36,32,1,1,demo_generated
+2026-05-02,7,Madhya Pradesh,UJJAIN,8,29,39,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,1,34,32,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,2,28,44,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,3,45,29,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,4,37,22,1,0,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,5,40,10,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,6,48,32,0,1,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,7,27,40,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,8,50,30,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,1,28,28,1,0,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,2,39,29,1,0,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,3,27,31,1,0,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,4,44,18,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,5,26,22,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,6,33,34,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,7,44,21,0,1,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,8,36,36,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,1,52,29,0,1,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,2,36,30,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,3,32,29,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,4,19,22,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,5,39,20,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,6,41,14,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,7,41,34,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,8,52,24,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,KANPUR,1,35,39,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,KANPUR,2,46,36,0,1,demo_generated
+2026-05-09,8,Uttar Pradesh,KANPUR,3,37,39,0,1,demo_generated
+2026-05-09,8,Uttar Pradesh,KANPUR,4,56,32,1,0,demo_generated
+2026-05-09,8,Uttar Pradesh,KANPUR,5,35,33,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,KANPUR,6,36,25,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,KANPUR,7,41,23,1,0,demo_generated
+2026-05-09,8,Uttar Pradesh,KANPUR,8,39,15,0,1,demo_generated
+2026-05-09,8,Uttar Pradesh,ALLAHABAD,1,48,22,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,ALLAHABAD,2,24,38,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,ALLAHABAD,3,47,29,1,0,demo_generated
+2026-05-09,8,Uttar Pradesh,ALLAHABAD,4,34,25,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,ALLAHABAD,5,37,27,1,0,demo_generated
+2026-05-09,8,Uttar Pradesh,ALLAHABAD,6,33,21,0,1,demo_generated
+2026-05-09,8,Uttar Pradesh,ALLAHABAD,7,25,28,1,1,demo_generated
+2026-05-09,8,Uttar Pradesh,ALLAHABAD,8,36,22,0,1,demo_generated
+2026-05-09,8,Bihar,PATNA,1,30,29,1,1,demo_generated
+2026-05-09,8,Bihar,PATNA,2,27,36,1,1,demo_generated
+2026-05-09,8,Bihar,PATNA,3,39,22,1,1,demo_generated
+2026-05-09,8,Bihar,PATNA,4,38,21,1,1,demo_generated
+2026-05-09,8,Bihar,PATNA,5,41,21,1,0,demo_generated
+2026-05-09,8,Bihar,PATNA,6,34,29,1,1,demo_generated
+2026-05-09,8,Bihar,PATNA,7,47,21,1,1,demo_generated
+2026-05-09,8,Bihar,PATNA,8,28,15,1,1,demo_generated
+2026-05-09,8,Bihar,GAYA,1,49,28,1,1,demo_generated
+2026-05-09,8,Bihar,GAYA,2,43,22,0,1,demo_generated
+2026-05-09,8,Bihar,GAYA,3,31,27,0,1,demo_generated
+2026-05-09,8,Bihar,GAYA,4,34,33,1,0,demo_generated
+2026-05-09,8,Bihar,GAYA,5,35,24,1,1,demo_generated
+2026-05-09,8,Bihar,GAYA,6,50,21,1,1,demo_generated
+2026-05-09,8,Bihar,GAYA,7,28,21,1,1,demo_generated
+2026-05-09,8,Bihar,GAYA,8,40,31,1,1,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,1,33,20,1,1,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,2,36,34,1,1,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,3,47,22,1,0,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,4,33,30,1,1,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,5,31,17,1,0,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,6,33,18,1,1,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,7,42,25,1,1,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,8,34,22,1,1,demo_generated
+2026-05-09,8,Bihar,BHAGALPUR,1,34,37,1,1,demo_generated
+2026-05-09,8,Bihar,BHAGALPUR,2,43,19,1,1,demo_generated
+2026-05-09,8,Bihar,BHAGALPUR,3,13,26,1,1,demo_generated
+2026-05-09,8,Bihar,BHAGALPUR,4,32,24,1,1,demo_generated
+2026-05-09,8,Bihar,BHAGALPUR,5,30,19,1,1,demo_generated
+2026-05-09,8,Bihar,BHAGALPUR,6,53,42,1,1,demo_generated
+2026-05-09,8,Bihar,BHAGALPUR,7,31,29,1,1,demo_generated
+2026-05-09,8,Bihar,BHAGALPUR,8,42,29,1,0,demo_generated
+2026-05-09,8,Bihar,DARBHANGA,1,31,17,1,1,demo_generated
+2026-05-09,8,Bihar,DARBHANGA,2,35,18,1,1,demo_generated
+2026-05-09,8,Bihar,DARBHANGA,3,44,27,1,1,demo_generated
+2026-05-09,8,Bihar,DARBHANGA,4,39,25,1,1,demo_generated
+2026-05-09,8,Bihar,DARBHANGA,5,41,22,1,0,demo_generated
+2026-05-09,8,Bihar,DARBHANGA,6,37,24,1,1,demo_generated
+2026-05-09,8,Bihar,DARBHANGA,7,33,35,1,1,demo_generated
+2026-05-09,8,Bihar,DARBHANGA,8,28,30,1,1,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,1,45,40,1,1,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,2,30,36,1,1,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,3,21,41,1,1,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,4,56,34,1,1,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,5,46,19,0,1,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,6,26,29,1,1,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,7,33,34,0,1,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,8,30,33,0,1,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,1,42,36,1,1,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,2,32,38,1,1,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,3,31,32,1,1,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,4,42,30,0,1,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,5,25,32,0,1,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,6,42,41,1,1,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,7,26,38,1,1,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,8,33,45,1,0,demo_generated
+2026-05-09,8,Rajasthan,UDAIPUR,1,25,38,1,1,demo_generated
+2026-05-09,8,Rajasthan,UDAIPUR,2,32,26,1,1,demo_generated
+2026-05-09,8,Rajasthan,UDAIPUR,3,42,42,1,0,demo_generated
+2026-05-09,8,Rajasthan,UDAIPUR,4,19,40,1,1,demo_generated
+2026-05-09,8,Rajasthan,UDAIPUR,5,34,32,1,1,demo_generated
+2026-05-09,8,Rajasthan,UDAIPUR,6,25,37,1,1,demo_generated
+2026-05-09,8,Rajasthan,UDAIPUR,7,53,27,1,0,demo_generated
+2026-05-09,8,Rajasthan,UDAIPUR,8,44,31,1,1,demo_generated
+2026-05-09,8,Rajasthan,AJMER,1,31,19,1,1,demo_generated
+2026-05-09,8,Rajasthan,AJMER,2,46,33,1,1,demo_generated
+2026-05-09,8,Rajasthan,AJMER,3,31,29,1,1,demo_generated
+2026-05-09,8,Rajasthan,AJMER,4,40,27,1,0,demo_generated
+2026-05-09,8,Rajasthan,AJMER,5,27,30,1,1,demo_generated
+2026-05-09,8,Rajasthan,AJMER,6,33,30,0,1,demo_generated
+2026-05-09,8,Rajasthan,AJMER,7,31,43,1,1,demo_generated
+2026-05-09,8,Rajasthan,AJMER,8,57,22,1,1,demo_generated
+2026-05-09,8,Rajasthan,KOTA,1,18,29,1,1,demo_generated
+2026-05-09,8,Rajasthan,KOTA,2,19,18,1,1,demo_generated
+2026-05-09,8,Rajasthan,KOTA,3,30,38,1,1,demo_generated
+2026-05-09,8,Rajasthan,KOTA,4,33,11,1,1,demo_generated
+2026-05-09,8,Rajasthan,KOTA,5,32,30,1,1,demo_generated
+2026-05-09,8,Rajasthan,KOTA,6,33,41,1,0,demo_generated
+2026-05-09,8,Rajasthan,KOTA,7,42,32,1,1,demo_generated
+2026-05-09,8,Rajasthan,KOTA,8,51,19,1,0,demo_generated
+2026-05-09,8,Maharashtra,PUNE,1,30,30,1,1,demo_generated
+2026-05-09,8,Maharashtra,PUNE,2,34,19,1,1,demo_generated
+2026-05-09,8,Maharashtra,PUNE,3,19,31,0,1,demo_generated
+2026-05-09,8,Maharashtra,PUNE,4,22,26,1,1,demo_generated
+2026-05-09,8,Maharashtra,PUNE,5,35,20,1,1,demo_generated
+2026-05-09,8,Maharashtra,PUNE,6,37,24,1,1,demo_generated
+2026-05-09,8,Maharashtra,PUNE,7,32,36,1,1,demo_generated
+2026-05-09,8,Maharashtra,PUNE,8,34,34,1,1,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,1,38,31,1,1,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,2,37,25,1,1,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,3,38,29,1,1,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,4,45,33,1,0,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,5,30,36,1,1,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,6,45,27,0,1,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,7,29,8,1,1,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,8,36,29,1,1,demo_generated
+2026-05-09,8,Maharashtra,AURANGABAD,1,39,36,1,1,demo_generated
+2026-05-09,8,Maharashtra,AURANGABAD,2,23,40,1,1,demo_generated
+2026-05-09,8,Maharashtra,AURANGABAD,3,28,27,1,0,demo_generated
+2026-05-09,8,Maharashtra,AURANGABAD,4,16,35,0,1,demo_generated
+2026-05-09,8,Maharashtra,AURANGABAD,5,26,26,1,1,demo_generated
+2026-05-09,8,Maharashtra,AURANGABAD,6,25,40,1,1,demo_generated
+2026-05-09,8,Maharashtra,AURANGABAD,7,31,20,0,1,demo_generated
+2026-05-09,8,Maharashtra,AURANGABAD,8,25,39,1,1,demo_generated
+2026-05-09,8,Maharashtra,NAGPUR,1,28,27,1,1,demo_generated
+2026-05-09,8,Maharashtra,NAGPUR,2,35,29,1,1,demo_generated
+2026-05-09,8,Maharashtra,NAGPUR,3,20,37,1,1,demo_generated
+2026-05-09,8,Maharashtra,NAGPUR,4,33,34,1,0,demo_generated
+2026-05-09,8,Maharashtra,NAGPUR,5,40,13,1,1,demo_generated
+2026-05-09,8,Maharashtra,NAGPUR,6,40,54,1,1,demo_generated
+2026-05-09,8,Maharashtra,NAGPUR,7,38,43,1,1,demo_generated
+2026-05-09,8,Maharashtra,NAGPUR,8,42,37,1,1,demo_generated
+2026-05-09,8,Maharashtra,SOLAPUR,1,42,42,1,1,demo_generated
+2026-05-09,8,Maharashtra,SOLAPUR,2,44,21,1,1,demo_generated
+2026-05-09,8,Maharashtra,SOLAPUR,3,43,29,1,0,demo_generated
+2026-05-09,8,Maharashtra,SOLAPUR,4,45,36,1,1,demo_generated
+2026-05-09,8,Maharashtra,SOLAPUR,5,25,44,1,1,demo_generated
+2026-05-09,8,Maharashtra,SOLAPUR,6,28,29,1,1,demo_generated
+2026-05-09,8,Maharashtra,SOLAPUR,7,48,33,1,1,demo_generated
+2026-05-09,8,Maharashtra,SOLAPUR,8,32,31,1,0,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,1,32,39,1,0,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,2,32,31,1,1,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,3,39,36,1,1,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,4,29,39,1,1,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,5,30,22,1,1,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,6,20,30,1,1,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,7,22,24,1,1,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,8,34,42,1,1,demo_generated
+2026-05-09,8,Gujarat,SURAT,1,32,19,1,0,demo_generated
+2026-05-09,8,Gujarat,SURAT,2,34,42,1,1,demo_generated
+2026-05-09,8,Gujarat,SURAT,3,32,44,1,1,demo_generated
+2026-05-09,8,Gujarat,SURAT,4,34,38,1,1,demo_generated
+2026-05-09,8,Gujarat,SURAT,5,36,43,1,1,demo_generated
+2026-05-09,8,Gujarat,SURAT,6,52,27,1,1,demo_generated
+2026-05-09,8,Gujarat,SURAT,7,36,42,1,1,demo_generated
+2026-05-09,8,Gujarat,SURAT,8,37,15,1,1,demo_generated
+2026-05-09,8,Gujarat,VADODARA,1,32,34,1,1,demo_generated
+2026-05-09,8,Gujarat,VADODARA,2,47,32,1,1,demo_generated
+2026-05-09,8,Gujarat,VADODARA,3,27,34,1,1,demo_generated
+2026-05-09,8,Gujarat,VADODARA,4,46,26,1,1,demo_generated
+2026-05-09,8,Gujarat,VADODARA,5,30,26,1,1,demo_generated
+2026-05-09,8,Gujarat,VADODARA,6,24,32,1,0,demo_generated
+2026-05-09,8,Gujarat,VADODARA,7,34,16,0,1,demo_generated
+2026-05-09,8,Gujarat,VADODARA,8,28,33,1,1,demo_generated
+2026-05-09,8,Gujarat,RAJKOT,1,40,40,1,1,demo_generated
+2026-05-09,8,Gujarat,RAJKOT,2,41,31,1,1,demo_generated
+2026-05-09,8,Gujarat,RAJKOT,3,23,29,1,1,demo_generated
+2026-05-09,8,Gujarat,RAJKOT,4,15,33,1,0,demo_generated
+2026-05-09,8,Gujarat,RAJKOT,5,29,13,1,1,demo_generated
+2026-05-09,8,Gujarat,RAJKOT,6,37,45,1,1,demo_generated
+2026-05-09,8,Gujarat,RAJKOT,7,22,36,1,1,demo_generated
+2026-05-09,8,Gujarat,RAJKOT,8,31,25,1,0,demo_generated
+2026-05-09,8,Gujarat,GANDHINAGAR,1,28,28,1,1,demo_generated
+2026-05-09,8,Gujarat,GANDHINAGAR,2,31,31,1,1,demo_generated
+2026-05-09,8,Gujarat,GANDHINAGAR,3,28,25,1,1,demo_generated
+2026-05-09,8,Gujarat,GANDHINAGAR,4,39,23,1,0,demo_generated
+2026-05-09,8,Gujarat,GANDHINAGAR,5,37,28,1,1,demo_generated
+2026-05-09,8,Gujarat,GANDHINAGAR,6,30,48,0,1,demo_generated
+2026-05-09,8,Gujarat,GANDHINAGAR,7,24,45,0,1,demo_generated
+2026-05-09,8,Gujarat,GANDHINAGAR,8,41,26,0,1,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,1,41,7,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,2,29,23,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,3,38,38,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,4,37,33,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,5,42,38,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,6,29,27,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,7,40,31,1,0,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,8,35,33,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,1,20,25,1,0,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,2,38,25,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,3,33,36,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,4,42,42,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,5,44,30,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,6,33,21,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,7,46,29,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,8,46,34,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,GWALIOR,1,43,31,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,GWALIOR,2,39,41,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,GWALIOR,3,31,42,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,GWALIOR,4,26,48,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,GWALIOR,5,36,25,1,0,demo_generated
+2026-05-09,8,Madhya Pradesh,GWALIOR,6,41,34,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,GWALIOR,7,21,28,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,GWALIOR,8,26,23,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,JABALPUR,1,27,36,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,JABALPUR,2,42,25,0,1,demo_generated
+2026-05-09,8,Madhya Pradesh,JABALPUR,3,19,10,0,1,demo_generated
+2026-05-09,8,Madhya Pradesh,JABALPUR,4,51,33,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,JABALPUR,5,41,30,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,JABALPUR,6,18,35,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,JABALPUR,7,48,26,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,JABALPUR,8,17,21,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,UJJAIN,1,41,34,1,0,demo_generated
+2026-05-09,8,Madhya Pradesh,UJJAIN,2,44,32,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,UJJAIN,3,40,28,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,UJJAIN,4,26,38,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,UJJAIN,5,42,26,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,UJJAIN,6,47,46,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,UJJAIN,7,27,23,1,1,demo_generated
+2026-05-09,8,Madhya Pradesh,UJJAIN,8,28,30,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,1,31,17,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,2,28,11,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,3,19,15,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,4,50,42,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,5,40,22,0,1,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,6,23,27,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,7,38,22,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,8,38,18,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,1,30,25,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,2,49,21,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,3,54,30,0,1,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,4,55,20,0,0,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,5,26,22,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,6,35,41,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,7,30,35,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,8,50,29,0,1,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,1,43,21,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,2,38,32,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,3,24,20,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,4,32,14,1,0,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,5,29,26,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,6,23,42,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,7,43,55,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,8,25,31,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,KANPUR,1,29,18,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,KANPUR,2,42,28,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,KANPUR,3,32,29,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,KANPUR,4,28,20,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,KANPUR,5,29,36,1,0,demo_generated
+2026-05-16,9,Uttar Pradesh,KANPUR,6,43,17,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,KANPUR,7,49,27,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,KANPUR,8,38,22,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,ALLAHABAD,1,35,18,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,ALLAHABAD,2,28,34,1,0,demo_generated
+2026-05-16,9,Uttar Pradesh,ALLAHABAD,3,42,31,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,ALLAHABAD,4,31,17,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,ALLAHABAD,5,45,35,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,ALLAHABAD,6,20,35,1,0,demo_generated
+2026-05-16,9,Uttar Pradesh,ALLAHABAD,7,32,33,1,1,demo_generated
+2026-05-16,9,Uttar Pradesh,ALLAHABAD,8,23,22,1,1,demo_generated
+2026-05-16,9,Bihar,PATNA,1,35,42,0,1,demo_generated
+2026-05-16,9,Bihar,PATNA,2,56,28,0,1,demo_generated
+2026-05-16,9,Bihar,PATNA,3,43,29,1,0,demo_generated
+2026-05-16,9,Bihar,PATNA,4,36,31,1,1,demo_generated
+2026-05-16,9,Bihar,PATNA,5,34,34,1,1,demo_generated
+2026-05-16,9,Bihar,PATNA,6,26,27,1,1,demo_generated
+2026-05-16,9,Bihar,PATNA,7,50,36,1,1,demo_generated
+2026-05-16,9,Bihar,PATNA,8,37,36,1,1,demo_generated
+2026-05-16,9,Bihar,GAYA,1,47,12,1,1,demo_generated
+2026-05-16,9,Bihar,GAYA,2,32,22,1,1,demo_generated
+2026-05-16,9,Bihar,GAYA,3,23,44,1,1,demo_generated
+2026-05-16,9,Bihar,GAYA,4,39,35,1,1,demo_generated
+2026-05-16,9,Bihar,GAYA,5,29,25,1,0,demo_generated
+2026-05-16,9,Bihar,GAYA,6,34,30,1,1,demo_generated
+2026-05-16,9,Bihar,GAYA,7,41,14,1,0,demo_generated
+2026-05-16,9,Bihar,GAYA,8,40,25,1,1,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,1,47,38,1,1,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,2,37,28,1,1,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,3,32,30,1,1,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,4,45,28,1,1,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,5,30,28,1,0,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,6,37,18,1,1,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,7,24,23,1,1,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,8,47,37,1,0,demo_generated
+2026-05-16,9,Bihar,BHAGALPUR,1,22,20,1,1,demo_generated
+2026-05-16,9,Bihar,BHAGALPUR,2,41,24,1,0,demo_generated
+2026-05-16,9,Bihar,BHAGALPUR,3,38,15,1,0,demo_generated
+2026-05-16,9,Bihar,BHAGALPUR,4,35,27,1,1,demo_generated
+2026-05-16,9,Bihar,BHAGALPUR,5,42,30,1,0,demo_generated
+2026-05-16,9,Bihar,BHAGALPUR,6,36,14,1,1,demo_generated
+2026-05-16,9,Bihar,BHAGALPUR,7,50,33,1,1,demo_generated
+2026-05-16,9,Bihar,BHAGALPUR,8,29,29,1,1,demo_generated
+2026-05-16,9,Bihar,DARBHANGA,1,31,26,1,1,demo_generated
+2026-05-16,9,Bihar,DARBHANGA,2,44,20,1,1,demo_generated
+2026-05-16,9,Bihar,DARBHANGA,3,40,37,1,1,demo_generated
+2026-05-16,9,Bihar,DARBHANGA,4,39,26,1,1,demo_generated
+2026-05-16,9,Bihar,DARBHANGA,5,28,22,1,1,demo_generated
+2026-05-16,9,Bihar,DARBHANGA,6,36,13,1,0,demo_generated
+2026-05-16,9,Bihar,DARBHANGA,7,35,34,1,1,demo_generated
+2026-05-16,9,Bihar,DARBHANGA,8,23,36,1,1,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,1,56,31,1,1,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,2,33,30,1,1,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,3,35,29,1,0,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,4,19,30,1,1,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,5,27,33,0,1,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,6,45,23,1,0,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,7,49,28,1,0,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,8,28,38,1,1,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,1,31,31,1,1,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,2,35,37,1,1,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,3,34,30,1,0,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,4,31,36,1,1,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,5,30,44,1,1,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,6,35,16,1,1,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,7,37,36,1,1,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,8,45,25,1,1,demo_generated
+2026-05-16,9,Rajasthan,UDAIPUR,1,27,37,1,1,demo_generated
+2026-05-16,9,Rajasthan,UDAIPUR,2,44,25,1,1,demo_generated
+2026-05-16,9,Rajasthan,UDAIPUR,3,37,31,1,1,demo_generated
+2026-05-16,9,Rajasthan,UDAIPUR,4,29,30,1,1,demo_generated
+2026-05-16,9,Rajasthan,UDAIPUR,5,43,32,1,1,demo_generated
+2026-05-16,9,Rajasthan,UDAIPUR,6,33,37,1,1,demo_generated
+2026-05-16,9,Rajasthan,UDAIPUR,7,44,23,1,1,demo_generated
+2026-05-16,9,Rajasthan,UDAIPUR,8,37,28,1,1,demo_generated
+2026-05-16,9,Rajasthan,AJMER,1,35,38,1,1,demo_generated
+2026-05-16,9,Rajasthan,AJMER,2,32,13,1,0,demo_generated
+2026-05-16,9,Rajasthan,AJMER,3,34,40,1,0,demo_generated
+2026-05-16,9,Rajasthan,AJMER,4,38,31,1,1,demo_generated
+2026-05-16,9,Rajasthan,AJMER,5,36,32,1,1,demo_generated
+2026-05-16,9,Rajasthan,AJMER,6,21,33,1,1,demo_generated
+2026-05-16,9,Rajasthan,AJMER,7,24,42,1,1,demo_generated
+2026-05-16,9,Rajasthan,AJMER,8,24,28,0,1,demo_generated
+2026-05-16,9,Rajasthan,KOTA,1,30,45,1,1,demo_generated
+2026-05-16,9,Rajasthan,KOTA,2,43,11,1,1,demo_generated
+2026-05-16,9,Rajasthan,KOTA,3,34,21,1,1,demo_generated
+2026-05-16,9,Rajasthan,KOTA,4,36,37,1,1,demo_generated
+2026-05-16,9,Rajasthan,KOTA,5,36,38,1,1,demo_generated
+2026-05-16,9,Rajasthan,KOTA,6,32,34,1,1,demo_generated
+2026-05-16,9,Rajasthan,KOTA,7,40,28,1,1,demo_generated
+2026-05-16,9,Rajasthan,KOTA,8,28,26,1,1,demo_generated
+2026-05-16,9,Maharashtra,PUNE,1,34,32,1,1,demo_generated
+2026-05-16,9,Maharashtra,PUNE,2,37,25,1,1,demo_generated
+2026-05-16,9,Maharashtra,PUNE,3,40,48,0,1,demo_generated
+2026-05-16,9,Maharashtra,PUNE,4,30,54,0,1,demo_generated
+2026-05-16,9,Maharashtra,PUNE,5,50,32,1,1,demo_generated
+2026-05-16,9,Maharashtra,PUNE,6,33,26,1,1,demo_generated
+2026-05-16,9,Maharashtra,PUNE,7,41,32,1,1,demo_generated
+2026-05-16,9,Maharashtra,PUNE,8,36,24,1,1,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,1,42,29,1,1,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,2,26,31,0,1,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,3,28,44,1,1,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,4,50,31,1,1,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,5,43,41,1,0,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,6,11,26,1,1,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,7,35,28,1,1,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,8,29,42,1,1,demo_generated
+2026-05-16,9,Maharashtra,AURANGABAD,1,31,35,1,1,demo_generated
+2026-05-16,9,Maharashtra,AURANGABAD,2,43,44,1,1,demo_generated
+2026-05-16,9,Maharashtra,AURANGABAD,3,26,23,1,1,demo_generated
+2026-05-16,9,Maharashtra,AURANGABAD,4,36,14,1,1,demo_generated
+2026-05-16,9,Maharashtra,AURANGABAD,5,27,43,1,1,demo_generated
+2026-05-16,9,Maharashtra,AURANGABAD,6,40,30,1,1,demo_generated
+2026-05-16,9,Maharashtra,AURANGABAD,7,38,38,1,0,demo_generated
+2026-05-16,9,Maharashtra,AURANGABAD,8,23,27,1,1,demo_generated
+2026-05-16,9,Maharashtra,NAGPUR,1,53,44,0,0,demo_generated
+2026-05-16,9,Maharashtra,NAGPUR,2,36,34,0,1,demo_generated
+2026-05-16,9,Maharashtra,NAGPUR,3,34,16,1,1,demo_generated
+2026-05-16,9,Maharashtra,NAGPUR,4,30,35,1,1,demo_generated
+2026-05-16,9,Maharashtra,NAGPUR,5,31,22,1,1,demo_generated
+2026-05-16,9,Maharashtra,NAGPUR,6,27,44,1,1,demo_generated
+2026-05-16,9,Maharashtra,NAGPUR,7,30,42,1,1,demo_generated
+2026-05-16,9,Maharashtra,NAGPUR,8,37,29,1,1,demo_generated
+2026-05-16,9,Maharashtra,SOLAPUR,1,28,37,1,1,demo_generated
+2026-05-16,9,Maharashtra,SOLAPUR,2,43,38,1,1,demo_generated
+2026-05-16,9,Maharashtra,SOLAPUR,3,24,27,1,0,demo_generated
+2026-05-16,9,Maharashtra,SOLAPUR,4,31,14,1,1,demo_generated
+2026-05-16,9,Maharashtra,SOLAPUR,5,38,37,1,0,demo_generated
+2026-05-16,9,Maharashtra,SOLAPUR,6,39,35,1,0,demo_generated
+2026-05-16,9,Maharashtra,SOLAPUR,7,32,24,0,1,demo_generated
+2026-05-16,9,Maharashtra,SOLAPUR,8,32,34,1,1,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,1,45,32,1,1,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,2,35,15,1,1,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,3,38,44,1,1,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,4,34,30,1,1,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,5,31,38,1,1,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,6,19,42,1,0,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,7,33,35,1,1,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,8,41,23,1,1,demo_generated
+2026-05-16,9,Gujarat,SURAT,1,34,29,1,1,demo_generated
+2026-05-16,9,Gujarat,SURAT,2,25,41,1,1,demo_generated
+2026-05-16,9,Gujarat,SURAT,3,32,21,1,1,demo_generated
+2026-05-16,9,Gujarat,SURAT,4,35,19,1,1,demo_generated
+2026-05-16,9,Gujarat,SURAT,5,31,34,1,1,demo_generated
+2026-05-16,9,Gujarat,SURAT,6,22,37,1,1,demo_generated
+2026-05-16,9,Gujarat,SURAT,7,35,39,1,1,demo_generated
+2026-05-16,9,Gujarat,SURAT,8,41,27,1,0,demo_generated
+2026-05-16,9,Gujarat,VADODARA,1,31,36,1,1,demo_generated
+2026-05-16,9,Gujarat,VADODARA,2,26,22,1,1,demo_generated
+2026-05-16,9,Gujarat,VADODARA,3,30,19,1,1,demo_generated
+2026-05-16,9,Gujarat,VADODARA,4,25,21,1,1,demo_generated
+2026-05-16,9,Gujarat,VADODARA,5,32,28,1,1,demo_generated
+2026-05-16,9,Gujarat,VADODARA,6,42,29,1,1,demo_generated
+2026-05-16,9,Gujarat,VADODARA,7,34,47,1,0,demo_generated
+2026-05-16,9,Gujarat,VADODARA,8,17,33,1,1,demo_generated
+2026-05-16,9,Gujarat,RAJKOT,1,33,34,0,1,demo_generated
+2026-05-16,9,Gujarat,RAJKOT,2,30,29,1,1,demo_generated
+2026-05-16,9,Gujarat,RAJKOT,3,44,36,0,1,demo_generated
+2026-05-16,9,Gujarat,RAJKOT,4,32,25,1,1,demo_generated
+2026-05-16,9,Gujarat,RAJKOT,5,26,27,1,1,demo_generated
+2026-05-16,9,Gujarat,RAJKOT,6,12,30,0,1,demo_generated
+2026-05-16,9,Gujarat,RAJKOT,7,48,33,1,0,demo_generated
+2026-05-16,9,Gujarat,RAJKOT,8,29,11,1,1,demo_generated
+2026-05-16,9,Gujarat,GANDHINAGAR,1,28,27,1,1,demo_generated
+2026-05-16,9,Gujarat,GANDHINAGAR,2,36,27,1,1,demo_generated
+2026-05-16,9,Gujarat,GANDHINAGAR,3,49,29,1,1,demo_generated
+2026-05-16,9,Gujarat,GANDHINAGAR,4,42,17,0,1,demo_generated
+2026-05-16,9,Gujarat,GANDHINAGAR,5,34,24,0,1,demo_generated
+2026-05-16,9,Gujarat,GANDHINAGAR,6,43,28,1,1,demo_generated
+2026-05-16,9,Gujarat,GANDHINAGAR,7,45,37,1,1,demo_generated
+2026-05-16,9,Gujarat,GANDHINAGAR,8,30,22,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,1,29,29,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,2,39,31,1,0,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,3,41,44,1,0,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,4,35,23,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,5,37,49,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,6,41,34,1,0,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,7,28,30,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,8,22,21,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,1,37,16,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,2,32,20,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,3,26,32,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,4,29,19,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,5,30,19,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,6,44,38,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,7,40,24,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,8,38,33,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,GWALIOR,1,28,31,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,GWALIOR,2,22,22,1,0,demo_generated
+2026-05-16,9,Madhya Pradesh,GWALIOR,3,33,27,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,GWALIOR,4,37,25,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,GWALIOR,5,31,31,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,GWALIOR,6,28,28,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,GWALIOR,7,36,45,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,GWALIOR,8,28,27,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,JABALPUR,1,56,39,0,1,demo_generated
+2026-05-16,9,Madhya Pradesh,JABALPUR,2,43,36,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,JABALPUR,3,43,24,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,JABALPUR,4,42,38,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,JABALPUR,5,26,28,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,JABALPUR,6,18,32,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,JABALPUR,7,42,27,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,JABALPUR,8,27,22,1,0,demo_generated
+2026-05-16,9,Madhya Pradesh,UJJAIN,1,34,36,1,0,demo_generated
+2026-05-16,9,Madhya Pradesh,UJJAIN,2,47,12,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,UJJAIN,3,45,33,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,UJJAIN,4,42,37,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,UJJAIN,5,34,31,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,UJJAIN,6,37,29,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,UJJAIN,7,33,0,1,1,demo_generated
+2026-05-16,9,Madhya Pradesh,UJJAIN,8,39,24,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,1,42,35,1,0,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,2,31,31,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,3,38,22,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,4,39,39,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,5,43,16,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,6,38,34,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,7,29,35,1,0,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,8,28,25,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,1,29,21,1,0,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,2,37,17,0,1,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,3,33,29,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,4,29,36,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,5,33,38,1,0,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,6,48,16,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,7,37,29,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,8,31,28,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,1,56,31,0,1,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,2,40,26,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,3,38,21,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,4,40,38,0,1,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,5,41,22,0,1,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,6,27,45,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,7,45,33,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,8,46,27,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,KANPUR,1,40,36,1,0,demo_generated
+2026-05-23,10,Uttar Pradesh,KANPUR,2,32,30,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,KANPUR,3,43,19,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,KANPUR,4,31,36,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,KANPUR,5,36,28,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,KANPUR,6,34,36,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,KANPUR,7,27,23,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,KANPUR,8,24,25,0,1,demo_generated
+2026-05-23,10,Uttar Pradesh,ALLAHABAD,1,36,13,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,ALLAHABAD,2,28,29,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,ALLAHABAD,3,38,41,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,ALLAHABAD,4,39,26,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,ALLAHABAD,5,35,29,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,ALLAHABAD,6,31,29,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,ALLAHABAD,7,31,29,1,1,demo_generated
+2026-05-23,10,Uttar Pradesh,ALLAHABAD,8,34,26,1,1,demo_generated
+2026-05-23,10,Bihar,PATNA,1,33,33,1,1,demo_generated
+2026-05-23,10,Bihar,PATNA,2,40,25,1,1,demo_generated
+2026-05-23,10,Bihar,PATNA,3,40,27,1,1,demo_generated
+2026-05-23,10,Bihar,PATNA,4,34,23,1,0,demo_generated
+2026-05-23,10,Bihar,PATNA,5,47,39,1,1,demo_generated
+2026-05-23,10,Bihar,PATNA,6,29,25,1,1,demo_generated
+2026-05-23,10,Bihar,PATNA,7,37,31,0,1,demo_generated
+2026-05-23,10,Bihar,PATNA,8,26,21,1,1,demo_generated
+2026-05-23,10,Bihar,GAYA,1,12,31,1,1,demo_generated
+2026-05-23,10,Bihar,GAYA,2,23,22,1,1,demo_generated
+2026-05-23,10,Bihar,GAYA,3,41,34,1,1,demo_generated
+2026-05-23,10,Bihar,GAYA,4,47,43,1,1,demo_generated
+2026-05-23,10,Bihar,GAYA,5,57,24,1,1,demo_generated
+2026-05-23,10,Bihar,GAYA,6,30,30,1,0,demo_generated
+2026-05-23,10,Bihar,GAYA,7,24,25,1,0,demo_generated
+2026-05-23,10,Bihar,GAYA,8,36,31,1,1,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,1,39,25,0,1,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,2,25,19,1,1,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,3,19,23,1,1,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,4,24,23,1,1,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,5,38,18,1,0,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,6,35,25,1,1,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,7,37,32,0,1,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,8,32,28,1,1,demo_generated
+2026-05-23,10,Bihar,BHAGALPUR,1,32,23,1,1,demo_generated
+2026-05-23,10,Bihar,BHAGALPUR,2,29,31,0,0,demo_generated
+2026-05-23,10,Bihar,BHAGALPUR,3,45,36,1,0,demo_generated
+2026-05-23,10,Bihar,BHAGALPUR,4,24,37,0,1,demo_generated
+2026-05-23,10,Bihar,BHAGALPUR,5,27,29,0,1,demo_generated
+2026-05-23,10,Bihar,BHAGALPUR,6,37,15,1,1,demo_generated
+2026-05-23,10,Bihar,BHAGALPUR,7,33,38,0,1,demo_generated
+2026-05-23,10,Bihar,BHAGALPUR,8,17,46,1,1,demo_generated
+2026-05-23,10,Bihar,DARBHANGA,1,19,29,1,1,demo_generated
+2026-05-23,10,Bihar,DARBHANGA,2,23,31,1,1,demo_generated
+2026-05-23,10,Bihar,DARBHANGA,3,43,34,1,0,demo_generated
+2026-05-23,10,Bihar,DARBHANGA,4,23,35,0,1,demo_generated
+2026-05-23,10,Bihar,DARBHANGA,5,32,16,1,0,demo_generated
+2026-05-23,10,Bihar,DARBHANGA,6,45,44,1,1,demo_generated
+2026-05-23,10,Bihar,DARBHANGA,7,35,24,1,1,demo_generated
+2026-05-23,10,Bihar,DARBHANGA,8,28,33,1,1,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,1,43,28,1,1,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,2,47,37,1,1,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,3,35,34,0,1,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,4,27,38,1,1,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,5,27,27,1,1,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,6,34,49,1,1,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,7,36,24,1,1,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,8,37,37,1,0,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,1,44,31,1,1,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,2,29,51,1,1,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,3,37,24,1,1,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,4,34,27,0,1,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,5,45,37,1,1,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,6,32,41,0,1,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,7,34,31,1,1,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,8,29,25,0,0,demo_generated
+2026-05-23,10,Rajasthan,UDAIPUR,1,51,40,1,1,demo_generated
+2026-05-23,10,Rajasthan,UDAIPUR,2,20,23,1,1,demo_generated
+2026-05-23,10,Rajasthan,UDAIPUR,3,25,32,1,1,demo_generated
+2026-05-23,10,Rajasthan,UDAIPUR,4,31,45,1,1,demo_generated
+2026-05-23,10,Rajasthan,UDAIPUR,5,32,49,1,1,demo_generated
+2026-05-23,10,Rajasthan,UDAIPUR,6,34,52,1,0,demo_generated
+2026-05-23,10,Rajasthan,UDAIPUR,7,33,30,1,1,demo_generated
+2026-05-23,10,Rajasthan,UDAIPUR,8,42,39,1,1,demo_generated
+2026-05-23,10,Rajasthan,AJMER,1,24,32,1,1,demo_generated
+2026-05-23,10,Rajasthan,AJMER,2,31,27,1,1,demo_generated
+2026-05-23,10,Rajasthan,AJMER,3,35,29,0,1,demo_generated
+2026-05-23,10,Rajasthan,AJMER,4,36,23,0,1,demo_generated
+2026-05-23,10,Rajasthan,AJMER,5,22,40,1,1,demo_generated
+2026-05-23,10,Rajasthan,AJMER,6,44,40,0,1,demo_generated
+2026-05-23,10,Rajasthan,AJMER,7,35,28,1,1,demo_generated
+2026-05-23,10,Rajasthan,AJMER,8,30,24,1,1,demo_generated
+2026-05-23,10,Rajasthan,KOTA,1,34,42,1,1,demo_generated
+2026-05-23,10,Rajasthan,KOTA,2,29,42,1,1,demo_generated
+2026-05-23,10,Rajasthan,KOTA,3,23,34,1,1,demo_generated
+2026-05-23,10,Rajasthan,KOTA,4,38,27,0,1,demo_generated
+2026-05-23,10,Rajasthan,KOTA,5,26,39,1,1,demo_generated
+2026-05-23,10,Rajasthan,KOTA,6,35,55,0,1,demo_generated
+2026-05-23,10,Rajasthan,KOTA,7,44,42,1,0,demo_generated
+2026-05-23,10,Rajasthan,KOTA,8,15,25,1,1,demo_generated
+2026-05-23,10,Maharashtra,PUNE,1,25,14,0,1,demo_generated
+2026-05-23,10,Maharashtra,PUNE,2,34,39,1,0,demo_generated
+2026-05-23,10,Maharashtra,PUNE,3,27,14,1,1,demo_generated
+2026-05-23,10,Maharashtra,PUNE,4,27,30,1,1,demo_generated
+2026-05-23,10,Maharashtra,PUNE,5,33,32,1,1,demo_generated
+2026-05-23,10,Maharashtra,PUNE,6,38,31,0,1,demo_generated
+2026-05-23,10,Maharashtra,PUNE,7,42,23,0,1,demo_generated
+2026-05-23,10,Maharashtra,PUNE,8,32,37,0,1,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,1,37,48,1,1,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,2,27,37,1,1,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,3,29,25,1,1,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,4,43,31,1,1,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,5,37,26,1,1,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,6,30,18,1,0,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,7,36,22,1,1,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,8,33,39,1,0,demo_generated
+2026-05-23,10,Maharashtra,AURANGABAD,1,20,58,1,1,demo_generated
+2026-05-23,10,Maharashtra,AURANGABAD,2,28,30,1,1,demo_generated
+2026-05-23,10,Maharashtra,AURANGABAD,3,37,24,0,0,demo_generated
+2026-05-23,10,Maharashtra,AURANGABAD,4,31,42,1,1,demo_generated
+2026-05-23,10,Maharashtra,AURANGABAD,5,41,29,1,1,demo_generated
+2026-05-23,10,Maharashtra,AURANGABAD,6,34,33,1,1,demo_generated
+2026-05-23,10,Maharashtra,AURANGABAD,7,39,37,1,1,demo_generated
+2026-05-23,10,Maharashtra,AURANGABAD,8,39,28,0,1,demo_generated
+2026-05-23,10,Maharashtra,NAGPUR,1,35,40,1,1,demo_generated
+2026-05-23,10,Maharashtra,NAGPUR,2,52,32,1,1,demo_generated
+2026-05-23,10,Maharashtra,NAGPUR,3,30,24,1,1,demo_generated
+2026-05-23,10,Maharashtra,NAGPUR,4,39,17,1,1,demo_generated
+2026-05-23,10,Maharashtra,NAGPUR,5,39,37,1,1,demo_generated
+2026-05-23,10,Maharashtra,NAGPUR,6,30,34,1,1,demo_generated
+2026-05-23,10,Maharashtra,NAGPUR,7,33,20,1,1,demo_generated
+2026-05-23,10,Maharashtra,NAGPUR,8,39,36,1,0,demo_generated
+2026-05-23,10,Maharashtra,SOLAPUR,1,31,51,0,1,demo_generated
+2026-05-23,10,Maharashtra,SOLAPUR,2,35,15,1,1,demo_generated
+2026-05-23,10,Maharashtra,SOLAPUR,3,43,39,1,0,demo_generated
+2026-05-23,10,Maharashtra,SOLAPUR,4,42,23,1,1,demo_generated
+2026-05-23,10,Maharashtra,SOLAPUR,5,36,31,1,0,demo_generated
+2026-05-23,10,Maharashtra,SOLAPUR,6,33,44,1,1,demo_generated
+2026-05-23,10,Maharashtra,SOLAPUR,7,35,28,1,1,demo_generated
+2026-05-23,10,Maharashtra,SOLAPUR,8,31,22,1,1,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,1,35,44,1,0,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,2,32,34,1,1,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,3,33,31,1,1,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,4,41,22,1,1,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,5,23,41,1,1,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,6,30,28,1,1,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,7,54,39,1,1,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,8,28,42,1,1,demo_generated
+2026-05-23,10,Gujarat,SURAT,1,41,5,1,1,demo_generated
+2026-05-23,10,Gujarat,SURAT,2,36,22,1,1,demo_generated
+2026-05-23,10,Gujarat,SURAT,3,34,51,1,1,demo_generated
+2026-05-23,10,Gujarat,SURAT,4,42,41,1,1,demo_generated
+2026-05-23,10,Gujarat,SURAT,5,33,41,1,1,demo_generated
+2026-05-23,10,Gujarat,SURAT,6,29,33,0,1,demo_generated
+2026-05-23,10,Gujarat,SURAT,7,41,39,0,1,demo_generated
+2026-05-23,10,Gujarat,SURAT,8,23,49,1,1,demo_generated
+2026-05-23,10,Gujarat,VADODARA,1,27,56,1,1,demo_generated
+2026-05-23,10,Gujarat,VADODARA,2,41,38,0,1,demo_generated
+2026-05-23,10,Gujarat,VADODARA,3,28,27,1,1,demo_generated
+2026-05-23,10,Gujarat,VADODARA,4,49,46,1,1,demo_generated
+2026-05-23,10,Gujarat,VADODARA,5,33,29,1,1,demo_generated
+2026-05-23,10,Gujarat,VADODARA,6,33,42,0,1,demo_generated
+2026-05-23,10,Gujarat,VADODARA,7,43,35,1,1,demo_generated
+2026-05-23,10,Gujarat,VADODARA,8,36,30,1,0,demo_generated
+2026-05-23,10,Gujarat,RAJKOT,1,55,20,1,1,demo_generated
+2026-05-23,10,Gujarat,RAJKOT,2,31,34,1,1,demo_generated
+2026-05-23,10,Gujarat,RAJKOT,3,22,26,1,1,demo_generated
+2026-05-23,10,Gujarat,RAJKOT,4,52,40,1,1,demo_generated
+2026-05-23,10,Gujarat,RAJKOT,5,30,26,1,0,demo_generated
+2026-05-23,10,Gujarat,RAJKOT,6,24,28,1,0,demo_generated
+2026-05-23,10,Gujarat,RAJKOT,7,39,35,1,1,demo_generated
+2026-05-23,10,Gujarat,RAJKOT,8,31,23,1,1,demo_generated
+2026-05-23,10,Gujarat,GANDHINAGAR,1,33,30,1,1,demo_generated
+2026-05-23,10,Gujarat,GANDHINAGAR,2,41,34,0,1,demo_generated
+2026-05-23,10,Gujarat,GANDHINAGAR,3,35,43,1,1,demo_generated
+2026-05-23,10,Gujarat,GANDHINAGAR,4,48,35,1,1,demo_generated
+2026-05-23,10,Gujarat,GANDHINAGAR,5,38,30,1,1,demo_generated
+2026-05-23,10,Gujarat,GANDHINAGAR,6,28,40,1,0,demo_generated
+2026-05-23,10,Gujarat,GANDHINAGAR,7,40,31,1,1,demo_generated
+2026-05-23,10,Gujarat,GANDHINAGAR,8,36,42,1,0,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,1,45,10,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,2,29,31,0,1,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,3,26,34,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,4,30,34,0,1,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,5,30,27,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,6,37,40,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,7,39,31,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,8,20,27,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,1,29,38,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,2,36,33,0,1,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,3,28,44,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,4,36,24,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,5,28,34,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,6,27,26,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,7,26,38,1,0,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,8,28,46,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,GWALIOR,1,38,22,1,0,demo_generated
+2026-05-23,10,Madhya Pradesh,GWALIOR,2,39,44,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,GWALIOR,3,34,45,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,GWALIOR,4,38,26,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,GWALIOR,5,52,19,0,0,demo_generated
+2026-05-23,10,Madhya Pradesh,GWALIOR,6,32,31,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,GWALIOR,7,50,38,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,GWALIOR,8,39,25,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,JABALPUR,1,34,27,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,JABALPUR,2,39,42,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,JABALPUR,3,55,27,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,JABALPUR,4,24,29,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,JABALPUR,5,43,24,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,JABALPUR,6,35,37,0,1,demo_generated
+2026-05-23,10,Madhya Pradesh,JABALPUR,7,31,34,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,JABALPUR,8,27,43,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,UJJAIN,1,33,33,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,UJJAIN,2,21,22,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,UJJAIN,3,43,27,1,0,demo_generated
+2026-05-23,10,Madhya Pradesh,UJJAIN,4,27,19,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,UJJAIN,5,45,38,1,0,demo_generated
+2026-05-23,10,Madhya Pradesh,UJJAIN,6,40,47,0,1,demo_generated
+2026-05-23,10,Madhya Pradesh,UJJAIN,7,32,19,1,1,demo_generated
+2026-05-23,10,Madhya Pradesh,UJJAIN,8,35,49,1,0,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,1,35,36,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,2,24,22,1,0,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,3,42,29,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,4,34,36,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,5,42,29,0,1,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,6,16,28,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,7,38,14,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,8,38,36,0,1,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,1,35,20,1,0,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,2,16,30,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,3,22,32,0,1,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,4,49,10,1,0,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,5,29,26,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,6,50,29,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,7,31,36,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,8,31,22,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,1,39,36,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,2,14,22,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,3,36,26,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,4,34,20,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,5,40,40,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,6,28,33,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,7,43,29,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,8,40,22,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,KANPUR,1,47,36,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,KANPUR,2,45,18,1,0,demo_generated
+2026-05-30,11,Uttar Pradesh,KANPUR,3,39,22,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,KANPUR,4,47,22,1,0,demo_generated
+2026-05-30,11,Uttar Pradesh,KANPUR,5,37,12,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,KANPUR,6,36,18,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,KANPUR,7,39,26,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,KANPUR,8,32,40,0,1,demo_generated
+2026-05-30,11,Uttar Pradesh,ALLAHABAD,1,53,16,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,ALLAHABAD,2,32,34,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,ALLAHABAD,3,38,34,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,ALLAHABAD,4,34,36,0,1,demo_generated
+2026-05-30,11,Uttar Pradesh,ALLAHABAD,5,36,31,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,ALLAHABAD,6,26,28,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,ALLAHABAD,7,41,29,1,1,demo_generated
+2026-05-30,11,Uttar Pradesh,ALLAHABAD,8,51,29,0,1,demo_generated
+2026-05-30,11,Bihar,PATNA,1,39,29,1,0,demo_generated
+2026-05-30,11,Bihar,PATNA,2,34,35,1,1,demo_generated
+2026-05-30,11,Bihar,PATNA,3,34,18,1,1,demo_generated
+2026-05-30,11,Bihar,PATNA,4,47,22,1,0,demo_generated
+2026-05-30,11,Bihar,PATNA,5,23,32,0,1,demo_generated
+2026-05-30,11,Bihar,PATNA,6,48,32,0,1,demo_generated
+2026-05-30,11,Bihar,PATNA,7,46,21,1,1,demo_generated
+2026-05-30,11,Bihar,PATNA,8,25,25,1,1,demo_generated
+2026-05-30,11,Bihar,GAYA,1,43,32,0,1,demo_generated
+2026-05-30,11,Bihar,GAYA,2,40,29,1,1,demo_generated
+2026-05-30,11,Bihar,GAYA,3,32,29,1,1,demo_generated
+2026-05-30,11,Bihar,GAYA,4,33,24,1,1,demo_generated
+2026-05-30,11,Bihar,GAYA,5,38,25,1,1,demo_generated
+2026-05-30,11,Bihar,GAYA,6,37,13,1,1,demo_generated
+2026-05-30,11,Bihar,GAYA,7,36,25,0,1,demo_generated
+2026-05-30,11,Bihar,GAYA,8,46,15,1,1,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,1,36,34,1,1,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,2,34,25,1,1,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,3,42,31,1,0,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,4,39,24,1,1,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,5,31,29,1,1,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,6,42,17,1,1,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,7,34,23,1,0,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,8,35,34,1,1,demo_generated
+2026-05-30,11,Bihar,BHAGALPUR,1,28,32,1,1,demo_generated
+2026-05-30,11,Bihar,BHAGALPUR,2,32,36,1,0,demo_generated
+2026-05-30,11,Bihar,BHAGALPUR,3,29,35,1,1,demo_generated
+2026-05-30,11,Bihar,BHAGALPUR,4,25,29,1,0,demo_generated
+2026-05-30,11,Bihar,BHAGALPUR,5,40,22,1,1,demo_generated
+2026-05-30,11,Bihar,BHAGALPUR,6,18,24,1,0,demo_generated
+2026-05-30,11,Bihar,BHAGALPUR,7,35,25,1,1,demo_generated
+2026-05-30,11,Bihar,BHAGALPUR,8,30,35,0,1,demo_generated
+2026-05-30,11,Bihar,DARBHANGA,1,45,36,1,1,demo_generated
+2026-05-30,11,Bihar,DARBHANGA,2,38,32,1,1,demo_generated
+2026-05-30,11,Bihar,DARBHANGA,3,28,27,1,1,demo_generated
+2026-05-30,11,Bihar,DARBHANGA,4,36,29,0,1,demo_generated
+2026-05-30,11,Bihar,DARBHANGA,5,37,28,1,1,demo_generated
+2026-05-30,11,Bihar,DARBHANGA,6,38,29,1,1,demo_generated
+2026-05-30,11,Bihar,DARBHANGA,7,37,22,1,1,demo_generated
+2026-05-30,11,Bihar,DARBHANGA,8,26,30,1,1,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,1,31,26,1,1,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,2,40,31,1,1,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,3,46,37,0,0,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,4,29,38,1,1,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,5,38,25,1,1,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,6,31,38,1,1,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,7,21,13,1,1,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,8,36,33,1,1,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,1,37,33,1,1,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,2,38,43,1,1,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,3,35,19,1,0,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,4,20,29,1,0,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,5,32,20,1,1,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,6,17,28,1,0,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,7,48,35,0,0,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,8,37,30,1,1,demo_generated
+2026-05-30,11,Rajasthan,UDAIPUR,1,32,36,1,1,demo_generated
+2026-05-30,11,Rajasthan,UDAIPUR,2,26,50,1,0,demo_generated
+2026-05-30,11,Rajasthan,UDAIPUR,3,26,37,0,1,demo_generated
+2026-05-30,11,Rajasthan,UDAIPUR,4,27,33,1,1,demo_generated
+2026-05-30,11,Rajasthan,UDAIPUR,5,40,18,1,1,demo_generated
+2026-05-30,11,Rajasthan,UDAIPUR,6,27,24,0,1,demo_generated
+2026-05-30,11,Rajasthan,UDAIPUR,7,33,34,0,1,demo_generated
+2026-05-30,11,Rajasthan,UDAIPUR,8,49,27,1,1,demo_generated
+2026-05-30,11,Rajasthan,AJMER,1,48,35,1,1,demo_generated
+2026-05-30,11,Rajasthan,AJMER,2,26,30,1,1,demo_generated
+2026-05-30,11,Rajasthan,AJMER,3,24,29,1,1,demo_generated
+2026-05-30,11,Rajasthan,AJMER,4,32,33,1,1,demo_generated
+2026-05-30,11,Rajasthan,AJMER,5,40,31,0,1,demo_generated
+2026-05-30,11,Rajasthan,AJMER,6,27,52,1,0,demo_generated
+2026-05-30,11,Rajasthan,AJMER,7,46,48,1,1,demo_generated
+2026-05-30,11,Rajasthan,AJMER,8,33,35,1,1,demo_generated
+2026-05-30,11,Rajasthan,KOTA,1,33,33,0,1,demo_generated
+2026-05-30,11,Rajasthan,KOTA,2,36,21,1,1,demo_generated
+2026-05-30,11,Rajasthan,KOTA,3,32,41,1,1,demo_generated
+2026-05-30,11,Rajasthan,KOTA,4,42,29,1,0,demo_generated
+2026-05-30,11,Rajasthan,KOTA,5,37,29,1,1,demo_generated
+2026-05-30,11,Rajasthan,KOTA,6,40,18,1,1,demo_generated
+2026-05-30,11,Rajasthan,KOTA,7,39,45,1,1,demo_generated
+2026-05-30,11,Rajasthan,KOTA,8,29,43,1,1,demo_generated
+2026-05-30,11,Maharashtra,PUNE,1,37,31,1,0,demo_generated
+2026-05-30,11,Maharashtra,PUNE,2,32,44,0,1,demo_generated
+2026-05-30,11,Maharashtra,PUNE,3,33,46,1,1,demo_generated
+2026-05-30,11,Maharashtra,PUNE,4,47,27,1,1,demo_generated
+2026-05-30,11,Maharashtra,PUNE,5,33,15,1,1,demo_generated
+2026-05-30,11,Maharashtra,PUNE,6,34,32,1,1,demo_generated
+2026-05-30,11,Maharashtra,PUNE,7,44,46,1,1,demo_generated
+2026-05-30,11,Maharashtra,PUNE,8,41,41,1,1,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,1,33,21,0,1,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,2,37,42,1,1,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,3,14,33,1,1,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,4,21,25,0,1,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,5,36,46,1,1,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,6,35,38,1,1,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,7,37,25,1,1,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,8,38,21,0,1,demo_generated
+2026-05-30,11,Maharashtra,AURANGABAD,1,35,44,1,0,demo_generated
+2026-05-30,11,Maharashtra,AURANGABAD,2,36,34,1,1,demo_generated
+2026-05-30,11,Maharashtra,AURANGABAD,3,32,18,1,0,demo_generated
+2026-05-30,11,Maharashtra,AURANGABAD,4,33,40,1,0,demo_generated
+2026-05-30,11,Maharashtra,AURANGABAD,5,38,21,1,1,demo_generated
+2026-05-30,11,Maharashtra,AURANGABAD,6,21,25,0,0,demo_generated
+2026-05-30,11,Maharashtra,AURANGABAD,7,33,30,1,1,demo_generated
+2026-05-30,11,Maharashtra,AURANGABAD,8,34,32,1,1,demo_generated
+2026-05-30,11,Maharashtra,NAGPUR,1,38,28,1,1,demo_generated
+2026-05-30,11,Maharashtra,NAGPUR,2,27,37,1,1,demo_generated
+2026-05-30,11,Maharashtra,NAGPUR,3,42,27,1,1,demo_generated
+2026-05-30,11,Maharashtra,NAGPUR,4,51,45,1,1,demo_generated
+2026-05-30,11,Maharashtra,NAGPUR,5,26,16,1,1,demo_generated
+2026-05-30,11,Maharashtra,NAGPUR,6,33,34,1,1,demo_generated
+2026-05-30,11,Maharashtra,NAGPUR,7,51,49,1,1,demo_generated
+2026-05-30,11,Maharashtra,NAGPUR,8,40,28,1,1,demo_generated
+2026-05-30,11,Maharashtra,SOLAPUR,1,44,33,0,1,demo_generated
+2026-05-30,11,Maharashtra,SOLAPUR,2,24,20,1,1,demo_generated
+2026-05-30,11,Maharashtra,SOLAPUR,3,32,41,1,1,demo_generated
+2026-05-30,11,Maharashtra,SOLAPUR,4,27,28,1,0,demo_generated
+2026-05-30,11,Maharashtra,SOLAPUR,5,47,35,1,0,demo_generated
+2026-05-30,11,Maharashtra,SOLAPUR,6,49,36,0,1,demo_generated
+2026-05-30,11,Maharashtra,SOLAPUR,7,43,29,0,1,demo_generated
+2026-05-30,11,Maharashtra,SOLAPUR,8,47,38,1,1,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,1,34,44,1,1,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,2,40,32,1,0,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,3,39,24,1,1,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,4,44,50,1,0,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,5,22,27,1,1,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,6,30,39,1,1,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,7,36,28,1,1,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,8,33,27,1,1,demo_generated
+2026-05-30,11,Gujarat,SURAT,1,40,34,1,1,demo_generated
+2026-05-30,11,Gujarat,SURAT,2,32,27,0,1,demo_generated
+2026-05-30,11,Gujarat,SURAT,3,46,42,1,1,demo_generated
+2026-05-30,11,Gujarat,SURAT,4,40,41,1,0,demo_generated
+2026-05-30,11,Gujarat,SURAT,5,24,23,0,1,demo_generated
+2026-05-30,11,Gujarat,SURAT,6,26,32,1,1,demo_generated
+2026-05-30,11,Gujarat,SURAT,7,43,28,0,1,demo_generated
+2026-05-30,11,Gujarat,SURAT,8,45,27,1,1,demo_generated
+2026-05-30,11,Gujarat,VADODARA,1,34,28,0,1,demo_generated
+2026-05-30,11,Gujarat,VADODARA,2,33,31,0,1,demo_generated
+2026-05-30,11,Gujarat,VADODARA,3,21,35,1,1,demo_generated
+2026-05-30,11,Gujarat,VADODARA,4,34,46,1,1,demo_generated
+2026-05-30,11,Gujarat,VADODARA,5,39,35,1,1,demo_generated
+2026-05-30,11,Gujarat,VADODARA,6,47,44,1,1,demo_generated
+2026-05-30,11,Gujarat,VADODARA,7,48,27,1,1,demo_generated
+2026-05-30,11,Gujarat,VADODARA,8,26,16,1,1,demo_generated
+2026-05-30,11,Gujarat,RAJKOT,1,43,15,1,1,demo_generated
+2026-05-30,11,Gujarat,RAJKOT,2,36,39,0,0,demo_generated
+2026-05-30,11,Gujarat,RAJKOT,3,23,23,1,0,demo_generated
+2026-05-30,11,Gujarat,RAJKOT,4,44,36,1,1,demo_generated
+2026-05-30,11,Gujarat,RAJKOT,5,44,34,1,1,demo_generated
+2026-05-30,11,Gujarat,RAJKOT,6,27,28,1,0,demo_generated
+2026-05-30,11,Gujarat,RAJKOT,7,42,18,1,1,demo_generated
+2026-05-30,11,Gujarat,RAJKOT,8,31,26,1,1,demo_generated
+2026-05-30,11,Gujarat,GANDHINAGAR,1,34,37,1,1,demo_generated
+2026-05-30,11,Gujarat,GANDHINAGAR,2,44,20,1,1,demo_generated
+2026-05-30,11,Gujarat,GANDHINAGAR,3,28,21,1,0,demo_generated
+2026-05-30,11,Gujarat,GANDHINAGAR,4,34,22,1,1,demo_generated
+2026-05-30,11,Gujarat,GANDHINAGAR,5,38,23,0,0,demo_generated
+2026-05-30,11,Gujarat,GANDHINAGAR,6,45,16,1,1,demo_generated
+2026-05-30,11,Gujarat,GANDHINAGAR,7,28,47,1,1,demo_generated
+2026-05-30,11,Gujarat,GANDHINAGAR,8,36,27,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,1,57,29,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,2,39,25,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,3,27,38,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,4,49,28,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,5,26,41,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,6,31,35,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,7,31,29,1,0,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,8,28,38,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,1,38,35,0,1,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,2,29,35,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,3,50,23,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,4,28,25,0,1,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,5,36,22,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,6,39,16,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,7,41,35,0,1,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,8,50,23,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,GWALIOR,1,43,31,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,GWALIOR,2,32,23,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,GWALIOR,3,31,28,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,GWALIOR,4,23,35,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,GWALIOR,5,36,37,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,GWALIOR,6,30,39,1,0,demo_generated
+2026-05-30,11,Madhya Pradesh,GWALIOR,7,46,30,1,0,demo_generated
+2026-05-30,11,Madhya Pradesh,GWALIOR,8,27,32,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,JABALPUR,1,35,30,0,1,demo_generated
+2026-05-30,11,Madhya Pradesh,JABALPUR,2,39,29,0,1,demo_generated
+2026-05-30,11,Madhya Pradesh,JABALPUR,3,26,33,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,JABALPUR,4,40,38,0,1,demo_generated
+2026-05-30,11,Madhya Pradesh,JABALPUR,5,31,34,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,JABALPUR,6,46,44,0,1,demo_generated
+2026-05-30,11,Madhya Pradesh,JABALPUR,7,43,18,1,0,demo_generated
+2026-05-30,11,Madhya Pradesh,JABALPUR,8,32,44,1,0,demo_generated
+2026-05-30,11,Madhya Pradesh,UJJAIN,1,22,31,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,UJJAIN,2,30,34,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,UJJAIN,3,18,42,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,UJJAIN,4,34,22,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,UJJAIN,5,29,35,1,0,demo_generated
+2026-05-30,11,Madhya Pradesh,UJJAIN,6,28,47,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,UJJAIN,7,34,45,1,1,demo_generated
+2026-05-30,11,Madhya Pradesh,UJJAIN,8,36,38,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,1,40,23,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,2,40,24,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,3,22,26,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,4,25,24,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,5,34,20,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,6,39,24,0,0,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,7,25,20,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,8,35,25,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,1,37,29,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,2,27,22,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,3,41,21,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,4,47,16,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,5,41,27,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,6,27,28,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,7,28,23,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,8,31,33,0,1,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,1,29,29,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,2,41,28,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,3,38,27,0,1,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,4,39,17,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,5,46,13,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,6,29,27,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,7,20,23,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,8,37,40,0,1,demo_generated
+2026-06-06,12,Uttar Pradesh,KANPUR,1,39,24,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,KANPUR,2,23,37,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,KANPUR,3,31,29,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,KANPUR,4,31,30,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,KANPUR,5,44,33,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,KANPUR,6,32,37,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,KANPUR,7,49,35,0,1,demo_generated
+2026-06-06,12,Uttar Pradesh,KANPUR,8,31,34,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,ALLAHABAD,1,42,25,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,ALLAHABAD,2,49,36,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,ALLAHABAD,3,33,24,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,ALLAHABAD,4,42,44,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,ALLAHABAD,5,25,30,1,0,demo_generated
+2026-06-06,12,Uttar Pradesh,ALLAHABAD,6,41,37,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,ALLAHABAD,7,41,23,1,1,demo_generated
+2026-06-06,12,Uttar Pradesh,ALLAHABAD,8,24,25,1,1,demo_generated
+2026-06-06,12,Bihar,PATNA,1,41,22,0,1,demo_generated
+2026-06-06,12,Bihar,PATNA,2,46,26,1,1,demo_generated
+2026-06-06,12,Bihar,PATNA,3,29,11,1,0,demo_generated
+2026-06-06,12,Bihar,PATNA,4,39,25,1,0,demo_generated
+2026-06-06,12,Bihar,PATNA,5,31,44,1,1,demo_generated
+2026-06-06,12,Bihar,PATNA,6,30,24,1,1,demo_generated
+2026-06-06,12,Bihar,PATNA,7,39,38,1,0,demo_generated
+2026-06-06,12,Bihar,PATNA,8,38,28,1,1,demo_generated
+2026-06-06,12,Bihar,GAYA,1,52,24,1,1,demo_generated
+2026-06-06,12,Bihar,GAYA,2,31,22,1,1,demo_generated
+2026-06-06,12,Bihar,GAYA,3,38,21,1,1,demo_generated
+2026-06-06,12,Bihar,GAYA,4,26,24,1,1,demo_generated
+2026-06-06,12,Bihar,GAYA,5,22,29,1,1,demo_generated
+2026-06-06,12,Bihar,GAYA,6,38,32,1,1,demo_generated
+2026-06-06,12,Bihar,GAYA,7,42,25,1,0,demo_generated
+2026-06-06,12,Bihar,GAYA,8,45,36,1,1,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,1,27,27,1,0,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,2,17,37,1,1,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,3,41,39,1,1,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,4,23,31,0,1,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,5,31,13,1,1,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,6,43,18,1,1,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,7,37,23,1,1,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,8,36,35,1,1,demo_generated
+2026-06-06,12,Bihar,BHAGALPUR,1,36,46,0,0,demo_generated
+2026-06-06,12,Bihar,BHAGALPUR,2,28,44,1,1,demo_generated
+2026-06-06,12,Bihar,BHAGALPUR,3,32,22,1,1,demo_generated
+2026-06-06,12,Bihar,BHAGALPUR,4,34,16,1,1,demo_generated
+2026-06-06,12,Bihar,BHAGALPUR,5,30,25,1,1,demo_generated
+2026-06-06,12,Bihar,BHAGALPUR,6,37,28,1,1,demo_generated
+2026-06-06,12,Bihar,BHAGALPUR,7,39,27,1,0,demo_generated
+2026-06-06,12,Bihar,BHAGALPUR,8,43,33,1,1,demo_generated
+2026-06-06,12,Bihar,DARBHANGA,1,38,37,1,1,demo_generated
+2026-06-06,12,Bihar,DARBHANGA,2,45,29,0,1,demo_generated
+2026-06-06,12,Bihar,DARBHANGA,3,32,29,1,1,demo_generated
+2026-06-06,12,Bihar,DARBHANGA,4,34,24,1,1,demo_generated
+2026-06-06,12,Bihar,DARBHANGA,5,36,30,1,1,demo_generated
+2026-06-06,12,Bihar,DARBHANGA,6,40,39,1,1,demo_generated
+2026-06-06,12,Bihar,DARBHANGA,7,37,27,1,1,demo_generated
+2026-06-06,12,Bihar,DARBHANGA,8,42,22,1,1,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,1,19,18,0,1,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,2,38,29,1,1,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,3,33,24,0,1,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,4,44,18,0,1,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,5,39,32,1,1,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,6,47,40,1,1,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,7,26,38,1,1,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,8,38,31,1,1,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,1,39,26,1,1,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,2,35,32,0,0,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,3,28,29,1,1,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,4,31,35,1,1,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,5,45,20,1,1,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,6,38,27,1,1,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,7,42,35,1,1,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,8,23,33,1,1,demo_generated
+2026-06-06,12,Rajasthan,UDAIPUR,1,34,21,1,1,demo_generated
+2026-06-06,12,Rajasthan,UDAIPUR,2,31,33,1,1,demo_generated
+2026-06-06,12,Rajasthan,UDAIPUR,3,31,41,1,0,demo_generated
+2026-06-06,12,Rajasthan,UDAIPUR,4,33,27,1,1,demo_generated
+2026-06-06,12,Rajasthan,UDAIPUR,5,36,34,1,1,demo_generated
+2026-06-06,12,Rajasthan,UDAIPUR,6,42,32,1,1,demo_generated
+2026-06-06,12,Rajasthan,UDAIPUR,7,3,34,1,1,demo_generated
+2026-06-06,12,Rajasthan,UDAIPUR,8,32,46,0,1,demo_generated
+2026-06-06,12,Rajasthan,AJMER,1,38,33,1,0,demo_generated
+2026-06-06,12,Rajasthan,AJMER,2,31,41,1,1,demo_generated
+2026-06-06,12,Rajasthan,AJMER,3,22,33,1,1,demo_generated
+2026-06-06,12,Rajasthan,AJMER,4,22,26,0,1,demo_generated
+2026-06-06,12,Rajasthan,AJMER,5,41,35,1,0,demo_generated
+2026-06-06,12,Rajasthan,AJMER,6,36,23,1,1,demo_generated
+2026-06-06,12,Rajasthan,AJMER,7,34,35,1,1,demo_generated
+2026-06-06,12,Rajasthan,AJMER,8,42,36,1,1,demo_generated
+2026-06-06,12,Rajasthan,KOTA,1,41,20,0,1,demo_generated
+2026-06-06,12,Rajasthan,KOTA,2,36,40,1,0,demo_generated
+2026-06-06,12,Rajasthan,KOTA,3,18,30,1,1,demo_generated
+2026-06-06,12,Rajasthan,KOTA,4,38,42,0,1,demo_generated
+2026-06-06,12,Rajasthan,KOTA,5,35,32,1,1,demo_generated
+2026-06-06,12,Rajasthan,KOTA,6,37,35,1,1,demo_generated
+2026-06-06,12,Rajasthan,KOTA,7,28,27,1,1,demo_generated
+2026-06-06,12,Rajasthan,KOTA,8,21,26,1,1,demo_generated
+2026-06-06,12,Maharashtra,PUNE,1,26,24,1,1,demo_generated
+2026-06-06,12,Maharashtra,PUNE,2,52,41,1,1,demo_generated
+2026-06-06,12,Maharashtra,PUNE,3,27,20,1,1,demo_generated
+2026-06-06,12,Maharashtra,PUNE,4,30,20,1,1,demo_generated
+2026-06-06,12,Maharashtra,PUNE,5,37,34,1,1,demo_generated
+2026-06-06,12,Maharashtra,PUNE,6,28,38,1,1,demo_generated
+2026-06-06,12,Maharashtra,PUNE,7,40,26,1,1,demo_generated
+2026-06-06,12,Maharashtra,PUNE,8,28,28,1,0,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,1,39,50,1,0,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,2,39,22,1,0,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,3,37,33,1,0,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,4,35,20,1,1,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,5,37,31,1,1,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,6,26,47,1,1,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,7,25,36,1,1,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,8,33,28,1,1,demo_generated
+2026-06-06,12,Maharashtra,AURANGABAD,1,45,40,1,1,demo_generated
+2026-06-06,12,Maharashtra,AURANGABAD,2,33,24,0,1,demo_generated
+2026-06-06,12,Maharashtra,AURANGABAD,3,31,29,1,1,demo_generated
+2026-06-06,12,Maharashtra,AURANGABAD,4,42,35,1,1,demo_generated
+2026-06-06,12,Maharashtra,AURANGABAD,5,42,20,1,1,demo_generated
+2026-06-06,12,Maharashtra,AURANGABAD,6,43,44,0,1,demo_generated
+2026-06-06,12,Maharashtra,AURANGABAD,7,29,39,1,0,demo_generated
+2026-06-06,12,Maharashtra,AURANGABAD,8,45,27,1,1,demo_generated
+2026-06-06,12,Maharashtra,NAGPUR,1,26,34,0,1,demo_generated
+2026-06-06,12,Maharashtra,NAGPUR,2,21,41,1,1,demo_generated
+2026-06-06,12,Maharashtra,NAGPUR,3,28,29,1,0,demo_generated
+2026-06-06,12,Maharashtra,NAGPUR,4,40,36,1,1,demo_generated
+2026-06-06,12,Maharashtra,NAGPUR,5,40,25,0,1,demo_generated
+2026-06-06,12,Maharashtra,NAGPUR,6,37,39,1,1,demo_generated
+2026-06-06,12,Maharashtra,NAGPUR,7,30,48,1,1,demo_generated
+2026-06-06,12,Maharashtra,NAGPUR,8,33,15,1,1,demo_generated
+2026-06-06,12,Maharashtra,SOLAPUR,1,33,43,1,0,demo_generated
+2026-06-06,12,Maharashtra,SOLAPUR,2,27,23,0,1,demo_generated
+2026-06-06,12,Maharashtra,SOLAPUR,3,38,22,1,0,demo_generated
+2026-06-06,12,Maharashtra,SOLAPUR,4,26,24,1,0,demo_generated
+2026-06-06,12,Maharashtra,SOLAPUR,5,47,36,1,1,demo_generated
+2026-06-06,12,Maharashtra,SOLAPUR,6,35,25,1,1,demo_generated
+2026-06-06,12,Maharashtra,SOLAPUR,7,41,37,1,1,demo_generated
+2026-06-06,12,Maharashtra,SOLAPUR,8,48,23,1,0,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,1,26,16,1,1,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,2,39,34,1,1,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,3,32,16,1,1,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,4,46,33,1,1,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,5,44,43,1,1,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,6,38,37,1,1,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,7,30,32,1,1,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,8,43,24,1,1,demo_generated
+2026-06-06,12,Gujarat,SURAT,1,42,39,1,1,demo_generated
+2026-06-06,12,Gujarat,SURAT,2,41,32,1,1,demo_generated
+2026-06-06,12,Gujarat,SURAT,3,29,48,1,1,demo_generated
+2026-06-06,12,Gujarat,SURAT,4,45,32,1,1,demo_generated
+2026-06-06,12,Gujarat,SURAT,5,36,29,0,1,demo_generated
+2026-06-06,12,Gujarat,SURAT,6,21,31,1,1,demo_generated
+2026-06-06,12,Gujarat,SURAT,7,39,27,1,1,demo_generated
+2026-06-06,12,Gujarat,SURAT,8,32,29,1,1,demo_generated
+2026-06-06,12,Gujarat,VADODARA,1,35,30,1,1,demo_generated
+2026-06-06,12,Gujarat,VADODARA,2,28,33,0,0,demo_generated
+2026-06-06,12,Gujarat,VADODARA,3,38,33,1,0,demo_generated
+2026-06-06,12,Gujarat,VADODARA,4,20,37,1,1,demo_generated
+2026-06-06,12,Gujarat,VADODARA,5,26,35,1,1,demo_generated
+2026-06-06,12,Gujarat,VADODARA,6,38,19,0,1,demo_generated
+2026-06-06,12,Gujarat,VADODARA,7,42,48,1,1,demo_generated
+2026-06-06,12,Gujarat,VADODARA,8,32,35,1,1,demo_generated
+2026-06-06,12,Gujarat,RAJKOT,1,31,21,1,1,demo_generated
+2026-06-06,12,Gujarat,RAJKOT,2,42,36,1,0,demo_generated
+2026-06-06,12,Gujarat,RAJKOT,3,29,22,1,1,demo_generated
+2026-06-06,12,Gujarat,RAJKOT,4,49,20,1,1,demo_generated
+2026-06-06,12,Gujarat,RAJKOT,5,39,33,1,1,demo_generated
+2026-06-06,12,Gujarat,RAJKOT,6,41,45,1,1,demo_generated
+2026-06-06,12,Gujarat,RAJKOT,7,15,23,1,0,demo_generated
+2026-06-06,12,Gujarat,RAJKOT,8,34,46,1,0,demo_generated
+2026-06-06,12,Gujarat,GANDHINAGAR,1,31,26,1,1,demo_generated
+2026-06-06,12,Gujarat,GANDHINAGAR,2,18,25,1,1,demo_generated
+2026-06-06,12,Gujarat,GANDHINAGAR,3,39,31,1,1,demo_generated
+2026-06-06,12,Gujarat,GANDHINAGAR,4,29,48,1,1,demo_generated
+2026-06-06,12,Gujarat,GANDHINAGAR,5,32,33,1,0,demo_generated
+2026-06-06,12,Gujarat,GANDHINAGAR,6,28,21,1,1,demo_generated
+2026-06-06,12,Gujarat,GANDHINAGAR,7,40,17,1,1,demo_generated
+2026-06-06,12,Gujarat,GANDHINAGAR,8,38,7,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,1,37,22,0,1,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,2,28,29,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,3,25,15,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,4,33,38,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,5,36,42,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,6,21,28,0,0,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,7,35,24,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,8,35,41,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,1,39,42,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,2,37,31,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,3,47,33,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,4,49,40,1,0,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,5,29,30,0,1,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,6,47,42,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,7,40,37,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,8,24,22,0,1,demo_generated
+2026-06-06,12,Madhya Pradesh,GWALIOR,1,36,51,1,0,demo_generated
+2026-06-06,12,Madhya Pradesh,GWALIOR,2,28,29,1,0,demo_generated
+2026-06-06,12,Madhya Pradesh,GWALIOR,3,32,37,1,0,demo_generated
+2026-06-06,12,Madhya Pradesh,GWALIOR,4,37,41,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,GWALIOR,5,37,33,1,0,demo_generated
+2026-06-06,12,Madhya Pradesh,GWALIOR,6,34,42,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,GWALIOR,7,35,25,0,1,demo_generated
+2026-06-06,12,Madhya Pradesh,GWALIOR,8,40,30,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,JABALPUR,1,42,7,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,JABALPUR,2,45,30,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,JABALPUR,3,45,40,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,JABALPUR,4,30,24,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,JABALPUR,5,27,22,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,JABALPUR,6,44,30,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,JABALPUR,7,48,26,0,0,demo_generated
+2026-06-06,12,Madhya Pradesh,JABALPUR,8,31,36,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,UJJAIN,1,47,27,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,UJJAIN,2,41,32,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,UJJAIN,3,39,25,1,1,demo_generated
+2026-06-06,12,Madhya Pradesh,UJJAIN,4,40,29,0,1,demo_generated
+2026-06-06,12,Madhya Pradesh,UJJAIN,5,31,31,0,1,demo_generated
+2026-06-06,12,Madhya Pradesh,UJJAIN,6,39,30,1,0,demo_generated
+2026-06-06,12,Madhya Pradesh,UJJAIN,7,31,30,0,1,demo_generated
+2026-06-06,12,Madhya Pradesh,UJJAIN,8,33,36,1,1,demo_generated

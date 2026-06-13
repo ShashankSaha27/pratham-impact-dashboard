@@ -1,0 +1,1248 @@
+date,week_number,state,district,activity_type,sessions_held,children_reached,girls_reached,teachers_trained,duration_hours,data_source
+2026-03-21,1,Uttar Pradesh,LUCKNOW,community_mobilisation,4,247,198,0,7.6,demo_generated
+2026-03-21,1,Uttar Pradesh,LUCKNOW,teacher_training,5,169,157,2,10.2,demo_generated
+2026-03-21,1,Uttar Pradesh,LUCKNOW,enrollment_drive,1,46,34,0,2.5,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,literacy_camp,4,91,73,0,6.6,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,enrollment_drive,2,62,49,0,4.4,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,teacher_training,3,102,77,2,8.7,demo_generated
+2026-03-21,1,Uttar Pradesh,VARANASI,mdm_monitoring,3,106,98,0,8.1,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,remedial_class,4,168,140,0,7.3,demo_generated
+2026-03-21,1,Uttar Pradesh,AGRA,girls_safety_audit,2,39,32,0,3.9,demo_generated
+2026-03-21,1,Uttar Pradesh,SHRAVASTI,girls_safety_audit,2,91,70,0,5.9,demo_generated
+2026-03-21,1,Uttar Pradesh,SHRAVASTI,community_mobilisation,5,201,189,0,11.4,demo_generated
+2026-03-21,1,Uttar Pradesh,SHRAVASTI,enrollment_drive,1,43,36,0,1.9,demo_generated
+2026-03-21,1,Uttar Pradesh,SHRAVASTI,literacy_camp,4,105,89,0,8.8,demo_generated
+2026-03-21,1,Uttar Pradesh,SHRAVASTI,remedial_class,3,73,64,0,5.0,demo_generated
+2026-03-21,1,Uttar Pradesh,BAHRAICH,teacher_training,2,53,47,2,4.4,demo_generated
+2026-03-21,1,Uttar Pradesh,BAHRAICH,enrollment_drive,4,137,118,0,9.1,demo_generated
+2026-03-21,1,Uttar Pradesh,BAHRAICH,community_mobilisation,4,120,108,0,6.5,demo_generated
+2026-03-21,1,Uttar Pradesh,BAHRAICH,literacy_camp,5,138,125,0,14.0,demo_generated
+2026-03-21,1,Uttar Pradesh,BAHRAICH,remedial_class,4,123,96,0,11.2,demo_generated
+2026-03-21,1,Bihar,PATNA,literacy_camp,6,298,237,0,10.9,demo_generated
+2026-03-21,1,Bihar,PATNA,community_mobilisation,4,99,83,0,10.1,demo_generated
+2026-03-21,1,Bihar,PATNA,remedial_class,3,91,72,0,8.1,demo_generated
+2026-03-21,1,Bihar,PATNA,enrollment_drive,4,167,141,0,11.6,demo_generated
+2026-03-21,1,Bihar,GAYA,literacy_camp,1,31,25,0,1.6,demo_generated
+2026-03-21,1,Bihar,GAYA,teacher_training,4,54,41,0,7.8,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,enrollment_drive,3,95,70,0,7.6,demo_generated
+2026-03-21,1,Bihar,MUZAFFARPUR,community_mobilisation,3,92,68,0,8.6,demo_generated
+2026-03-21,1,Bihar,ARARIA,community_mobilisation,3,110,95,0,7.6,demo_generated
+2026-03-21,1,Bihar,ARARIA,literacy_camp,4,98,76,0,9.5,demo_generated
+2026-03-21,1,Bihar,ARARIA,remedial_class,4,168,130,0,6.5,demo_generated
+2026-03-21,1,Bihar,ARARIA,enrollment_drive,4,200,174,0,9.5,demo_generated
+2026-03-21,1,Bihar,SITAMARHI,remedial_class,2,77,62,0,4.3,demo_generated
+2026-03-21,1,Bihar,SITAMARHI,enrollment_drive,5,163,132,0,14.2,demo_generated
+2026-03-21,1,Bihar,SITAMARHI,community_mobilisation,2,64,52,0,4.3,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,mdm_monitoring,3,74,71,0,6.7,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,remedial_class,4,168,148,0,11.5,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,literacy_camp,4,176,154,0,10.4,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,enrollment_drive,5,138,116,0,13.0,demo_generated
+2026-03-21,1,Rajasthan,JAIPUR,teacher_training,4,177,148,1,11.2,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,enrollment_drive,3,127,113,0,4.7,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,literacy_camp,2,100,80,0,5.3,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,community_mobilisation,5,180,170,0,9.7,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,remedial_class,5,241,220,0,11.6,demo_generated
+2026-03-21,1,Rajasthan,JODHPUR,girls_safety_audit,4,186,162,0,7.5,demo_generated
+2026-03-21,1,Rajasthan,BARMER,enrollment_drive,3,93,83,0,9.0,demo_generated
+2026-03-21,1,Rajasthan,BARMER,literacy_camp,4,154,151,0,7.6,demo_generated
+2026-03-21,1,Rajasthan,BARMER,remedial_class,4,148,132,0,11.0,demo_generated
+2026-03-21,1,Rajasthan,BARMER,girls_safety_audit,6,174,157,0,13.1,demo_generated
+2026-03-21,1,Rajasthan,DUNGARPUR,literacy_camp,5,187,165,0,9.6,demo_generated
+2026-03-21,1,Rajasthan,DUNGARPUR,remedial_class,3,66,61,0,6.8,demo_generated
+2026-03-21,1,Rajasthan,BANSWARA,remedial_class,4,131,116,0,8.3,demo_generated
+2026-03-21,1,Rajasthan,BANSWARA,mdm_monitoring,3,105,93,0,5.9,demo_generated
+2026-03-21,1,Rajasthan,BANSWARA,enrollment_drive,2,74,70,0,3.2,demo_generated
+2026-03-21,1,Rajasthan,BANSWARA,literacy_camp,3,111,100,0,8.9,demo_generated
+2026-03-21,1,Maharashtra,PUNE,literacy_camp,6,154,148,0,14.1,demo_generated
+2026-03-21,1,Maharashtra,PUNE,girls_safety_audit,3,123,99,0,7.8,demo_generated
+2026-03-21,1,Maharashtra,PUNE,remedial_class,4,110,107,0,8.3,demo_generated
+2026-03-21,1,Maharashtra,PUNE,enrollment_drive,5,234,198,0,10.2,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,mdm_monitoring,2,76,66,0,4.0,demo_generated
+2026-03-21,1,Maharashtra,NASHIK,enrollment_drive,5,190,176,0,9.8,demo_generated
+2026-03-21,1,Maharashtra,NANDURBAR,literacy_camp,2,71,68,0,3.5,demo_generated
+2026-03-21,1,Maharashtra,NANDURBAR,enrollment_drive,4,112,98,0,9.3,demo_generated
+2026-03-21,1,Maharashtra,NANDURBAR,girls_safety_audit,6,68,57,0,16.4,demo_generated
+2026-03-21,1,Maharashtra,NANDURBAR,community_mobilisation,6,152,140,0,12.7,demo_generated
+2026-03-21,1,Maharashtra,NANDURBAR,teacher_training,1,25,23,2,2.8,demo_generated
+2026-03-21,1,Maharashtra,GADCHIROLI,literacy_camp,4,142,125,0,9.4,demo_generated
+2026-03-21,1,Maharashtra,GADCHIROLI,community_mobilisation,4,189,178,0,8.1,demo_generated
+2026-03-21,1,Maharashtra,GADCHIROLI,enrollment_drive,5,163,138,0,8.5,demo_generated
+2026-03-21,1,Maharashtra,GADCHIROLI,remedial_class,4,159,138,0,10.7,demo_generated
+2026-03-21,1,Maharashtra,GADCHIROLI,teacher_training,5,100,85,1,13.4,demo_generated
+2026-03-21,1,Maharashtra,OSMANABAD,girls_safety_audit,3,117,114,0,5.2,demo_generated
+2026-03-21,1,Maharashtra,OSMANABAD,literacy_camp,3,121,105,0,6.9,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,remedial_class,1,31,29,0,2.9,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,literacy_camp,3,42,36,0,5.5,demo_generated
+2026-03-21,1,Gujarat,AHMEDABAD,enrollment_drive,3,59,59,0,5.1,demo_generated
+2026-03-21,1,Gujarat,SURAT,mdm_monitoring,4,164,142,0,6.6,demo_generated
+2026-03-21,1,Gujarat,SURAT,teacher_training,5,125,110,2,12.5,demo_generated
+2026-03-21,1,Gujarat,DAHOD,literacy_camp,4,122,104,0,6.2,demo_generated
+2026-03-21,1,Gujarat,DAHOD,community_mobilisation,4,84,71,0,7.2,demo_generated
+2026-03-21,1,Gujarat,DAHOD,remedial_class,5,222,192,0,14.5,demo_generated
+2026-03-21,1,Gujarat,NARMADA,community_mobilisation,3,147,123,0,8.4,demo_generated
+2026-03-21,1,Gujarat,NARMADA,literacy_camp,3,173,151,0,8.7,demo_generated
+2026-03-21,1,Gujarat,NARMADA,girls_safety_audit,4,59,49,0,8.7,demo_generated
+2026-03-21,1,Gujarat,NARMADA,enrollment_drive,3,92,88,0,6.4,demo_generated
+2026-03-21,1,Gujarat,TAPI,girls_safety_audit,3,87,76,0,5.5,demo_generated
+2026-03-21,1,Gujarat,TAPI,remedial_class,1,29,25,0,2.9,demo_generated
+2026-03-21,1,Gujarat,TAPI,community_mobilisation,6,146,135,0,16.8,demo_generated
+2026-03-21,1,Gujarat,TAPI,literacy_camp,3,109,98,0,5.3,demo_generated
+2026-03-21,1,Gujarat,TAPI,enrollment_drive,1,55,47,0,2.3,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,remedial_class,5,141,124,0,14.8,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,literacy_camp,4,132,117,0,10.8,demo_generated
+2026-03-21,1,Madhya Pradesh,BHOPAL,enrollment_drive,2,84,73,0,4.4,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,teacher_training,4,127,107,2,11.0,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,remedial_class,5,177,156,0,10.4,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,literacy_camp,2,42,37,0,6.0,demo_generated
+2026-03-21,1,Madhya Pradesh,INDORE,mdm_monitoring,4,160,138,0,6.7,demo_generated
+2026-03-21,1,Madhya Pradesh,SHEOPUR,enrollment_drive,5,188,172,0,10.7,demo_generated
+2026-03-21,1,Madhya Pradesh,SHEOPUR,literacy_camp,5,277,245,0,10.8,demo_generated
+2026-03-21,1,Madhya Pradesh,SHEOPUR,community_mobilisation,5,98,89,0,12.7,demo_generated
+2026-03-21,1,Madhya Pradesh,SHEOPUR,mdm_monitoring,3,107,98,0,6.9,demo_generated
+2026-03-21,1,Madhya Pradesh,BARWANI,girls_safety_audit,6,283,264,0,10.0,demo_generated
+2026-03-21,1,Madhya Pradesh,BARWANI,literacy_camp,4,195,167,0,7.4,demo_generated
+2026-03-21,1,Madhya Pradesh,DINDORI,girls_safety_audit,2,63,56,0,5.3,demo_generated
+2026-03-21,1,Madhya Pradesh,DINDORI,literacy_camp,3,84,78,0,5.4,demo_generated
+2026-03-21,1,Madhya Pradesh,DINDORI,community_mobilisation,3,86,79,0,8.4,demo_generated
+2026-03-21,1,Madhya Pradesh,DINDORI,enrollment_drive,4,143,118,0,7.0,demo_generated
+2026-03-21,1,Madhya Pradesh,DINDORI,remedial_class,4,158,148,0,7.6,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,remedial_class,3,82,68,0,8.4,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,community_mobilisation,3,67,55,0,7.1,demo_generated
+2026-03-28,2,Uttar Pradesh,LUCKNOW,teacher_training,2,69,58,1,3.0,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,girls_safety_audit,3,100,78,0,6.8,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,literacy_camp,2,84,68,0,4.3,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,teacher_training,3,52,44,3,8.4,demo_generated
+2026-03-28,2,Uttar Pradesh,VARANASI,remedial_class,2,91,75,0,3.5,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,teacher_training,4,56,46,1,10.0,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,literacy_camp,4,145,122,0,9.6,demo_generated
+2026-03-28,2,Uttar Pradesh,AGRA,community_mobilisation,4,131,98,0,6.7,demo_generated
+2026-03-28,2,Uttar Pradesh,SHRAVASTI,teacher_training,4,189,135,1,9.1,demo_generated
+2026-03-28,2,Uttar Pradesh,SHRAVASTI,community_mobilisation,2,75,60,0,4.5,demo_generated
+2026-03-28,2,Uttar Pradesh,BAHRAICH,enrollment_drive,5,175,132,0,8.5,demo_generated
+2026-03-28,2,Uttar Pradesh,BAHRAICH,literacy_camp,2,58,51,0,4.6,demo_generated
+2026-03-28,2,Uttar Pradesh,BAHRAICH,community_mobilisation,3,114,88,0,4.5,demo_generated
+2026-03-28,2,Uttar Pradesh,BAHRAICH,remedial_class,4,106,86,0,7.4,demo_generated
+2026-03-28,2,Uttar Pradesh,BAHRAICH,teacher_training,5,203,170,1,9.9,demo_generated
+2026-03-28,2,Bihar,PATNA,enrollment_drive,5,213,176,0,14.1,demo_generated
+2026-03-28,2,Bihar,PATNA,literacy_camp,4,119,93,0,10.8,demo_generated
+2026-03-28,2,Bihar,PATNA,remedial_class,5,287,226,0,14.5,demo_generated
+2026-03-28,2,Bihar,GAYA,literacy_camp,5,112,103,0,10.9,demo_generated
+2026-03-28,2,Bihar,GAYA,remedial_class,4,172,137,0,11.7,demo_generated
+2026-03-28,2,Bihar,GAYA,community_mobilisation,6,224,166,0,11.6,demo_generated
+2026-03-28,2,Bihar,GAYA,mdm_monitoring,3,126,110,0,6.3,demo_generated
+2026-03-28,2,Bihar,GAYA,teacher_training,3,114,93,2,6.2,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,literacy_camp,3,45,35,0,7.1,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,girls_safety_audit,2,64,58,0,5.8,demo_generated
+2026-03-28,2,Bihar,MUZAFFARPUR,teacher_training,2,88,74,2,3.9,demo_generated
+2026-03-28,2,Bihar,ARARIA,literacy_camp,3,100,85,0,9.0,demo_generated
+2026-03-28,2,Bihar,ARARIA,remedial_class,6,135,112,0,17.5,demo_generated
+2026-03-28,2,Bihar,ARARIA,community_mobilisation,4,163,147,0,7.9,demo_generated
+2026-03-28,2,Bihar,ARARIA,enrollment_drive,3,129,97,0,5.4,demo_generated
+2026-03-28,2,Bihar,ARARIA,girls_safety_audit,5,172,148,0,10.0,demo_generated
+2026-03-28,2,Bihar,SITAMARHI,teacher_training,6,275,231,2,10.1,demo_generated
+2026-03-28,2,Bihar,SITAMARHI,enrollment_drive,2,60,49,0,3.1,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,teacher_training,2,61,61,1,5.0,demo_generated
+2026-03-28,2,Rajasthan,JAIPUR,literacy_camp,2,33,29,0,4.4,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,remedial_class,6,294,280,0,15.3,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,enrollment_drive,4,209,209,0,11.9,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,community_mobilisation,7,107,105,0,12.3,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,literacy_camp,4,124,117,0,10.0,demo_generated
+2026-03-28,2,Rajasthan,JODHPUR,mdm_monitoring,6,195,189,0,15.0,demo_generated
+2026-03-28,2,Rajasthan,BARMER,community_mobilisation,4,123,119,0,11.4,demo_generated
+2026-03-28,2,Rajasthan,BARMER,literacy_camp,1,56,52,0,3.0,demo_generated
+2026-03-28,2,Rajasthan,BARMER,teacher_training,3,139,132,3,5.8,demo_generated
+2026-03-28,2,Rajasthan,DUNGARPUR,enrollment_drive,1,41,39,0,2.7,demo_generated
+2026-03-28,2,Rajasthan,DUNGARPUR,literacy_camp,4,151,139,0,10.1,demo_generated
+2026-03-28,2,Rajasthan,DUNGARPUR,teacher_training,2,47,44,3,5.2,demo_generated
+2026-03-28,2,Rajasthan,DUNGARPUR,remedial_class,3,70,64,0,8.9,demo_generated
+2026-03-28,2,Rajasthan,BANSWARA,enrollment_drive,2,91,85,0,4.6,demo_generated
+2026-03-28,2,Rajasthan,BANSWARA,community_mobilisation,5,228,207,0,10.3,demo_generated
+2026-03-28,2,Rajasthan,BANSWARA,remedial_class,4,36,30,0,11.0,demo_generated
+2026-03-28,2,Rajasthan,BANSWARA,literacy_camp,2,62,53,0,3.9,demo_generated
+2026-03-28,2,Maharashtra,PUNE,remedial_class,4,155,133,0,6.5,demo_generated
+2026-03-28,2,Maharashtra,PUNE,literacy_camp,2,76,69,0,4.5,demo_generated
+2026-03-28,2,Maharashtra,PUNE,enrollment_drive,1,36,34,0,2.1,demo_generated
+2026-03-28,2,Maharashtra,PUNE,community_mobilisation,1,25,23,0,1.9,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,enrollment_drive,4,84,76,0,11.2,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,girls_safety_audit,2,80,71,0,4.7,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,remedial_class,2,66,63,0,3.6,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,literacy_camp,1,44,36,0,1.7,demo_generated
+2026-03-28,2,Maharashtra,NASHIK,community_mobilisation,5,214,204,0,10.2,demo_generated
+2026-03-28,2,Maharashtra,NANDURBAR,literacy_camp,3,79,72,0,6.3,demo_generated
+2026-03-28,2,Maharashtra,NANDURBAR,remedial_class,6,111,105,0,16.0,demo_generated
+2026-03-28,2,Maharashtra,NANDURBAR,community_mobilisation,4,126,119,0,10.7,demo_generated
+2026-03-28,2,Maharashtra,NANDURBAR,enrollment_drive,5,144,134,0,13.8,demo_generated
+2026-03-28,2,Maharashtra,GADCHIROLI,community_mobilisation,3,154,143,0,5.2,demo_generated
+2026-03-28,2,Maharashtra,GADCHIROLI,enrollment_drive,3,101,102,0,8.2,demo_generated
+2026-03-28,2,Maharashtra,GADCHIROLI,remedial_class,3,87,80,0,4.7,demo_generated
+2026-03-28,2,Maharashtra,OSMANABAD,remedial_class,2,93,79,0,3.9,demo_generated
+2026-03-28,2,Maharashtra,OSMANABAD,enrollment_drive,2,64,57,0,3.9,demo_generated
+2026-03-28,2,Maharashtra,OSMANABAD,teacher_training,3,90,78,0,8.4,demo_generated
+2026-03-28,2,Maharashtra,OSMANABAD,girls_safety_audit,3,136,125,0,8.8,demo_generated
+2026-03-28,2,Maharashtra,OSMANABAD,literacy_camp,6,287,270,0,14.0,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,community_mobilisation,3,92,87,0,5.2,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,enrollment_drive,4,181,156,0,8.6,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,literacy_camp,4,199,179,0,7.4,demo_generated
+2026-03-28,2,Gujarat,AHMEDABAD,remedial_class,5,189,165,0,7.6,demo_generated
+2026-03-28,2,Gujarat,SURAT,mdm_monitoring,6,270,239,0,17.8,demo_generated
+2026-03-28,2,Gujarat,SURAT,literacy_camp,5,192,172,0,13.7,demo_generated
+2026-03-28,2,Gujarat,DAHOD,remedial_class,5,141,121,0,7.6,demo_generated
+2026-03-28,2,Gujarat,DAHOD,literacy_camp,1,30,28,0,2.7,demo_generated
+2026-03-28,2,Gujarat,NARMADA,literacy_camp,2,69,62,0,4.5,demo_generated
+2026-03-28,2,Gujarat,NARMADA,enrollment_drive,4,193,177,0,11.1,demo_generated
+2026-03-28,2,Gujarat,TAPI,community_mobilisation,6,215,209,0,17.4,demo_generated
+2026-03-28,2,Gujarat,TAPI,remedial_class,4,114,96,0,11.0,demo_generated
+2026-03-28,2,Gujarat,TAPI,enrollment_drive,3,57,48,0,5.9,demo_generated
+2026-03-28,2,Gujarat,TAPI,literacy_camp,5,189,177,0,14.2,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,community_mobilisation,4,111,87,0,11.7,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,enrollment_drive,5,117,104,0,12.3,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,mdm_monitoring,2,76,67,0,5.4,demo_generated
+2026-03-28,2,Madhya Pradesh,BHOPAL,literacy_camp,4,76,70,0,11.7,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,community_mobilisation,3,94,82,0,6.7,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,remedial_class,1,29,25,0,2.9,demo_generated
+2026-03-28,2,Madhya Pradesh,INDORE,literacy_camp,5,68,58,0,9.8,demo_generated
+2026-03-28,2,Madhya Pradesh,SHEOPUR,remedial_class,1,41,40,0,1.6,demo_generated
+2026-03-28,2,Madhya Pradesh,SHEOPUR,enrollment_drive,4,103,95,0,7.8,demo_generated
+2026-03-28,2,Madhya Pradesh,SHEOPUR,teacher_training,4,177,170,2,8.3,demo_generated
+2026-03-28,2,Madhya Pradesh,SHEOPUR,community_mobilisation,1,38,33,0,3.0,demo_generated
+2026-03-28,2,Madhya Pradesh,BARWANI,remedial_class,6,190,159,0,15.2,demo_generated
+2026-03-28,2,Madhya Pradesh,BARWANI,literacy_camp,6,255,242,0,11.9,demo_generated
+2026-03-28,2,Madhya Pradesh,BARWANI,community_mobilisation,4,164,147,0,8.2,demo_generated
+2026-03-28,2,Madhya Pradesh,BARWANI,teacher_training,2,69,56,3,5.1,demo_generated
+2026-03-28,2,Madhya Pradesh,DINDORI,enrollment_drive,4,203,176,0,10.8,demo_generated
+2026-03-28,2,Madhya Pradesh,DINDORI,teacher_training,3,78,70,3,5.2,demo_generated
+2026-03-28,2,Madhya Pradesh,DINDORI,literacy_camp,3,100,85,0,7.1,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,remedial_class,5,193,151,0,10.6,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,girls_safety_audit,4,153,131,0,11.2,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,literacy_camp,4,119,100,0,7.4,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,community_mobilisation,5,169,145,0,9.6,demo_generated
+2026-04-04,3,Uttar Pradesh,LUCKNOW,enrollment_drive,4,139,116,0,11.9,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,remedial_class,4,112,104,0,10.2,demo_generated
+2026-04-04,3,Uttar Pradesh,VARANASI,teacher_training,4,132,107,2,10.5,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,literacy_camp,5,250,206,0,14.7,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,enrollment_drive,5,151,124,0,12.6,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,community_mobilisation,8,297,254,0,12.6,demo_generated
+2026-04-04,3,Uttar Pradesh,AGRA,teacher_training,2,59,52,1,3.1,demo_generated
+2026-04-04,3,Uttar Pradesh,SHRAVASTI,literacy_camp,5,113,87,0,11.5,demo_generated
+2026-04-04,3,Uttar Pradesh,SHRAVASTI,teacher_training,5,276,214,3,12.7,demo_generated
+2026-04-04,3,Uttar Pradesh,BAHRAICH,literacy_camp,3,130,113,0,8.6,demo_generated
+2026-04-04,3,Uttar Pradesh,BAHRAICH,remedial_class,3,151,121,0,5.2,demo_generated
+2026-04-04,3,Bihar,PATNA,mdm_monitoring,3,156,132,0,7.5,demo_generated
+2026-04-04,3,Bihar,PATNA,community_mobilisation,3,169,142,0,6.2,demo_generated
+2026-04-04,3,Bihar,GAYA,literacy_camp,3,199,174,0,7.1,demo_generated
+2026-04-04,3,Bihar,GAYA,enrollment_drive,5,154,137,0,11.9,demo_generated
+2026-04-04,3,Bihar,GAYA,community_mobilisation,4,101,91,0,8.1,demo_generated
+2026-04-04,3,Bihar,GAYA,remedial_class,2,67,54,0,3.3,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,literacy_camp,4,120,100,0,10.5,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,mdm_monitoring,7,308,265,0,12.4,demo_generated
+2026-04-04,3,Bihar,MUZAFFARPUR,community_mobilisation,4,104,75,0,7.9,demo_generated
+2026-04-04,3,Bihar,ARARIA,remedial_class,1,42,34,0,2.0,demo_generated
+2026-04-04,3,Bihar,ARARIA,enrollment_drive,4,93,83,0,12.0,demo_generated
+2026-04-04,3,Bihar,ARARIA,literacy_camp,4,192,161,0,9.8,demo_generated
+2026-04-04,3,Bihar,ARARIA,teacher_training,5,106,88,1,12.1,demo_generated
+2026-04-04,3,Bihar,ARARIA,community_mobilisation,1,29,22,0,2.8,demo_generated
+2026-04-04,3,Bihar,SITAMARHI,community_mobilisation,3,86,68,0,7.5,demo_generated
+2026-04-04,3,Bihar,SITAMARHI,mdm_monitoring,4,158,130,0,7.7,demo_generated
+2026-04-04,3,Bihar,SITAMARHI,enrollment_drive,1,36,28,0,2.6,demo_generated
+2026-04-04,3,Bihar,SITAMARHI,teacher_training,5,223,169,1,11.5,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,community_mobilisation,3,126,114,0,6.9,demo_generated
+2026-04-04,3,Rajasthan,JAIPUR,remedial_class,4,147,135,0,8.6,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,teacher_training,3,101,89,1,6.9,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,literacy_camp,3,91,77,0,7.7,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,enrollment_drive,2,79,72,0,4.5,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,remedial_class,5,234,225,0,11.2,demo_generated
+2026-04-04,3,Rajasthan,JODHPUR,community_mobilisation,6,206,161,0,17.3,demo_generated
+2026-04-04,3,Rajasthan,BARMER,literacy_camp,4,131,124,0,8.9,demo_generated
+2026-04-04,3,Rajasthan,BARMER,teacher_training,3,55,52,1,7.8,demo_generated
+2026-04-04,3,Rajasthan,BARMER,enrollment_drive,2,91,85,0,4.5,demo_generated
+2026-04-04,3,Rajasthan,BARMER,community_mobilisation,3,170,165,0,8.3,demo_generated
+2026-04-04,3,Rajasthan,DUNGARPUR,mdm_monitoring,6,181,167,0,9.5,demo_generated
+2026-04-04,3,Rajasthan,DUNGARPUR,literacy_camp,6,199,200,0,17.2,demo_generated
+2026-04-04,3,Rajasthan,DUNGARPUR,teacher_training,4,170,141,3,6.1,demo_generated
+2026-04-04,3,Rajasthan,DUNGARPUR,remedial_class,3,99,91,0,8.0,demo_generated
+2026-04-04,3,Rajasthan,DUNGARPUR,enrollment_drive,3,63,56,0,5.7,demo_generated
+2026-04-04,3,Rajasthan,BANSWARA,girls_safety_audit,3,73,66,0,7.4,demo_generated
+2026-04-04,3,Rajasthan,BANSWARA,literacy_camp,5,192,169,0,11.2,demo_generated
+2026-04-04,3,Rajasthan,BANSWARA,mdm_monitoring,6,256,218,0,12.9,demo_generated
+2026-04-04,3,Rajasthan,BANSWARA,community_mobilisation,2,68,62,0,5.0,demo_generated
+2026-04-04,3,Maharashtra,PUNE,literacy_camp,5,136,137,0,11.7,demo_generated
+2026-04-04,3,Maharashtra,PUNE,teacher_training,3,79,73,1,7.5,demo_generated
+2026-04-04,3,Maharashtra,PUNE,community_mobilisation,2,48,41,0,4.5,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,literacy_camp,5,222,211,0,12.9,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,community_mobilisation,4,169,150,0,10.5,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,remedial_class,2,67,55,0,3.6,demo_generated
+2026-04-04,3,Maharashtra,NASHIK,enrollment_drive,3,104,101,0,8.0,demo_generated
+2026-04-04,3,Maharashtra,NANDURBAR,girls_safety_audit,4,134,129,0,9.6,demo_generated
+2026-04-04,3,Maharashtra,NANDURBAR,literacy_camp,5,154,145,0,8.4,demo_generated
+2026-04-04,3,Maharashtra,GADCHIROLI,community_mobilisation,3,66,61,0,6.9,demo_generated
+2026-04-04,3,Maharashtra,GADCHIROLI,literacy_camp,2,60,52,0,3.2,demo_generated
+2026-04-04,3,Maharashtra,GADCHIROLI,teacher_training,4,237,218,2,11.9,demo_generated
+2026-04-04,3,Maharashtra,OSMANABAD,literacy_camp,7,306,292,0,12.4,demo_generated
+2026-04-04,3,Maharashtra,OSMANABAD,community_mobilisation,3,130,111,0,6.3,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,teacher_training,3,86,82,2,6.2,demo_generated
+2026-04-04,3,Gujarat,AHMEDABAD,girls_safety_audit,6,151,136,0,9.1,demo_generated
+2026-04-04,3,Gujarat,SURAT,enrollment_drive,5,199,166,0,7.6,demo_generated
+2026-04-04,3,Gujarat,SURAT,literacy_camp,5,102,99,0,14.1,demo_generated
+2026-04-04,3,Gujarat,SURAT,teacher_training,2,44,42,2,4.9,demo_generated
+2026-04-04,3,Gujarat,SURAT,mdm_monitoring,4,150,128,0,8.1,demo_generated
+2026-04-04,3,Gujarat,SURAT,remedial_class,4,131,116,0,9.2,demo_generated
+2026-04-04,3,Gujarat,DAHOD,enrollment_drive,4,57,53,0,7.8,demo_generated
+2026-04-04,3,Gujarat,DAHOD,community_mobilisation,4,179,149,0,11.6,demo_generated
+2026-04-04,3,Gujarat,DAHOD,remedial_class,5,158,137,0,12.2,demo_generated
+2026-04-04,3,Gujarat,DAHOD,literacy_camp,3,110,102,0,4.6,demo_generated
+2026-04-04,3,Gujarat,NARMADA,teacher_training,4,204,179,2,7.9,demo_generated
+2026-04-04,3,Gujarat,NARMADA,remedial_class,3,127,121,0,6.7,demo_generated
+2026-04-04,3,Gujarat,NARMADA,literacy_camp,4,109,102,0,6.6,demo_generated
+2026-04-04,3,Gujarat,NARMADA,community_mobilisation,3,50,39,0,7.4,demo_generated
+2026-04-04,3,Gujarat,TAPI,enrollment_drive,1,31,25,0,2.7,demo_generated
+2026-04-04,3,Gujarat,TAPI,remedial_class,3,95,89,0,7.0,demo_generated
+2026-04-04,3,Gujarat,TAPI,literacy_camp,5,201,172,0,14.5,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,enrollment_drive,2,27,25,0,5.6,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,community_mobilisation,1,30,26,0,3.0,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,literacy_camp,5,266,223,0,9.8,demo_generated
+2026-04-04,3,Madhya Pradesh,BHOPAL,girls_safety_audit,4,8,6,0,9.6,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,community_mobilisation,1,37,34,0,2.4,demo_generated
+2026-04-04,3,Madhya Pradesh,INDORE,girls_safety_audit,4,180,164,0,8.3,demo_generated
+2026-04-04,3,Madhya Pradesh,SHEOPUR,teacher_training,6,152,127,1,15.7,demo_generated
+2026-04-04,3,Madhya Pradesh,SHEOPUR,literacy_camp,1,49,42,0,2.0,demo_generated
+2026-04-04,3,Madhya Pradesh,SHEOPUR,mdm_monitoring,3,123,119,0,8.3,demo_generated
+2026-04-04,3,Madhya Pradesh,SHEOPUR,enrollment_drive,3,88,79,0,6.7,demo_generated
+2026-04-04,3,Madhya Pradesh,SHEOPUR,remedial_class,3,123,99,0,4.7,demo_generated
+2026-04-04,3,Madhya Pradesh,BARWANI,enrollment_drive,4,182,153,0,10.1,demo_generated
+2026-04-04,3,Madhya Pradesh,BARWANI,teacher_training,3,134,112,2,8.3,demo_generated
+2026-04-04,3,Madhya Pradesh,BARWANI,remedial_class,5,116,100,0,8.9,demo_generated
+2026-04-04,3,Madhya Pradesh,BARWANI,community_mobilisation,4,167,163,0,9.5,demo_generated
+2026-04-04,3,Madhya Pradesh,BARWANI,literacy_camp,5,274,221,0,13.5,demo_generated
+2026-04-04,3,Madhya Pradesh,DINDORI,literacy_camp,3,150,139,0,6.8,demo_generated
+2026-04-04,3,Madhya Pradesh,DINDORI,community_mobilisation,4,155,139,0,7.3,demo_generated
+2026-04-04,3,Madhya Pradesh,DINDORI,enrollment_drive,1,36,32,0,2.2,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,enrollment_drive,3,83,69,0,8.5,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,literacy_camp,1,38,31,0,2.1,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,girls_safety_audit,3,116,100,0,5.0,demo_generated
+2026-04-11,4,Uttar Pradesh,LUCKNOW,remedial_class,3,106,88,0,7.0,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,enrollment_drive,4,129,97,0,10.0,demo_generated
+2026-04-11,4,Uttar Pradesh,VARANASI,teacher_training,5,115,101,2,14.5,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,enrollment_drive,4,193,168,0,10.8,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,teacher_training,1,61,53,1,2.0,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,community_mobilisation,4,172,139,0,8.1,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,literacy_camp,4,131,91,0,10.8,demo_generated
+2026-04-11,4,Uttar Pradesh,AGRA,remedial_class,4,178,131,0,11.6,demo_generated
+2026-04-11,4,Uttar Pradesh,SHRAVASTI,girls_safety_audit,5,105,88,0,12.5,demo_generated
+2026-04-11,4,Uttar Pradesh,SHRAVASTI,literacy_camp,4,60,50,0,8.4,demo_generated
+2026-04-11,4,Uttar Pradesh,BAHRAICH,teacher_training,2,52,42,2,3.6,demo_generated
+2026-04-11,4,Uttar Pradesh,BAHRAICH,enrollment_drive,5,153,131,0,11.7,demo_generated
+2026-04-11,4,Uttar Pradesh,BAHRAICH,mdm_monitoring,4,184,159,0,11.4,demo_generated
+2026-04-11,4,Uttar Pradesh,BAHRAICH,remedial_class,5,215,150,0,10.3,demo_generated
+2026-04-11,4,Uttar Pradesh,BAHRAICH,community_mobilisation,5,254,207,0,14.7,demo_generated
+2026-04-11,4,Bihar,PATNA,literacy_camp,2,75,61,0,3.1,demo_generated
+2026-04-11,4,Bihar,PATNA,remedial_class,2,74,61,0,3.2,demo_generated
+2026-04-11,4,Bihar,PATNA,enrollment_drive,1,22,17,0,2.3,demo_generated
+2026-04-11,4,Bihar,GAYA,enrollment_drive,1,20,16,0,1.5,demo_generated
+2026-04-11,4,Bihar,GAYA,community_mobilisation,3,108,73,0,6.9,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,remedial_class,2,81,71,0,5.3,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,community_mobilisation,5,147,120,0,10.1,demo_generated
+2026-04-11,4,Bihar,MUZAFFARPUR,literacy_camp,4,171,134,0,7.1,demo_generated
+2026-04-11,4,Bihar,ARARIA,literacy_camp,4,169,144,0,8.5,demo_generated
+2026-04-11,4,Bihar,ARARIA,remedial_class,3,48,39,0,4.7,demo_generated
+2026-04-11,4,Bihar,ARARIA,community_mobilisation,2,76,61,0,5.4,demo_generated
+2026-04-11,4,Bihar,ARARIA,enrollment_drive,3,133,108,0,8.3,demo_generated
+2026-04-11,4,Bihar,ARARIA,mdm_monitoring,4,143,116,0,10.3,demo_generated
+2026-04-11,4,Bihar,SITAMARHI,enrollment_drive,5,114,89,0,12.2,demo_generated
+2026-04-11,4,Bihar,SITAMARHI,community_mobilisation,1,27,22,0,2.5,demo_generated
+2026-04-11,4,Bihar,SITAMARHI,literacy_camp,3,56,45,0,8.2,demo_generated
+2026-04-11,4,Bihar,SITAMARHI,mdm_monitoring,2,68,54,0,3.8,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,literacy_camp,2,34,29,0,5.9,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,community_mobilisation,5,196,191,0,11.2,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,teacher_training,3,118,106,1,7.0,demo_generated
+2026-04-11,4,Rajasthan,JAIPUR,remedial_class,5,241,213,0,12.8,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,literacy_camp,5,97,76,0,8.1,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,remedial_class,3,40,33,0,8.5,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,enrollment_drive,3,109,98,0,8.1,demo_generated
+2026-04-11,4,Rajasthan,JODHPUR,community_mobilisation,3,102,82,0,6.9,demo_generated
+2026-04-11,4,Rajasthan,BARMER,literacy_camp,2,37,34,0,5.3,demo_generated
+2026-04-11,4,Rajasthan,BARMER,remedial_class,1,50,44,0,2.3,demo_generated
+2026-04-11,4,Rajasthan,BARMER,enrollment_drive,2,89,85,0,4.2,demo_generated
+2026-04-11,4,Rajasthan,BARMER,community_mobilisation,6,183,167,0,15.1,demo_generated
+2026-04-11,4,Rajasthan,BARMER,girls_safety_audit,5,167,145,0,13.4,demo_generated
+2026-04-11,4,Rajasthan,DUNGARPUR,mdm_monitoring,3,125,114,0,6.8,demo_generated
+2026-04-11,4,Rajasthan,DUNGARPUR,community_mobilisation,2,48,39,0,5.9,demo_generated
+2026-04-11,4,Rajasthan,DUNGARPUR,remedial_class,4,113,103,0,10.5,demo_generated
+2026-04-11,4,Rajasthan,BANSWARA,teacher_training,1,40,36,3,2.4,demo_generated
+2026-04-11,4,Rajasthan,BANSWARA,enrollment_drive,4,110,97,0,8.1,demo_generated
+2026-04-11,4,Rajasthan,BANSWARA,literacy_camp,1,22,18,0,1.9,demo_generated
+2026-04-11,4,Rajasthan,BANSWARA,community_mobilisation,3,111,94,0,6.7,demo_generated
+2026-04-11,4,Maharashtra,PUNE,literacy_camp,2,63,58,0,3.3,demo_generated
+2026-04-11,4,Maharashtra,PUNE,mdm_monitoring,7,320,304,0,13.2,demo_generated
+2026-04-11,4,Maharashtra,PUNE,remedial_class,5,140,132,0,11.5,demo_generated
+2026-04-11,4,Maharashtra,PUNE,enrollment_drive,4,101,95,0,10.0,demo_generated
+2026-04-11,4,Maharashtra,PUNE,teacher_training,3,81,72,2,4.6,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,literacy_camp,5,179,156,0,12.9,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,enrollment_drive,7,307,282,0,12.5,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,community_mobilisation,6,198,180,0,14.4,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,remedial_class,1,40,39,0,1.7,demo_generated
+2026-04-11,4,Maharashtra,NASHIK,teacher_training,4,119,103,2,11.0,demo_generated
+2026-04-11,4,Maharashtra,NANDURBAR,remedial_class,2,33,29,0,4.7,demo_generated
+2026-04-11,4,Maharashtra,NANDURBAR,literacy_camp,7,387,325,0,13.3,demo_generated
+2026-04-11,4,Maharashtra,NANDURBAR,enrollment_drive,4,134,125,0,7.4,demo_generated
+2026-04-11,4,Maharashtra,NANDURBAR,community_mobilisation,3,128,109,0,5.5,demo_generated
+2026-04-11,4,Maharashtra,GADCHIROLI,remedial_class,1,54,49,0,2.1,demo_generated
+2026-04-11,4,Maharashtra,GADCHIROLI,mdm_monitoring,2,67,52,0,4.9,demo_generated
+2026-04-11,4,Maharashtra,GADCHIROLI,community_mobilisation,3,125,108,0,5.8,demo_generated
+2026-04-11,4,Maharashtra,GADCHIROLI,literacy_camp,4,105,85,0,11.3,demo_generated
+2026-04-11,4,Maharashtra,GADCHIROLI,enrollment_drive,3,153,133,0,5.6,demo_generated
+2026-04-11,4,Maharashtra,OSMANABAD,remedial_class,3,100,91,0,7.2,demo_generated
+2026-04-11,4,Maharashtra,OSMANABAD,enrollment_drive,3,110,99,0,4.5,demo_generated
+2026-04-11,4,Maharashtra,OSMANABAD,teacher_training,5,126,100,1,10.6,demo_generated
+2026-04-11,4,Maharashtra,OSMANABAD,literacy_camp,2,110,106,0,4.7,demo_generated
+2026-04-11,4,Maharashtra,OSMANABAD,community_mobilisation,5,157,127,0,14.3,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,community_mobilisation,5,170,155,0,11.6,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,literacy_camp,3,88,85,0,6.4,demo_generated
+2026-04-11,4,Gujarat,AHMEDABAD,remedial_class,5,144,125,0,14.3,demo_generated
+2026-04-11,4,Gujarat,SURAT,enrollment_drive,3,98,91,0,8.8,demo_generated
+2026-04-11,4,Gujarat,SURAT,community_mobilisation,5,189,189,0,10.0,demo_generated
+2026-04-11,4,Gujarat,SURAT,remedial_class,5,88,78,0,12.4,demo_generated
+2026-04-11,4,Gujarat,SURAT,literacy_camp,1,35,29,0,2.5,demo_generated
+2026-04-11,4,Gujarat,DAHOD,literacy_camp,3,157,130,0,7.0,demo_generated
+2026-04-11,4,Gujarat,DAHOD,mdm_monitoring,1,30,24,0,2.4,demo_generated
+2026-04-11,4,Gujarat,DAHOD,remedial_class,1,49,44,0,2.0,demo_generated
+2026-04-11,4,Gujarat,DAHOD,community_mobilisation,3,88,72,0,9.0,demo_generated
+2026-04-11,4,Gujarat,DAHOD,enrollment_drive,1,30,27,0,2.8,demo_generated
+2026-04-11,4,Gujarat,NARMADA,enrollment_drive,1,25,23,0,2.9,demo_generated
+2026-04-11,4,Gujarat,NARMADA,mdm_monitoring,1,46,44,0,2.3,demo_generated
+2026-04-11,4,Gujarat,NARMADA,literacy_camp,1,49,45,0,2.9,demo_generated
+2026-04-11,4,Gujarat,NARMADA,remedial_class,5,231,194,0,9.8,demo_generated
+2026-04-11,4,Gujarat,TAPI,literacy_camp,5,201,202,0,9.3,demo_generated
+2026-04-11,4,Gujarat,TAPI,enrollment_drive,4,122,110,0,9.3,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,mdm_monitoring,4,145,128,0,11.6,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,teacher_training,6,289,261,3,11.8,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,enrollment_drive,3,106,103,0,7.4,demo_generated
+2026-04-11,4,Madhya Pradesh,BHOPAL,literacy_camp,6,154,141,0,11.1,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,community_mobilisation,5,220,215,0,10.2,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,literacy_camp,2,41,38,0,5.4,demo_generated
+2026-04-11,4,Madhya Pradesh,INDORE,remedial_class,5,213,182,0,13.9,demo_generated
+2026-04-11,4,Madhya Pradesh,SHEOPUR,community_mobilisation,8,121,109,0,23.1,demo_generated
+2026-04-11,4,Madhya Pradesh,SHEOPUR,literacy_camp,3,73,68,0,6.8,demo_generated
+2026-04-11,4,Madhya Pradesh,BARWANI,teacher_training,3,69,67,0,5.5,demo_generated
+2026-04-11,4,Madhya Pradesh,BARWANI,community_mobilisation,3,100,83,0,5.7,demo_generated
+2026-04-11,4,Madhya Pradesh,DINDORI,teacher_training,3,166,146,2,6.5,demo_generated
+2026-04-11,4,Madhya Pradesh,DINDORI,mdm_monitoring,3,76,72,0,5.2,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,literacy_camp,4,25,19,0,9.1,demo_generated
+2026-04-18,5,Uttar Pradesh,LUCKNOW,enrollment_drive,5,148,127,0,12.4,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,enrollment_drive,2,45,39,0,4.9,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,literacy_camp,2,80,66,0,4.5,demo_generated
+2026-04-18,5,Uttar Pradesh,VARANASI,remedial_class,5,131,103,0,13.3,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,literacy_camp,5,213,184,0,10.3,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,remedial_class,3,85,70,0,5.6,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,teacher_training,3,131,112,2,8.2,demo_generated
+2026-04-18,5,Uttar Pradesh,AGRA,girls_safety_audit,1,26,20,0,1.8,demo_generated
+2026-04-18,5,Uttar Pradesh,SHRAVASTI,enrollment_drive,5,149,105,0,9.4,demo_generated
+2026-04-18,5,Uttar Pradesh,SHRAVASTI,remedial_class,3,64,52,0,7.3,demo_generated
+2026-04-18,5,Uttar Pradesh,BAHRAICH,enrollment_drive,2,47,36,0,4.1,demo_generated
+2026-04-18,5,Uttar Pradesh,BAHRAICH,literacy_camp,4,176,132,0,7.5,demo_generated
+2026-04-18,5,Uttar Pradesh,BAHRAICH,community_mobilisation,6,132,113,0,14.5,demo_generated
+2026-04-18,5,Uttar Pradesh,BAHRAICH,remedial_class,4,105,83,0,9.1,demo_generated
+2026-04-18,5,Uttar Pradesh,BAHRAICH,teacher_training,4,181,137,2,11.4,demo_generated
+2026-04-18,5,Bihar,PATNA,remedial_class,6,301,217,0,11.5,demo_generated
+2026-04-18,5,Bihar,PATNA,enrollment_drive,4,228,185,0,8.4,demo_generated
+2026-04-18,5,Bihar,PATNA,community_mobilisation,5,245,204,0,12.4,demo_generated
+2026-04-18,5,Bihar,GAYA,literacy_camp,1,56,45,0,1.7,demo_generated
+2026-04-18,5,Bihar,GAYA,community_mobilisation,4,189,160,0,7.1,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,girls_safety_audit,3,123,92,0,5.3,demo_generated
+2026-04-18,5,Bihar,MUZAFFARPUR,literacy_camp,5,80,65,0,11.3,demo_generated
+2026-04-18,5,Bihar,ARARIA,teacher_training,4,125,112,1,10.7,demo_generated
+2026-04-18,5,Bihar,ARARIA,girls_safety_audit,5,246,197,0,7.7,demo_generated
+2026-04-18,5,Bihar,ARARIA,mdm_monitoring,2,87,69,0,4.1,demo_generated
+2026-04-18,5,Bihar,ARARIA,literacy_camp,6,238,199,0,15.6,demo_generated
+2026-04-18,5,Bihar,ARARIA,enrollment_drive,6,291,223,0,11.7,demo_generated
+2026-04-18,5,Bihar,SITAMARHI,mdm_monitoring,4,133,112,0,11.4,demo_generated
+2026-04-18,5,Bihar,SITAMARHI,teacher_training,3,78,57,3,6.1,demo_generated
+2026-04-18,5,Bihar,SITAMARHI,remedial_class,4,146,109,0,7.3,demo_generated
+2026-04-18,5,Bihar,SITAMARHI,girls_safety_audit,4,132,106,0,7.8,demo_generated
+2026-04-18,5,Bihar,SITAMARHI,enrollment_drive,3,88,68,0,8.5,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,mdm_monitoring,4,179,143,0,8.7,demo_generated
+2026-04-18,5,Rajasthan,JAIPUR,enrollment_drive,2,57,57,0,3.4,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,literacy_camp,2,87,73,0,3.6,demo_generated
+2026-04-18,5,Rajasthan,JODHPUR,community_mobilisation,4,153,136,0,11.1,demo_generated
+2026-04-18,5,Rajasthan,BARMER,literacy_camp,4,129,119,0,9.9,demo_generated
+2026-04-18,5,Rajasthan,BARMER,remedial_class,5,190,180,0,10.4,demo_generated
+2026-04-18,5,Rajasthan,BARMER,community_mobilisation,4,115,102,0,8.0,demo_generated
+2026-04-18,5,Rajasthan,BARMER,girls_safety_audit,5,124,110,0,9.7,demo_generated
+2026-04-18,5,Rajasthan,DUNGARPUR,community_mobilisation,5,128,111,0,12.6,demo_generated
+2026-04-18,5,Rajasthan,DUNGARPUR,teacher_training,3,97,86,2,8.0,demo_generated
+2026-04-18,5,Rajasthan,DUNGARPUR,literacy_camp,1,40,35,0,2.5,demo_generated
+2026-04-18,5,Rajasthan,BANSWARA,literacy_camp,4,79,74,0,6.3,demo_generated
+2026-04-18,5,Rajasthan,BANSWARA,remedial_class,4,119,117,0,9.3,demo_generated
+2026-04-18,5,Rajasthan,BANSWARA,enrollment_drive,4,158,135,0,11.9,demo_generated
+2026-04-18,5,Rajasthan,BANSWARA,teacher_training,2,82,68,1,3.3,demo_generated
+2026-04-18,5,Rajasthan,BANSWARA,girls_safety_audit,7,132,108,0,13.1,demo_generated
+2026-04-18,5,Maharashtra,PUNE,teacher_training,5,78,73,2,9.9,demo_generated
+2026-04-18,5,Maharashtra,PUNE,literacy_camp,4,177,152,0,7.5,demo_generated
+2026-04-18,5,Maharashtra,PUNE,community_mobilisation,4,145,132,0,7.4,demo_generated
+2026-04-18,5,Maharashtra,PUNE,girls_safety_audit,4,135,123,0,6.3,demo_generated
+2026-04-18,5,Maharashtra,PUNE,enrollment_drive,6,82,80,0,12.7,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,girls_safety_audit,5,232,185,0,10.5,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,remedial_class,5,194,181,0,11.7,demo_generated
+2026-04-18,5,Maharashtra,NASHIK,literacy_camp,2,92,80,0,4.0,demo_generated
+2026-04-18,5,Maharashtra,NANDURBAR,enrollment_drive,6,181,169,0,17.3,demo_generated
+2026-04-18,5,Maharashtra,NANDURBAR,literacy_camp,3,107,95,0,7.8,demo_generated
+2026-04-18,5,Maharashtra,GADCHIROLI,teacher_training,4,104,108,1,6.2,demo_generated
+2026-04-18,5,Maharashtra,GADCHIROLI,literacy_camp,3,73,70,0,7.2,demo_generated
+2026-04-18,5,Maharashtra,GADCHIROLI,remedial_class,3,121,109,0,8.6,demo_generated
+2026-04-18,5,Maharashtra,OSMANABAD,literacy_camp,1,48,46,0,1.5,demo_generated
+2026-04-18,5,Maharashtra,OSMANABAD,enrollment_drive,4,131,113,0,10.3,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,remedial_class,9,289,269,0,19.7,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,enrollment_drive,4,176,157,0,6.8,demo_generated
+2026-04-18,5,Gujarat,AHMEDABAD,community_mobilisation,8,308,263,0,12.2,demo_generated
+2026-04-18,5,Gujarat,SURAT,literacy_camp,4,116,98,0,7.2,demo_generated
+2026-04-18,5,Gujarat,SURAT,enrollment_drive,4,175,162,0,7.9,demo_generated
+2026-04-18,5,Gujarat,SURAT,remedial_class,4,173,163,0,11.0,demo_generated
+2026-04-18,5,Gujarat,DAHOD,literacy_camp,5,163,144,0,12.0,demo_generated
+2026-04-18,5,Gujarat,DAHOD,remedial_class,6,220,180,0,13.6,demo_generated
+2026-04-18,5,Gujarat,DAHOD,girls_safety_audit,3,94,81,0,6.0,demo_generated
+2026-04-18,5,Gujarat,DAHOD,community_mobilisation,5,223,191,0,8.7,demo_generated
+2026-04-18,5,Gujarat,NARMADA,enrollment_drive,3,122,111,0,8.0,demo_generated
+2026-04-18,5,Gujarat,NARMADA,girls_safety_audit,1,50,43,0,1.7,demo_generated
+2026-04-18,5,Gujarat,NARMADA,teacher_training,5,203,173,1,10.0,demo_generated
+2026-04-18,5,Gujarat,NARMADA,literacy_camp,3,109,98,0,7.5,demo_generated
+2026-04-18,5,Gujarat,NARMADA,community_mobilisation,3,152,136,0,5.2,demo_generated
+2026-04-18,5,Gujarat,TAPI,remedial_class,6,229,217,0,10.6,demo_generated
+2026-04-18,5,Gujarat,TAPI,teacher_training,3,68,58,0,5.6,demo_generated
+2026-04-18,5,Gujarat,TAPI,literacy_camp,2,79,64,0,4.5,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,community_mobilisation,5,152,141,0,10.3,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,remedial_class,2,47,43,0,4.1,demo_generated
+2026-04-18,5,Madhya Pradesh,BHOPAL,literacy_camp,3,87,82,0,5.7,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,teacher_training,3,98,89,0,7.0,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,girls_safety_audit,2,47,39,0,5.6,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,literacy_camp,4,95,84,0,6.2,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,mdm_monitoring,5,234,198,0,7.8,demo_generated
+2026-04-18,5,Madhya Pradesh,INDORE,remedial_class,6,283,271,0,15.6,demo_generated
+2026-04-18,5,Madhya Pradesh,SHEOPUR,community_mobilisation,3,142,130,0,5.3,demo_generated
+2026-04-18,5,Madhya Pradesh,SHEOPUR,enrollment_drive,3,62,56,0,6.9,demo_generated
+2026-04-18,5,Madhya Pradesh,SHEOPUR,literacy_camp,5,239,229,0,11.7,demo_generated
+2026-04-18,5,Madhya Pradesh,SHEOPUR,teacher_training,3,95,76,2,4.6,demo_generated
+2026-04-18,5,Madhya Pradesh,BARWANI,teacher_training,7,305,278,1,20.9,demo_generated
+2026-04-18,5,Madhya Pradesh,BARWANI,enrollment_drive,4,104,91,0,8.3,demo_generated
+2026-04-18,5,Madhya Pradesh,DINDORI,community_mobilisation,1,45,41,0,1.9,demo_generated
+2026-04-18,5,Madhya Pradesh,DINDORI,enrollment_drive,2,66,64,0,4.2,demo_generated
+2026-04-18,5,Madhya Pradesh,DINDORI,girls_safety_audit,3,137,116,0,7.5,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,enrollment_drive,3,58,45,0,6.9,demo_generated
+2026-04-25,6,Uttar Pradesh,LUCKNOW,literacy_camp,5,153,132,0,13.0,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,remedial_class,3,112,90,0,7.9,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,enrollment_drive,5,143,116,0,13.4,demo_generated
+2026-04-25,6,Uttar Pradesh,VARANASI,literacy_camp,1,36,29,0,3.0,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,mdm_monitoring,4,123,103,0,6.6,demo_generated
+2026-04-25,6,Uttar Pradesh,AGRA,literacy_camp,2,80,66,0,5.5,demo_generated
+2026-04-25,6,Uttar Pradesh,SHRAVASTI,literacy_camp,3,107,84,0,8.2,demo_generated
+2026-04-25,6,Uttar Pradesh,SHRAVASTI,remedial_class,5,237,198,0,10.9,demo_generated
+2026-04-25,6,Uttar Pradesh,BAHRAICH,community_mobilisation,3,59,45,0,8.1,demo_generated
+2026-04-25,6,Uttar Pradesh,BAHRAICH,literacy_camp,3,68,54,0,4.8,demo_generated
+2026-04-25,6,Bihar,PATNA,remedial_class,2,100,86,0,5.3,demo_generated
+2026-04-25,6,Bihar,PATNA,literacy_camp,8,263,219,0,14.8,demo_generated
+2026-04-25,6,Bihar,PATNA,community_mobilisation,2,83,69,0,4.8,demo_generated
+2026-04-25,6,Bihar,GAYA,remedial_class,5,246,196,0,10.3,demo_generated
+2026-04-25,6,Bihar,GAYA,girls_safety_audit,2,81,65,0,5.6,demo_generated
+2026-04-25,6,Bihar,GAYA,community_mobilisation,5,183,155,0,9.8,demo_generated
+2026-04-25,6,Bihar,GAYA,literacy_camp,5,230,168,0,7.5,demo_generated
+2026-04-25,6,Bihar,GAYA,teacher_training,1,40,31,2,2.5,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,community_mobilisation,3,109,88,0,9.0,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,remedial_class,5,142,112,0,8.8,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,enrollment_drive,2,77,64,0,5.5,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,literacy_camp,3,26,23,0,4.9,demo_generated
+2026-04-25,6,Bihar,MUZAFFARPUR,girls_safety_audit,4,175,138,0,9.6,demo_generated
+2026-04-25,6,Bihar,ARARIA,literacy_camp,5,188,137,0,11.1,demo_generated
+2026-04-25,6,Bihar,ARARIA,teacher_training,1,27,22,1,2.8,demo_generated
+2026-04-25,6,Bihar,ARARIA,enrollment_drive,4,222,184,0,7.8,demo_generated
+2026-04-25,6,Bihar,ARARIA,remedial_class,6,46,39,0,16.3,demo_generated
+2026-04-25,6,Bihar,ARARIA,mdm_monitoring,6,315,234,0,15.6,demo_generated
+2026-04-25,6,Bihar,SITAMARHI,literacy_camp,4,165,137,0,11.0,demo_generated
+2026-04-25,6,Bihar,SITAMARHI,enrollment_drive,5,142,124,0,11.3,demo_generated
+2026-04-25,6,Bihar,SITAMARHI,remedial_class,1,56,43,0,2.8,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,remedial_class,2,75,64,0,5.0,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,literacy_camp,5,132,108,0,9.2,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,mdm_monitoring,5,175,164,0,13.3,demo_generated
+2026-04-25,6,Rajasthan,JAIPUR,enrollment_drive,2,59,53,0,4.8,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,remedial_class,4,123,127,0,7.2,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,enrollment_drive,5,105,99,0,14.8,demo_generated
+2026-04-25,6,Rajasthan,JODHPUR,literacy_camp,3,126,123,0,8.7,demo_generated
+2026-04-25,6,Rajasthan,BARMER,literacy_camp,2,67,58,0,3.7,demo_generated
+2026-04-25,6,Rajasthan,BARMER,community_mobilisation,2,85,71,0,5.5,demo_generated
+2026-04-25,6,Rajasthan,BARMER,enrollment_drive,4,120,102,0,8.7,demo_generated
+2026-04-25,6,Rajasthan,BARMER,remedial_class,3,116,96,0,6.1,demo_generated
+2026-04-25,6,Rajasthan,BARMER,girls_safety_audit,4,167,149,0,8.3,demo_generated
+2026-04-25,6,Rajasthan,DUNGARPUR,enrollment_drive,4,86,76,0,8.6,demo_generated
+2026-04-25,6,Rajasthan,DUNGARPUR,teacher_training,5,200,175,1,10.3,demo_generated
+2026-04-25,6,Rajasthan,DUNGARPUR,community_mobilisation,3,86,77,0,6.9,demo_generated
+2026-04-25,6,Rajasthan,DUNGARPUR,remedial_class,5,146,129,0,13.4,demo_generated
+2026-04-25,6,Rajasthan,DUNGARPUR,literacy_camp,4,105,99,0,7.4,demo_generated
+2026-04-25,6,Rajasthan,BANSWARA,community_mobilisation,1,31,28,0,2.7,demo_generated
+2026-04-25,6,Rajasthan,BANSWARA,enrollment_drive,3,65,56,0,6.7,demo_generated
+2026-04-25,6,Rajasthan,BANSWARA,remedial_class,6,199,172,0,13.9,demo_generated
+2026-04-25,6,Rajasthan,BANSWARA,teacher_training,7,221,207,3,14.7,demo_generated
+2026-04-25,6,Rajasthan,BANSWARA,literacy_camp,4,78,64,0,6.7,demo_generated
+2026-04-25,6,Maharashtra,PUNE,literacy_camp,5,246,216,0,14.2,demo_generated
+2026-04-25,6,Maharashtra,PUNE,girls_safety_audit,2,77,69,0,4.9,demo_generated
+2026-04-25,6,Maharashtra,PUNE,enrollment_drive,3,122,120,0,7.8,demo_generated
+2026-04-25,6,Maharashtra,PUNE,remedial_class,2,72,64,0,3.5,demo_generated
+2026-04-25,6,Maharashtra,PUNE,community_mobilisation,3,120,107,0,6.2,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,community_mobilisation,2,86,78,0,3.3,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,teacher_training,3,104,89,1,7.4,demo_generated
+2026-04-25,6,Maharashtra,NASHIK,enrollment_drive,2,80,70,0,4.0,demo_generated
+2026-04-25,6,Maharashtra,NANDURBAR,girls_safety_audit,2,68,58,0,3.8,demo_generated
+2026-04-25,6,Maharashtra,NANDURBAR,teacher_training,7,140,124,2,14.5,demo_generated
+2026-04-25,6,Maharashtra,NANDURBAR,community_mobilisation,2,77,68,0,3.4,demo_generated
+2026-04-25,6,Maharashtra,NANDURBAR,literacy_camp,5,203,184,0,9.8,demo_generated
+2026-04-25,6,Maharashtra,NANDURBAR,remedial_class,5,137,126,0,12.7,demo_generated
+2026-04-25,6,Maharashtra,GADCHIROLI,enrollment_drive,4,159,139,0,10.9,demo_generated
+2026-04-25,6,Maharashtra,GADCHIROLI,girls_safety_audit,2,58,53,0,5.2,demo_generated
+2026-04-25,6,Maharashtra,GADCHIROLI,remedial_class,3,87,76,0,4.9,demo_generated
+2026-04-25,6,Maharashtra,GADCHIROLI,literacy_camp,3,91,94,0,8.3,demo_generated
+2026-04-25,6,Maharashtra,GADCHIROLI,community_mobilisation,4,172,152,0,9.2,demo_generated
+2026-04-25,6,Maharashtra,OSMANABAD,community_mobilisation,3,164,152,0,9.0,demo_generated
+2026-04-25,6,Maharashtra,OSMANABAD,remedial_class,3,99,91,0,6.5,demo_generated
+2026-04-25,6,Maharashtra,OSMANABAD,teacher_training,7,235,213,1,20.4,demo_generated
+2026-04-25,6,Maharashtra,OSMANABAD,literacy_camp,2,89,78,0,5.9,demo_generated
+2026-04-25,6,Maharashtra,OSMANABAD,enrollment_drive,2,49,43,0,3.2,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,remedial_class,5,136,109,0,14.1,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,literacy_camp,5,175,157,0,12.9,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,teacher_training,4,187,168,1,6.9,demo_generated
+2026-04-25,6,Gujarat,AHMEDABAD,enrollment_drive,2,37,35,0,3.8,demo_generated
+2026-04-25,6,Gujarat,SURAT,community_mobilisation,3,112,104,0,7.7,demo_generated
+2026-04-25,6,Gujarat,SURAT,remedial_class,3,106,95,0,6.1,demo_generated
+2026-04-25,6,Gujarat,SURAT,literacy_camp,4,105,92,0,12.0,demo_generated
+2026-04-25,6,Gujarat,SURAT,teacher_training,2,86,83,3,5.0,demo_generated
+2026-04-25,6,Gujarat,DAHOD,community_mobilisation,4,142,135,0,7.8,demo_generated
+2026-04-25,6,Gujarat,DAHOD,remedial_class,4,145,119,0,8.6,demo_generated
+2026-04-25,6,Gujarat,DAHOD,literacy_camp,2,83,81,0,4.0,demo_generated
+2026-04-25,6,Gujarat,DAHOD,enrollment_drive,4,135,122,0,9.1,demo_generated
+2026-04-25,6,Gujarat,DAHOD,girls_safety_audit,3,133,109,0,5.2,demo_generated
+2026-04-25,6,Gujarat,NARMADA,teacher_training,2,62,51,2,3.6,demo_generated
+2026-04-25,6,Gujarat,NARMADA,community_mobilisation,3,103,89,0,7.0,demo_generated
+2026-04-25,6,Gujarat,TAPI,literacy_camp,4,84,70,0,6.4,demo_generated
+2026-04-25,6,Gujarat,TAPI,enrollment_drive,5,197,171,0,14.4,demo_generated
+2026-04-25,6,Gujarat,TAPI,teacher_training,4,108,91,1,10.2,demo_generated
+2026-04-25,6,Gujarat,TAPI,remedial_class,1,37,28,0,2.6,demo_generated
+2026-04-25,6,Gujarat,TAPI,community_mobilisation,3,81,75,0,5.8,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,remedial_class,3,67,63,0,6.1,demo_generated
+2026-04-25,6,Madhya Pradesh,BHOPAL,literacy_camp,7,74,70,0,17.7,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,community_mobilisation,4,131,113,0,6.2,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,mdm_monitoring,3,76,65,0,6.4,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,remedial_class,3,89,75,0,4.7,demo_generated
+2026-04-25,6,Madhya Pradesh,INDORE,literacy_camp,6,85,71,0,15.6,demo_generated
+2026-04-25,6,Madhya Pradesh,SHEOPUR,community_mobilisation,1,11,9,0,1.5,demo_generated
+2026-04-25,6,Madhya Pradesh,SHEOPUR,enrollment_drive,6,104,101,0,11.7,demo_generated
+2026-04-25,6,Madhya Pradesh,BARWANI,teacher_training,2,111,93,1,5.5,demo_generated
+2026-04-25,6,Madhya Pradesh,BARWANI,enrollment_drive,2,36,30,0,5.1,demo_generated
+2026-04-25,6,Madhya Pradesh,BARWANI,literacy_camp,1,35,33,0,1.8,demo_generated
+2026-04-25,6,Madhya Pradesh,DINDORI,enrollment_drive,2,58,53,0,5.9,demo_generated
+2026-04-25,6,Madhya Pradesh,DINDORI,community_mobilisation,5,181,171,0,8.4,demo_generated
+2026-04-25,6,Madhya Pradesh,DINDORI,literacy_camp,3,86,79,0,6.4,demo_generated
+2026-04-25,6,Madhya Pradesh,DINDORI,girls_safety_audit,3,81,83,0,7.7,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,literacy_camp,3,98,91,0,5.6,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,girls_safety_audit,1,47,38,0,1.9,demo_generated
+2026-05-02,7,Uttar Pradesh,LUCKNOW,enrollment_drive,4,144,109,0,7.6,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,literacy_camp,5,195,158,0,10.1,demo_generated
+2026-05-02,7,Uttar Pradesh,VARANASI,remedial_class,2,76,67,0,6.0,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,literacy_camp,2,57,51,0,3.1,demo_generated
+2026-05-02,7,Uttar Pradesh,AGRA,community_mobilisation,1,25,21,0,2.0,demo_generated
+2026-05-02,7,Uttar Pradesh,SHRAVASTI,enrollment_drive,2,75,62,0,4.8,demo_generated
+2026-05-02,7,Uttar Pradesh,SHRAVASTI,remedial_class,2,30,22,0,3.3,demo_generated
+2026-05-02,7,Uttar Pradesh,BAHRAICH,literacy_camp,7,193,163,0,11.7,demo_generated
+2026-05-02,7,Uttar Pradesh,BAHRAICH,teacher_training,4,109,84,2,8.2,demo_generated
+2026-05-02,7,Uttar Pradesh,BAHRAICH,mdm_monitoring,2,99,80,0,6.0,demo_generated
+2026-05-02,7,Uttar Pradesh,BAHRAICH,girls_safety_audit,2,58,52,0,5.5,demo_generated
+2026-05-02,7,Uttar Pradesh,BAHRAICH,remedial_class,5,107,85,0,10.1,demo_generated
+2026-05-02,7,Bihar,PATNA,teacher_training,6,260,231,2,11.3,demo_generated
+2026-05-02,7,Bihar,PATNA,girls_safety_audit,4,147,120,0,6.3,demo_generated
+2026-05-02,7,Bihar,PATNA,literacy_camp,6,161,142,0,11.1,demo_generated
+2026-05-02,7,Bihar,GAYA,girls_safety_audit,1,38,28,0,1.8,demo_generated
+2026-05-02,7,Bihar,GAYA,remedial_class,5,221,204,0,13.1,demo_generated
+2026-05-02,7,Bihar,GAYA,enrollment_drive,5,167,143,0,12.3,demo_generated
+2026-05-02,7,Bihar,GAYA,literacy_camp,3,85,70,0,5.2,demo_generated
+2026-05-02,7,Bihar,GAYA,community_mobilisation,2,100,82,0,3.4,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,teacher_training,7,155,115,0,15.9,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,community_mobilisation,4,179,155,0,9.5,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,girls_safety_audit,4,84,70,0,8.0,demo_generated
+2026-05-02,7,Bihar,MUZAFFARPUR,mdm_monitoring,3,106,91,0,8.5,demo_generated
+2026-05-02,7,Bihar,ARARIA,teacher_training,6,193,159,3,9.2,demo_generated
+2026-05-02,7,Bihar,ARARIA,literacy_camp,2,92,79,0,3.4,demo_generated
+2026-05-02,7,Bihar,SITAMARHI,mdm_monitoring,4,136,109,0,11.0,demo_generated
+2026-05-02,7,Bihar,SITAMARHI,community_mobilisation,3,111,87,0,5.0,demo_generated
+2026-05-02,7,Bihar,SITAMARHI,remedial_class,2,111,82,0,3.4,demo_generated
+2026-05-02,7,Bihar,SITAMARHI,literacy_camp,4,175,152,0,7.9,demo_generated
+2026-05-02,7,Bihar,SITAMARHI,teacher_training,5,174,130,1,12.9,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,community_mobilisation,5,181,158,0,8.3,demo_generated
+2026-05-02,7,Rajasthan,JAIPUR,remedial_class,3,78,74,0,5.3,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,literacy_camp,1,27,27,0,2.1,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,mdm_monitoring,2,102,91,0,4.9,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,enrollment_drive,2,52,49,0,5.9,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,teacher_training,4,118,99,2,8.8,demo_generated
+2026-05-02,7,Rajasthan,JODHPUR,remedial_class,4,148,138,0,7.8,demo_generated
+2026-05-02,7,Rajasthan,BARMER,community_mobilisation,4,114,106,0,6.8,demo_generated
+2026-05-02,7,Rajasthan,BARMER,remedial_class,5,195,186,0,13.5,demo_generated
+2026-05-02,7,Rajasthan,BARMER,teacher_training,5,141,135,1,7.9,demo_generated
+2026-05-02,7,Rajasthan,DUNGARPUR,remedial_class,2,74,70,0,5.7,demo_generated
+2026-05-02,7,Rajasthan,DUNGARPUR,community_mobilisation,2,51,46,0,4.6,demo_generated
+2026-05-02,7,Rajasthan,DUNGARPUR,teacher_training,2,43,31,1,3.2,demo_generated
+2026-05-02,7,Rajasthan,BANSWARA,enrollment_drive,3,131,123,0,8.5,demo_generated
+2026-05-02,7,Rajasthan,BANSWARA,community_mobilisation,3,111,95,0,6.3,demo_generated
+2026-05-02,7,Rajasthan,BANSWARA,literacy_camp,2,92,92,0,5.8,demo_generated
+2026-05-02,7,Rajasthan,BANSWARA,remedial_class,1,35,30,0,2.5,demo_generated
+2026-05-02,7,Maharashtra,PUNE,community_mobilisation,3,91,77,0,4.9,demo_generated
+2026-05-02,7,Maharashtra,PUNE,girls_safety_audit,1,21,18,0,2.4,demo_generated
+2026-05-02,7,Maharashtra,PUNE,remedial_class,6,230,199,0,17.5,demo_generated
+2026-05-02,7,Maharashtra,PUNE,enrollment_drive,1,29,26,0,2.5,demo_generated
+2026-05-02,7,Maharashtra,PUNE,teacher_training,8,230,204,2,14.7,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,remedial_class,4,186,165,0,11.3,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,literacy_camp,5,91,78,0,9.0,demo_generated
+2026-05-02,7,Maharashtra,NASHIK,enrollment_drive,3,122,112,0,5.7,demo_generated
+2026-05-02,7,Maharashtra,NANDURBAR,community_mobilisation,3,103,90,0,6.7,demo_generated
+2026-05-02,7,Maharashtra,NANDURBAR,teacher_training,5,147,127,2,9.5,demo_generated
+2026-05-02,7,Maharashtra,GADCHIROLI,teacher_training,3,114,103,1,7.6,demo_generated
+2026-05-02,7,Maharashtra,GADCHIROLI,enrollment_drive,3,117,98,0,6.3,demo_generated
+2026-05-02,7,Maharashtra,OSMANABAD,community_mobilisation,2,69,62,0,5.2,demo_generated
+2026-05-02,7,Maharashtra,OSMANABAD,literacy_camp,1,26,23,0,1.6,demo_generated
+2026-05-02,7,Maharashtra,OSMANABAD,enrollment_drive,4,179,162,0,9.6,demo_generated
+2026-05-02,7,Maharashtra,OSMANABAD,remedial_class,6,138,116,0,12.4,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,enrollment_drive,3,42,37,0,5.6,demo_generated
+2026-05-02,7,Gujarat,AHMEDABAD,literacy_camp,1,47,42,0,2.9,demo_generated
+2026-05-02,7,Gujarat,SURAT,enrollment_drive,1,23,21,0,1.6,demo_generated
+2026-05-02,7,Gujarat,SURAT,remedial_class,5,210,179,0,11.8,demo_generated
+2026-05-02,7,Gujarat,SURAT,teacher_training,6,283,233,2,17.7,demo_generated
+2026-05-02,7,Gujarat,DAHOD,remedial_class,4,96,86,0,10.7,demo_generated
+2026-05-02,7,Gujarat,DAHOD,literacy_camp,5,181,180,0,15.0,demo_generated
+2026-05-02,7,Gujarat,DAHOD,girls_safety_audit,4,177,169,0,11.6,demo_generated
+2026-05-02,7,Gujarat,NARMADA,remedial_class,3,64,53,0,8.1,demo_generated
+2026-05-02,7,Gujarat,NARMADA,literacy_camp,2,71,61,0,5.1,demo_generated
+2026-05-02,7,Gujarat,NARMADA,enrollment_drive,1,29,24,0,2.4,demo_generated
+2026-05-02,7,Gujarat,NARMADA,community_mobilisation,3,101,89,0,5.2,demo_generated
+2026-05-02,7,Gujarat,NARMADA,teacher_training,4,66,60,2,9.3,demo_generated
+2026-05-02,7,Gujarat,TAPI,remedial_class,5,217,189,0,11.4,demo_generated
+2026-05-02,7,Gujarat,TAPI,mdm_monitoring,1,35,31,0,2.7,demo_generated
+2026-05-02,7,Gujarat,TAPI,enrollment_drive,2,74,63,0,5.9,demo_generated
+2026-05-02,7,Gujarat,TAPI,literacy_camp,1,37,30,0,2.3,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,remedial_class,1,36,34,0,2.0,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,teacher_training,5,190,177,3,9.9,demo_generated
+2026-05-02,7,Madhya Pradesh,BHOPAL,literacy_camp,5,207,177,0,13.1,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,enrollment_drive,2,77,61,0,4.8,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,community_mobilisation,6,116,100,0,9.4,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,mdm_monitoring,5,153,134,0,13.2,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,girls_safety_audit,4,123,109,0,8.8,demo_generated
+2026-05-02,7,Madhya Pradesh,INDORE,teacher_training,3,131,115,1,5.8,demo_generated
+2026-05-02,7,Madhya Pradesh,SHEOPUR,literacy_camp,1,30,25,0,1.6,demo_generated
+2026-05-02,7,Madhya Pradesh,SHEOPUR,enrollment_drive,6,344,300,0,16.1,demo_generated
+2026-05-02,7,Madhya Pradesh,SHEOPUR,remedial_class,3,97,95,0,6.2,demo_generated
+2026-05-02,7,Madhya Pradesh,SHEOPUR,teacher_training,3,167,140,2,7.5,demo_generated
+2026-05-02,7,Madhya Pradesh,BARWANI,teacher_training,3,84,79,1,4.6,demo_generated
+2026-05-02,7,Madhya Pradesh,BARWANI,girls_safety_audit,2,80,77,0,5.8,demo_generated
+2026-05-02,7,Madhya Pradesh,BARWANI,literacy_camp,3,66,56,0,6.8,demo_generated
+2026-05-02,7,Madhya Pradesh,DINDORI,enrollment_drive,6,161,149,0,11.1,demo_generated
+2026-05-02,7,Madhya Pradesh,DINDORI,literacy_camp,6,114,103,0,17.2,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,community_mobilisation,7,199,159,0,11.4,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,remedial_class,1,49,42,0,2.4,demo_generated
+2026-05-09,8,Uttar Pradesh,LUCKNOW,enrollment_drive,2,45,39,0,4.7,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,enrollment_drive,5,157,138,0,7.5,demo_generated
+2026-05-09,8,Uttar Pradesh,VARANASI,literacy_camp,4,133,107,0,8.9,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,teacher_training,6,208,167,3,12.3,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,literacy_camp,3,107,92,0,7.0,demo_generated
+2026-05-09,8,Uttar Pradesh,AGRA,enrollment_drive,4,159,129,0,10.4,demo_generated
+2026-05-09,8,Uttar Pradesh,SHRAVASTI,literacy_camp,3,75,56,0,7.8,demo_generated
+2026-05-09,8,Uttar Pradesh,SHRAVASTI,mdm_monitoring,5,69,59,0,8.9,demo_generated
+2026-05-09,8,Uttar Pradesh,SHRAVASTI,remedial_class,5,227,182,0,14.7,demo_generated
+2026-05-09,8,Uttar Pradesh,BAHRAICH,literacy_camp,4,106,97,0,6.2,demo_generated
+2026-05-09,8,Uttar Pradesh,BAHRAICH,teacher_training,6,176,145,2,13.1,demo_generated
+2026-05-09,8,Uttar Pradesh,BAHRAICH,remedial_class,4,110,98,0,10.1,demo_generated
+2026-05-09,8,Uttar Pradesh,BAHRAICH,enrollment_drive,5,173,133,0,8.2,demo_generated
+2026-05-09,8,Uttar Pradesh,BAHRAICH,community_mobilisation,2,85,79,0,4.3,demo_generated
+2026-05-09,8,Bihar,PATNA,literacy_camp,3,76,57,0,4.6,demo_generated
+2026-05-09,8,Bihar,PATNA,remedial_class,2,44,38,0,5.8,demo_generated
+2026-05-09,8,Bihar,PATNA,community_mobilisation,4,175,138,0,8.6,demo_generated
+2026-05-09,8,Bihar,PATNA,enrollment_drive,2,85,73,0,4.3,demo_generated
+2026-05-09,8,Bihar,GAYA,remedial_class,1,19,16,0,2.9,demo_generated
+2026-05-09,8,Bihar,GAYA,teacher_training,3,103,90,1,8.9,demo_generated
+2026-05-09,8,Bihar,GAYA,mdm_monitoring,6,224,188,0,16.6,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,enrollment_drive,5,161,127,0,13.2,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,teacher_training,4,195,159,0,9.3,demo_generated
+2026-05-09,8,Bihar,MUZAFFARPUR,mdm_monitoring,3,106,74,0,8.7,demo_generated
+2026-05-09,8,Bihar,ARARIA,literacy_camp,1,28,23,0,1.5,demo_generated
+2026-05-09,8,Bihar,ARARIA,mdm_monitoring,4,162,143,0,9.2,demo_generated
+2026-05-09,8,Bihar,SITAMARHI,teacher_training,3,101,88,1,4.6,demo_generated
+2026-05-09,8,Bihar,SITAMARHI,remedial_class,3,59,48,0,6.9,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,literacy_camp,2,89,80,0,3.2,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,teacher_training,4,191,184,3,8.8,demo_generated
+2026-05-09,8,Rajasthan,JAIPUR,community_mobilisation,3,90,79,0,5.4,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,enrollment_drive,7,175,158,0,17.7,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,literacy_camp,1,15,14,0,1.6,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,teacher_training,3,116,99,1,4.5,demo_generated
+2026-05-09,8,Rajasthan,JODHPUR,girls_safety_audit,5,94,84,0,8.0,demo_generated
+2026-05-09,8,Rajasthan,BARMER,enrollment_drive,2,36,32,0,5.7,demo_generated
+2026-05-09,8,Rajasthan,BARMER,community_mobilisation,1,39,34,0,1.7,demo_generated
+2026-05-09,8,Rajasthan,BARMER,teacher_training,1,54,50,1,1.8,demo_generated
+2026-05-09,8,Rajasthan,DUNGARPUR,community_mobilisation,4,205,199,0,8.2,demo_generated
+2026-05-09,8,Rajasthan,DUNGARPUR,literacy_camp,1,46,37,0,2.3,demo_generated
+2026-05-09,8,Rajasthan,DUNGARPUR,teacher_training,1,35,29,2,2.5,demo_generated
+2026-05-09,8,Rajasthan,DUNGARPUR,mdm_monitoring,5,164,144,0,14.9,demo_generated
+2026-05-09,8,Rajasthan,DUNGARPUR,remedial_class,3,96,77,0,5.4,demo_generated
+2026-05-09,8,Rajasthan,BANSWARA,community_mobilisation,1,30,25,0,2.5,demo_generated
+2026-05-09,8,Rajasthan,BANSWARA,literacy_camp,6,168,143,0,13.5,demo_generated
+2026-05-09,8,Rajasthan,BANSWARA,teacher_training,3,138,133,1,6.5,demo_generated
+2026-05-09,8,Rajasthan,BANSWARA,girls_safety_audit,6,66,61,0,12.6,demo_generated
+2026-05-09,8,Rajasthan,BANSWARA,remedial_class,1,39,33,0,1.7,demo_generated
+2026-05-09,8,Maharashtra,PUNE,remedial_class,3,45,42,0,5.7,demo_generated
+2026-05-09,8,Maharashtra,PUNE,teacher_training,3,85,79,3,8.5,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,mdm_monitoring,3,105,87,0,5.3,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,literacy_camp,3,100,85,0,8.3,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,enrollment_drive,5,120,110,0,11.8,demo_generated
+2026-05-09,8,Maharashtra,NASHIK,remedial_class,3,130,119,0,7.6,demo_generated
+2026-05-09,8,Maharashtra,NANDURBAR,enrollment_drive,5,254,236,0,8.3,demo_generated
+2026-05-09,8,Maharashtra,NANDURBAR,remedial_class,5,212,196,0,14.0,demo_generated
+2026-05-09,8,Maharashtra,GADCHIROLI,mdm_monitoring,1,24,20,0,1.8,demo_generated
+2026-05-09,8,Maharashtra,GADCHIROLI,teacher_training,3,25,24,2,6.2,demo_generated
+2026-05-09,8,Maharashtra,GADCHIROLI,enrollment_drive,2,116,100,0,3.8,demo_generated
+2026-05-09,8,Maharashtra,GADCHIROLI,girls_safety_audit,5,95,83,0,11.0,demo_generated
+2026-05-09,8,Maharashtra,GADCHIROLI,literacy_camp,4,160,148,0,11.7,demo_generated
+2026-05-09,8,Maharashtra,OSMANABAD,literacy_camp,1,61,52,0,2.3,demo_generated
+2026-05-09,8,Maharashtra,OSMANABAD,community_mobilisation,2,90,83,0,3.4,demo_generated
+2026-05-09,8,Maharashtra,OSMANABAD,enrollment_drive,3,30,28,0,9.0,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,remedial_class,3,60,54,0,6.3,demo_generated
+2026-05-09,8,Gujarat,AHMEDABAD,literacy_camp,5,160,134,0,13.7,demo_generated
+2026-05-09,8,Gujarat,SURAT,girls_safety_audit,2,47,43,0,5.1,demo_generated
+2026-05-09,8,Gujarat,SURAT,remedial_class,3,77,70,0,7.0,demo_generated
+2026-05-09,8,Gujarat,SURAT,community_mobilisation,3,166,149,0,6.1,demo_generated
+2026-05-09,8,Gujarat,DAHOD,literacy_camp,3,118,105,0,7.9,demo_generated
+2026-05-09,8,Gujarat,DAHOD,community_mobilisation,4,106,96,0,6.3,demo_generated
+2026-05-09,8,Gujarat,DAHOD,remedial_class,3,112,111,0,4.6,demo_generated
+2026-05-09,8,Gujarat,NARMADA,community_mobilisation,4,49,45,0,10.5,demo_generated
+2026-05-09,8,Gujarat,NARMADA,literacy_camp,2,44,35,0,3.1,demo_generated
+2026-05-09,8,Gujarat,TAPI,teacher_training,3,63,57,2,6.0,demo_generated
+2026-05-09,8,Gujarat,TAPI,remedial_class,4,207,175,0,7.0,demo_generated
+2026-05-09,8,Gujarat,TAPI,community_mobilisation,2,90,77,0,3.1,demo_generated
+2026-05-09,8,Gujarat,TAPI,literacy_camp,5,276,262,0,13.4,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,remedial_class,3,71,66,0,8.8,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,literacy_camp,4,166,149,0,8.6,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,community_mobilisation,3,76,77,0,5.2,demo_generated
+2026-05-09,8,Madhya Pradesh,BHOPAL,enrollment_drive,4,81,78,0,8.9,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,remedial_class,4,187,164,0,11.9,demo_generated
+2026-05-09,8,Madhya Pradesh,INDORE,community_mobilisation,4,211,193,0,9.2,demo_generated
+2026-05-09,8,Madhya Pradesh,SHEOPUR,enrollment_drive,4,97,94,0,6.4,demo_generated
+2026-05-09,8,Madhya Pradesh,SHEOPUR,teacher_training,4,139,134,2,9.9,demo_generated
+2026-05-09,8,Madhya Pradesh,SHEOPUR,girls_safety_audit,3,81,72,0,8.1,demo_generated
+2026-05-09,8,Madhya Pradesh,SHEOPUR,literacy_camp,2,37,33,0,3.0,demo_generated
+2026-05-09,8,Madhya Pradesh,SHEOPUR,remedial_class,5,140,129,0,13.6,demo_generated
+2026-05-09,8,Madhya Pradesh,BARWANI,enrollment_drive,3,109,100,0,8.8,demo_generated
+2026-05-09,8,Madhya Pradesh,BARWANI,remedial_class,4,86,78,0,10.1,demo_generated
+2026-05-09,8,Madhya Pradesh,BARWANI,community_mobilisation,6,222,203,0,14.3,demo_generated
+2026-05-09,8,Madhya Pradesh,BARWANI,literacy_camp,3,84,74,0,5.0,demo_generated
+2026-05-09,8,Madhya Pradesh,DINDORI,literacy_camp,2,72,66,0,4.7,demo_generated
+2026-05-09,8,Madhya Pradesh,DINDORI,community_mobilisation,2,30,30,0,4.3,demo_generated
+2026-05-09,8,Madhya Pradesh,DINDORI,girls_safety_audit,4,41,37,0,8.5,demo_generated
+2026-05-09,8,Madhya Pradesh,DINDORI,remedial_class,1,26,23,0,2.0,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,community_mobilisation,4,149,113,0,9.5,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,enrollment_drive,3,100,81,0,5.4,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,literacy_camp,4,161,143,0,7.2,demo_generated
+2026-05-16,9,Uttar Pradesh,LUCKNOW,mdm_monitoring,3,142,129,0,4.5,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,literacy_camp,4,150,116,0,8.1,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,teacher_training,2,55,39,1,3.9,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,remedial_class,3,111,97,0,7.9,demo_generated
+2026-05-16,9,Uttar Pradesh,VARANASI,community_mobilisation,4,167,118,0,7.9,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,remedial_class,3,102,82,0,6.4,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,literacy_camp,2,82,65,0,4.4,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,girls_safety_audit,1,40,33,0,1.8,demo_generated
+2026-05-16,9,Uttar Pradesh,AGRA,enrollment_drive,3,86,69,0,7.3,demo_generated
+2026-05-16,9,Uttar Pradesh,SHRAVASTI,teacher_training,3,109,88,1,7.2,demo_generated
+2026-05-16,9,Uttar Pradesh,SHRAVASTI,remedial_class,4,118,105,0,8.3,demo_generated
+2026-05-16,9,Uttar Pradesh,BAHRAICH,teacher_training,5,208,168,2,14.7,demo_generated
+2026-05-16,9,Uttar Pradesh,BAHRAICH,remedial_class,5,135,119,0,15.0,demo_generated
+2026-05-16,9,Uttar Pradesh,BAHRAICH,literacy_camp,5,237,184,0,10.7,demo_generated
+2026-05-16,9,Bihar,PATNA,community_mobilisation,5,263,202,0,8.5,demo_generated
+2026-05-16,9,Bihar,PATNA,literacy_camp,2,89,70,0,5.3,demo_generated
+2026-05-16,9,Bihar,PATNA,remedial_class,4,194,159,0,11.7,demo_generated
+2026-05-16,9,Bihar,PATNA,girls_safety_audit,6,171,140,0,14.5,demo_generated
+2026-05-16,9,Bihar,PATNA,teacher_training,2,41,33,2,5.3,demo_generated
+2026-05-16,9,Bihar,GAYA,teacher_training,4,157,147,2,10.1,demo_generated
+2026-05-16,9,Bihar,GAYA,literacy_camp,3,119,92,0,7.3,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,teacher_training,4,193,133,3,9.3,demo_generated
+2026-05-16,9,Bihar,MUZAFFARPUR,literacy_camp,3,86,68,0,6.5,demo_generated
+2026-05-16,9,Bihar,ARARIA,enrollment_drive,5,97,84,0,14.9,demo_generated
+2026-05-16,9,Bihar,ARARIA,literacy_camp,7,232,205,0,16.8,demo_generated
+2026-05-16,9,Bihar,SITAMARHI,girls_safety_audit,3,188,171,0,8.0,demo_generated
+2026-05-16,9,Bihar,SITAMARHI,literacy_camp,6,191,144,0,9.2,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,remedial_class,4,107,94,0,6.2,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,enrollment_drive,4,135,118,0,6.5,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,community_mobilisation,4,103,96,0,10.0,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,literacy_camp,5,218,189,0,14.2,demo_generated
+2026-05-16,9,Rajasthan,JAIPUR,mdm_monitoring,5,219,222,0,14.5,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,enrollment_drive,5,214,189,0,7.6,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,literacy_camp,2,57,45,0,5.3,demo_generated
+2026-05-16,9,Rajasthan,JODHPUR,remedial_class,6,115,113,0,12.5,demo_generated
+2026-05-16,9,Rajasthan,BARMER,remedial_class,3,109,102,0,6.9,demo_generated
+2026-05-16,9,Rajasthan,BARMER,enrollment_drive,3,112,90,0,7.3,demo_generated
+2026-05-16,9,Rajasthan,DUNGARPUR,community_mobilisation,4,122,108,0,11.8,demo_generated
+2026-05-16,9,Rajasthan,DUNGARPUR,enrollment_drive,6,120,108,0,11.8,demo_generated
+2026-05-16,9,Rajasthan,DUNGARPUR,girls_safety_audit,4,159,139,0,10.6,demo_generated
+2026-05-16,9,Rajasthan,DUNGARPUR,literacy_camp,4,62,54,0,10.9,demo_generated
+2026-05-16,9,Rajasthan,BANSWARA,enrollment_drive,7,424,378,0,11.1,demo_generated
+2026-05-16,9,Rajasthan,BANSWARA,girls_safety_audit,4,156,140,0,7.7,demo_generated
+2026-05-16,9,Rajasthan,BANSWARA,community_mobilisation,4,81,70,0,9.4,demo_generated
+2026-05-16,9,Rajasthan,BANSWARA,remedial_class,5,136,128,0,12.1,demo_generated
+2026-05-16,9,Rajasthan,BANSWARA,teacher_training,5,63,53,1,9.4,demo_generated
+2026-05-16,9,Maharashtra,PUNE,literacy_camp,5,194,165,0,9.8,demo_generated
+2026-05-16,9,Maharashtra,PUNE,enrollment_drive,4,91,79,0,10.1,demo_generated
+2026-05-16,9,Maharashtra,PUNE,remedial_class,6,122,108,0,12.6,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,remedial_class,5,85,78,0,9.3,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,literacy_camp,3,103,99,0,6.8,demo_generated
+2026-05-16,9,Maharashtra,NASHIK,mdm_monitoring,5,241,201,0,7.7,demo_generated
+2026-05-16,9,Maharashtra,NANDURBAR,enrollment_drive,2,96,87,0,3.4,demo_generated
+2026-05-16,9,Maharashtra,NANDURBAR,remedial_class,5,86,81,0,9.7,demo_generated
+2026-05-16,9,Maharashtra,NANDURBAR,literacy_camp,3,109,92,0,4.6,demo_generated
+2026-05-16,9,Maharashtra,GADCHIROLI,enrollment_drive,4,119,89,0,7.4,demo_generated
+2026-05-16,9,Maharashtra,GADCHIROLI,literacy_camp,3,88,76,0,8.7,demo_generated
+2026-05-16,9,Maharashtra,GADCHIROLI,girls_safety_audit,3,105,98,0,5.6,demo_generated
+2026-05-16,9,Maharashtra,GADCHIROLI,remedial_class,4,145,124,0,9.5,demo_generated
+2026-05-16,9,Maharashtra,OSMANABAD,community_mobilisation,1,27,26,0,2.3,demo_generated
+2026-05-16,9,Maharashtra,OSMANABAD,girls_safety_audit,4,104,92,0,9.1,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,community_mobilisation,2,78,70,0,3.9,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,literacy_camp,3,89,85,0,6.0,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,enrollment_drive,5,125,121,0,11.4,demo_generated
+2026-05-16,9,Gujarat,AHMEDABAD,remedial_class,2,72,62,0,5.4,demo_generated
+2026-05-16,9,Gujarat,SURAT,enrollment_drive,3,119,104,0,5.1,demo_generated
+2026-05-16,9,Gujarat,SURAT,literacy_camp,3,93,82,0,8.1,demo_generated
+2026-05-16,9,Gujarat,SURAT,remedial_class,4,158,141,0,8.3,demo_generated
+2026-05-16,9,Gujarat,SURAT,community_mobilisation,2,48,42,0,3.3,demo_generated
+2026-05-16,9,Gujarat,SURAT,teacher_training,4,94,86,2,9.6,demo_generated
+2026-05-16,9,Gujarat,DAHOD,teacher_training,5,188,158,2,14.6,demo_generated
+2026-05-16,9,Gujarat,DAHOD,enrollment_drive,4,94,82,0,9.2,demo_generated
+2026-05-16,9,Gujarat,DAHOD,literacy_camp,2,91,81,0,4.9,demo_generated
+2026-05-16,9,Gujarat,NARMADA,literacy_camp,3,143,122,0,6.9,demo_generated
+2026-05-16,9,Gujarat,NARMADA,remedial_class,2,58,54,0,3.3,demo_generated
+2026-05-16,9,Gujarat,NARMADA,community_mobilisation,3,126,108,0,7.3,demo_generated
+2026-05-16,9,Gujarat,NARMADA,girls_safety_audit,3,143,127,0,4.9,demo_generated
+2026-05-16,9,Gujarat,NARMADA,enrollment_drive,3,115,105,0,5.1,demo_generated
+2026-05-16,9,Gujarat,TAPI,remedial_class,5,264,224,0,11.5,demo_generated
+2026-05-16,9,Gujarat,TAPI,enrollment_drive,4,120,100,0,8.4,demo_generated
+2026-05-16,9,Gujarat,TAPI,literacy_camp,2,108,94,0,3.5,demo_generated
+2026-05-16,9,Gujarat,TAPI,teacher_training,5,101,88,1,10.3,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,mdm_monitoring,2,65,62,0,4.6,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,literacy_camp,3,130,122,0,5.5,demo_generated
+2026-05-16,9,Madhya Pradesh,BHOPAL,remedial_class,4,129,115,0,7.1,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,enrollment_drive,4,107,97,0,6.4,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,literacy_camp,4,147,132,0,6.8,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,girls_safety_audit,4,184,176,0,8.3,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,community_mobilisation,3,75,69,0,7.0,demo_generated
+2026-05-16,9,Madhya Pradesh,INDORE,teacher_training,4,147,143,1,6.9,demo_generated
+2026-05-16,9,Madhya Pradesh,SHEOPUR,literacy_camp,4,101,88,0,8.6,demo_generated
+2026-05-16,9,Madhya Pradesh,SHEOPUR,mdm_monitoring,2,62,55,0,4.1,demo_generated
+2026-05-16,9,Madhya Pradesh,BARWANI,remedial_class,1,23,20,0,2.1,demo_generated
+2026-05-16,9,Madhya Pradesh,BARWANI,enrollment_drive,4,57,55,0,8.5,demo_generated
+2026-05-16,9,Madhya Pradesh,BARWANI,girls_safety_audit,5,207,183,0,12.3,demo_generated
+2026-05-16,9,Madhya Pradesh,BARWANI,literacy_camp,5,128,109,0,7.5,demo_generated
+2026-05-16,9,Madhya Pradesh,DINDORI,teacher_training,3,107,101,2,5.2,demo_generated
+2026-05-16,9,Madhya Pradesh,DINDORI,remedial_class,5,309,274,0,11.2,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,literacy_camp,4,154,132,0,7.6,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,remedial_class,5,124,105,0,12.5,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,enrollment_drive,4,145,118,0,7.4,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,mdm_monitoring,2,39,35,0,5.8,demo_generated
+2026-05-23,10,Uttar Pradesh,LUCKNOW,girls_safety_audit,2,56,44,0,5.5,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,remedial_class,4,221,180,0,11.3,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,mdm_monitoring,4,41,33,0,10.3,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,literacy_camp,4,96,80,0,9.6,demo_generated
+2026-05-23,10,Uttar Pradesh,VARANASI,enrollment_drive,4,99,77,0,7.0,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,remedial_class,4,175,125,0,11.7,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,literacy_camp,4,223,197,0,10.9,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,community_mobilisation,3,99,81,0,4.7,demo_generated
+2026-05-23,10,Uttar Pradesh,AGRA,enrollment_drive,3,119,92,0,8.2,demo_generated
+2026-05-23,10,Uttar Pradesh,SHRAVASTI,teacher_training,2,59,51,2,4.2,demo_generated
+2026-05-23,10,Uttar Pradesh,SHRAVASTI,remedial_class,4,224,176,0,11.0,demo_generated
+2026-05-23,10,Uttar Pradesh,SHRAVASTI,literacy_camp,4,159,115,0,10.6,demo_generated
+2026-05-23,10,Uttar Pradesh,BAHRAICH,remedial_class,4,209,185,0,8.5,demo_generated
+2026-05-23,10,Uttar Pradesh,BAHRAICH,literacy_camp,2,92,70,0,5.6,demo_generated
+2026-05-23,10,Uttar Pradesh,BAHRAICH,girls_safety_audit,3,67,53,0,8.5,demo_generated
+2026-05-23,10,Uttar Pradesh,BAHRAICH,teacher_training,5,209,162,0,9.0,demo_generated
+2026-05-23,10,Bihar,PATNA,community_mobilisation,4,126,111,0,10.9,demo_generated
+2026-05-23,10,Bihar,PATNA,remedial_class,5,159,103,0,12.5,demo_generated
+2026-05-23,10,Bihar,PATNA,literacy_camp,4,162,132,0,9.4,demo_generated
+2026-05-23,10,Bihar,GAYA,literacy_camp,3,97,90,0,7.9,demo_generated
+2026-05-23,10,Bihar,GAYA,remedial_class,4,175,160,0,8.6,demo_generated
+2026-05-23,10,Bihar,GAYA,community_mobilisation,2,61,51,0,3.3,demo_generated
+2026-05-23,10,Bihar,GAYA,enrollment_drive,5,190,162,0,8.4,demo_generated
+2026-05-23,10,Bihar,GAYA,teacher_training,3,99,77,0,7.2,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,literacy_camp,7,275,243,0,14.9,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,community_mobilisation,1,28,23,0,1.8,demo_generated
+2026-05-23,10,Bihar,MUZAFFARPUR,enrollment_drive,1,25,19,0,2.4,demo_generated
+2026-05-23,10,Bihar,ARARIA,literacy_camp,6,297,237,0,9.1,demo_generated
+2026-05-23,10,Bihar,ARARIA,enrollment_drive,2,79,68,0,4.9,demo_generated
+2026-05-23,10,Bihar,ARARIA,remedial_class,1,36,28,0,2.1,demo_generated
+2026-05-23,10,Bihar,ARARIA,community_mobilisation,3,118,87,0,6.3,demo_generated
+2026-05-23,10,Bihar,SITAMARHI,enrollment_drive,5,141,114,0,8.0,demo_generated
+2026-05-23,10,Bihar,SITAMARHI,remedial_class,3,31,27,0,5.5,demo_generated
+2026-05-23,10,Bihar,SITAMARHI,mdm_monitoring,4,240,205,0,9.9,demo_generated
+2026-05-23,10,Bihar,SITAMARHI,community_mobilisation,5,204,156,0,14.2,demo_generated
+2026-05-23,10,Bihar,SITAMARHI,teacher_training,5,225,204,2,8.3,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,literacy_camp,6,239,217,0,10.0,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,enrollment_drive,4,179,169,0,7.2,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,community_mobilisation,5,136,127,0,11.0,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,teacher_training,5,240,205,1,13.5,demo_generated
+2026-05-23,10,Rajasthan,JAIPUR,mdm_monitoring,4,133,122,0,10.2,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,literacy_camp,2,68,58,0,3.8,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,teacher_training,3,146,126,2,6.0,demo_generated
+2026-05-23,10,Rajasthan,JODHPUR,community_mobilisation,3,113,105,0,5.9,demo_generated
+2026-05-23,10,Rajasthan,BARMER,mdm_monitoring,2,75,70,0,3.9,demo_generated
+2026-05-23,10,Rajasthan,BARMER,community_mobilisation,4,163,138,0,8.3,demo_generated
+2026-05-23,10,Rajasthan,BARMER,literacy_camp,5,298,264,0,8.0,demo_generated
+2026-05-23,10,Rajasthan,DUNGARPUR,community_mobilisation,4,149,149,0,9.2,demo_generated
+2026-05-23,10,Rajasthan,DUNGARPUR,remedial_class,3,130,125,0,7.1,demo_generated
+2026-05-23,10,Rajasthan,DUNGARPUR,literacy_camp,2,66,64,0,3.3,demo_generated
+2026-05-23,10,Rajasthan,DUNGARPUR,teacher_training,6,196,179,2,11.7,demo_generated
+2026-05-23,10,Rajasthan,DUNGARPUR,enrollment_drive,3,72,69,0,6.9,demo_generated
+2026-05-23,10,Rajasthan,BANSWARA,literacy_camp,4,124,101,0,8.2,demo_generated
+2026-05-23,10,Rajasthan,BANSWARA,remedial_class,6,194,175,0,16.6,demo_generated
+2026-05-23,10,Maharashtra,PUNE,remedial_class,5,171,169,0,10.3,demo_generated
+2026-05-23,10,Maharashtra,PUNE,literacy_camp,5,167,145,0,10.5,demo_generated
+2026-05-23,10,Maharashtra,PUNE,enrollment_drive,3,122,114,0,6.2,demo_generated
+2026-05-23,10,Maharashtra,PUNE,teacher_training,8,220,190,2,16.6,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,remedial_class,4,145,126,0,6.5,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,community_mobilisation,2,36,32,0,3.1,demo_generated
+2026-05-23,10,Maharashtra,NASHIK,teacher_training,3,114,111,1,7.5,demo_generated
+2026-05-23,10,Maharashtra,NANDURBAR,remedial_class,4,181,170,0,6.6,demo_generated
+2026-05-23,10,Maharashtra,NANDURBAR,literacy_camp,5,187,155,0,9.7,demo_generated
+2026-05-23,10,Maharashtra,NANDURBAR,enrollment_drive,3,106,91,0,8.3,demo_generated
+2026-05-23,10,Maharashtra,NANDURBAR,teacher_training,2,37,33,2,5.8,demo_generated
+2026-05-23,10,Maharashtra,NANDURBAR,community_mobilisation,3,60,49,0,8.1,demo_generated
+2026-05-23,10,Maharashtra,GADCHIROLI,literacy_camp,3,92,84,0,5.6,demo_generated
+2026-05-23,10,Maharashtra,GADCHIROLI,enrollment_drive,2,30,27,0,3.5,demo_generated
+2026-05-23,10,Maharashtra,GADCHIROLI,teacher_training,6,112,102,3,10.3,demo_generated
+2026-05-23,10,Maharashtra,GADCHIROLI,mdm_monitoring,3,44,39,0,7.4,demo_generated
+2026-05-23,10,Maharashtra,OSMANABAD,community_mobilisation,2,68,62,0,5.5,demo_generated
+2026-05-23,10,Maharashtra,OSMANABAD,literacy_camp,2,85,77,0,5.1,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,remedial_class,3,67,68,0,5.7,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,girls_safety_audit,4,48,46,0,6.7,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,literacy_camp,4,98,80,0,9.2,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,enrollment_drive,3,139,131,0,7.2,demo_generated
+2026-05-23,10,Gujarat,AHMEDABAD,teacher_training,6,200,186,1,13.1,demo_generated
+2026-05-23,10,Gujarat,SURAT,literacy_camp,5,240,231,0,8.8,demo_generated
+2026-05-23,10,Gujarat,SURAT,enrollment_drive,5,202,189,0,7.7,demo_generated
+2026-05-23,10,Gujarat,SURAT,remedial_class,3,112,94,0,7.2,demo_generated
+2026-05-23,10,Gujarat,SURAT,mdm_monitoring,5,172,159,0,9.2,demo_generated
+2026-05-23,10,Gujarat,DAHOD,literacy_camp,4,184,170,0,7.4,demo_generated
+2026-05-23,10,Gujarat,DAHOD,enrollment_drive,5,197,178,0,10.2,demo_generated
+2026-05-23,10,Gujarat,DAHOD,remedial_class,5,150,141,0,13.9,demo_generated
+2026-05-23,10,Gujarat,NARMADA,literacy_camp,4,147,138,0,8.9,demo_generated
+2026-05-23,10,Gujarat,NARMADA,community_mobilisation,5,109,104,0,10.5,demo_generated
+2026-05-23,10,Gujarat,TAPI,community_mobilisation,7,232,213,0,14.1,demo_generated
+2026-05-23,10,Gujarat,TAPI,enrollment_drive,6,70,61,0,16.1,demo_generated
+2026-05-23,10,Gujarat,TAPI,teacher_training,2,80,75,1,4.8,demo_generated
+2026-05-23,10,Gujarat,TAPI,literacy_camp,3,97,92,0,5.1,demo_generated
+2026-05-23,10,Gujarat,TAPI,remedial_class,1,26,22,0,2.3,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,teacher_training,3,66,59,1,6.5,demo_generated
+2026-05-23,10,Madhya Pradesh,BHOPAL,remedial_class,3,129,106,0,8.3,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,remedial_class,1,41,35,0,2.8,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,community_mobilisation,4,141,127,0,8.1,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,literacy_camp,4,124,113,0,8.7,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,teacher_training,4,128,114,2,11.8,demo_generated
+2026-05-23,10,Madhya Pradesh,INDORE,enrollment_drive,5,89,72,0,8.5,demo_generated
+2026-05-23,10,Madhya Pradesh,SHEOPUR,community_mobilisation,2,72,65,0,4.8,demo_generated
+2026-05-23,10,Madhya Pradesh,SHEOPUR,literacy_camp,4,127,116,0,10.2,demo_generated
+2026-05-23,10,Madhya Pradesh,SHEOPUR,remedial_class,3,161,143,0,4.5,demo_generated
+2026-05-23,10,Madhya Pradesh,SHEOPUR,enrollment_drive,4,139,128,0,7.9,demo_generated
+2026-05-23,10,Madhya Pradesh,SHEOPUR,teacher_training,1,37,33,2,2.3,demo_generated
+2026-05-23,10,Madhya Pradesh,BARWANI,teacher_training,5,184,171,2,7.5,demo_generated
+2026-05-23,10,Madhya Pradesh,BARWANI,remedial_class,4,146,136,0,9.5,demo_generated
+2026-05-23,10,Madhya Pradesh,DINDORI,literacy_camp,4,171,153,0,7.5,demo_generated
+2026-05-23,10,Madhya Pradesh,DINDORI,community_mobilisation,3,74,55,0,8.6,demo_generated
+2026-05-23,10,Madhya Pradesh,DINDORI,mdm_monitoring,4,126,114,0,7.7,demo_generated
+2026-05-23,10,Madhya Pradesh,DINDORI,enrollment_drive,6,285,261,0,13.1,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,remedial_class,1,37,33,0,2.1,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,enrollment_drive,5,172,141,0,8.5,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,literacy_camp,4,204,151,0,7.4,demo_generated
+2026-05-30,11,Uttar Pradesh,LUCKNOW,girls_safety_audit,5,105,87,0,11.3,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,community_mobilisation,1,59,50,0,2.5,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,literacy_camp,3,98,78,0,6.9,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,remedial_class,5,229,172,0,14.0,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,enrollment_drive,4,54,43,0,11.3,demo_generated
+2026-05-30,11,Uttar Pradesh,VARANASI,mdm_monitoring,3,100,87,0,7.7,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,literacy_camp,5,266,222,0,11.6,demo_generated
+2026-05-30,11,Uttar Pradesh,AGRA,community_mobilisation,5,111,83,0,10.0,demo_generated
+2026-05-30,11,Uttar Pradesh,SHRAVASTI,literacy_camp,1,29,20,0,2.3,demo_generated
+2026-05-30,11,Uttar Pradesh,SHRAVASTI,mdm_monitoring,5,113,77,0,10.6,demo_generated
+2026-05-30,11,Uttar Pradesh,BAHRAICH,enrollment_drive,3,110,83,0,7.9,demo_generated
+2026-05-30,11,Uttar Pradesh,BAHRAICH,girls_safety_audit,2,79,64,0,5.4,demo_generated
+2026-05-30,11,Uttar Pradesh,BAHRAICH,remedial_class,4,181,143,0,7.2,demo_generated
+2026-05-30,11,Bihar,PATNA,literacy_camp,4,104,89,0,8.6,demo_generated
+2026-05-30,11,Bihar,PATNA,remedial_class,6,217,178,0,12.5,demo_generated
+2026-05-30,11,Bihar,PATNA,enrollment_drive,2,73,62,0,5.1,demo_generated
+2026-05-30,11,Bihar,GAYA,remedial_class,1,35,29,0,2.7,demo_generated
+2026-05-30,11,Bihar,GAYA,enrollment_drive,3,108,80,0,7.2,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,community_mobilisation,3,75,62,0,6.7,demo_generated
+2026-05-30,11,Bihar,MUZAFFARPUR,literacy_camp,4,127,107,0,9.5,demo_generated
+2026-05-30,11,Bihar,ARARIA,literacy_camp,1,18,15,0,2.7,demo_generated
+2026-05-30,11,Bihar,ARARIA,enrollment_drive,2,63,52,0,5.4,demo_generated
+2026-05-30,11,Bihar,ARARIA,remedial_class,2,75,58,0,5.8,demo_generated
+2026-05-30,11,Bihar,SITAMARHI,girls_safety_audit,3,157,122,0,6.6,demo_generated
+2026-05-30,11,Bihar,SITAMARHI,literacy_camp,3,121,96,0,7.8,demo_generated
+2026-05-30,11,Bihar,SITAMARHI,remedial_class,1,11,8,0,2.1,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,remedial_class,5,176,150,0,14.9,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,community_mobilisation,2,59,49,0,4.8,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,literacy_camp,7,232,197,0,17.2,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,enrollment_drive,4,116,99,0,6.7,demo_generated
+2026-05-30,11,Rajasthan,JAIPUR,teacher_training,8,210,191,3,12.4,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,literacy_camp,3,95,81,0,5.3,demo_generated
+2026-05-30,11,Rajasthan,JODHPUR,remedial_class,4,88,72,0,9.2,demo_generated
+2026-05-30,11,Rajasthan,BARMER,enrollment_drive,2,53,44,0,5.7,demo_generated
+2026-05-30,11,Rajasthan,BARMER,literacy_camp,2,80,69,0,3.5,demo_generated
+2026-05-30,11,Rajasthan,DUNGARPUR,literacy_camp,3,121,115,0,8.5,demo_generated
+2026-05-30,11,Rajasthan,DUNGARPUR,mdm_monitoring,3,130,113,0,4.6,demo_generated
+2026-05-30,11,Rajasthan,DUNGARPUR,enrollment_drive,4,164,150,0,8.6,demo_generated
+2026-05-30,11,Rajasthan,DUNGARPUR,remedial_class,3,115,102,0,4.6,demo_generated
+2026-05-30,11,Rajasthan,DUNGARPUR,teacher_training,6,270,235,4,13.6,demo_generated
+2026-05-30,11,Rajasthan,BANSWARA,enrollment_drive,3,138,128,0,7.7,demo_generated
+2026-05-30,11,Rajasthan,BANSWARA,community_mobilisation,5,271,231,0,12.2,demo_generated
+2026-05-30,11,Rajasthan,BANSWARA,remedial_class,5,89,78,0,14.9,demo_generated
+2026-05-30,11,Rajasthan,BANSWARA,girls_safety_audit,4,129,109,0,8.6,demo_generated
+2026-05-30,11,Maharashtra,PUNE,remedial_class,5,227,208,0,7.5,demo_generated
+2026-05-30,11,Maharashtra,PUNE,teacher_training,3,75,64,1,7.9,demo_generated
+2026-05-30,11,Maharashtra,PUNE,literacy_camp,2,106,93,0,4.1,demo_generated
+2026-05-30,11,Maharashtra,PUNE,enrollment_drive,3,145,123,0,7.6,demo_generated
+2026-05-30,11,Maharashtra,PUNE,community_mobilisation,6,250,255,0,10.9,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,teacher_training,1,32,30,2,2.2,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,enrollment_drive,2,76,70,0,5.7,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,literacy_camp,3,96,78,0,5.1,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,remedial_class,4,179,157,0,11.8,demo_generated
+2026-05-30,11,Maharashtra,NASHIK,girls_safety_audit,5,160,160,0,13.7,demo_generated
+2026-05-30,11,Maharashtra,NANDURBAR,girls_safety_audit,3,97,87,0,7.6,demo_generated
+2026-05-30,11,Maharashtra,NANDURBAR,literacy_camp,3,141,128,0,6.9,demo_generated
+2026-05-30,11,Maharashtra,NANDURBAR,enrollment_drive,4,132,116,0,9.2,demo_generated
+2026-05-30,11,Maharashtra,NANDURBAR,teacher_training,5,150,127,2,10.1,demo_generated
+2026-05-30,11,Maharashtra,NANDURBAR,remedial_class,5,158,141,0,12.7,demo_generated
+2026-05-30,11,Maharashtra,GADCHIROLI,literacy_camp,1,31,26,0,2.9,demo_generated
+2026-05-30,11,Maharashtra,GADCHIROLI,girls_safety_audit,3,111,94,0,8.1,demo_generated
+2026-05-30,11,Maharashtra,GADCHIROLI,community_mobilisation,1,20,19,0,2.7,demo_generated
+2026-05-30,11,Maharashtra,GADCHIROLI,remedial_class,2,74,67,0,3.4,demo_generated
+2026-05-30,11,Maharashtra,OSMANABAD,literacy_camp,6,345,322,0,12.6,demo_generated
+2026-05-30,11,Maharashtra,OSMANABAD,community_mobilisation,4,180,155,0,6.7,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,literacy_camp,6,255,202,0,11.8,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,community_mobilisation,2,72,70,0,4.8,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,teacher_training,5,124,108,1,9.9,demo_generated
+2026-05-30,11,Gujarat,AHMEDABAD,remedial_class,4,124,113,0,7.8,demo_generated
+2026-05-30,11,Gujarat,SURAT,teacher_training,3,172,158,3,6.2,demo_generated
+2026-05-30,11,Gujarat,SURAT,remedial_class,7,256,228,0,10.6,demo_generated
+2026-05-30,11,Gujarat,DAHOD,remedial_class,5,162,142,0,7.8,demo_generated
+2026-05-30,11,Gujarat,DAHOD,enrollment_drive,2,60,52,0,4.0,demo_generated
+2026-05-30,11,Gujarat,DAHOD,literacy_camp,4,111,103,0,9.6,demo_generated
+2026-05-30,11,Gujarat,DAHOD,community_mobilisation,3,91,85,0,7.8,demo_generated
+2026-05-30,11,Gujarat,NARMADA,literacy_camp,2,84,76,0,5.5,demo_generated
+2026-05-30,11,Gujarat,NARMADA,remedial_class,1,37,33,0,2.6,demo_generated
+2026-05-30,11,Gujarat,NARMADA,community_mobilisation,5,216,194,0,12.8,demo_generated
+2026-05-30,11,Gujarat,NARMADA,enrollment_drive,2,79,78,0,3.8,demo_generated
+2026-05-30,11,Gujarat,TAPI,literacy_camp,4,246,229,0,11.6,demo_generated
+2026-05-30,11,Gujarat,TAPI,community_mobilisation,5,135,127,0,10.8,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,literacy_camp,3,94,81,0,5.5,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,mdm_monitoring,3,135,131,0,8.6,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,enrollment_drive,5,211,196,0,8.2,demo_generated
+2026-05-30,11,Madhya Pradesh,BHOPAL,community_mobilisation,2,85,77,0,3.0,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,literacy_camp,3,134,115,0,7.1,demo_generated
+2026-05-30,11,Madhya Pradesh,INDORE,community_mobilisation,1,9,7,0,1.8,demo_generated
+2026-05-30,11,Madhya Pradesh,SHEOPUR,enrollment_drive,5,127,111,0,11.2,demo_generated
+2026-05-30,11,Madhya Pradesh,SHEOPUR,remedial_class,4,198,180,0,7.3,demo_generated
+2026-05-30,11,Madhya Pradesh,BARWANI,girls_safety_audit,5,175,147,0,7.5,demo_generated
+2026-05-30,11,Madhya Pradesh,BARWANI,remedial_class,4,83,68,0,9.3,demo_generated
+2026-05-30,11,Madhya Pradesh,BARWANI,mdm_monitoring,3,93,79,0,6.2,demo_generated
+2026-05-30,11,Madhya Pradesh,DINDORI,teacher_training,1,37,32,2,2.1,demo_generated
+2026-05-30,11,Madhya Pradesh,DINDORI,community_mobilisation,4,160,150,0,8.1,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,remedial_class,4,73,61,0,6.3,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,teacher_training,6,218,176,1,11.6,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,girls_safety_audit,2,78,62,0,3.9,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,community_mobilisation,3,118,93,0,6.0,demo_generated
+2026-06-06,12,Uttar Pradesh,LUCKNOW,mdm_monitoring,3,101,78,0,5.3,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,remedial_class,3,97,79,0,8.0,demo_generated
+2026-06-06,12,Uttar Pradesh,VARANASI,teacher_training,3,141,110,1,4.9,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,remedial_class,2,51,43,0,5.3,demo_generated
+2026-06-06,12,Uttar Pradesh,AGRA,enrollment_drive,4,149,120,0,11.1,demo_generated
+2026-06-06,12,Uttar Pradesh,SHRAVASTI,remedial_class,4,120,102,0,6.7,demo_generated
+2026-06-06,12,Uttar Pradesh,SHRAVASTI,enrollment_drive,6,175,135,0,13.4,demo_generated
+2026-06-06,12,Uttar Pradesh,BAHRAICH,teacher_training,5,126,105,1,13.2,demo_generated
+2026-06-06,12,Uttar Pradesh,BAHRAICH,literacy_camp,6,264,227,0,15.0,demo_generated
+2026-06-06,12,Bihar,PATNA,enrollment_drive,1,34,26,0,2.7,demo_generated
+2026-06-06,12,Bihar,PATNA,remedial_class,3,96,88,0,7.9,demo_generated
+2026-06-06,12,Bihar,PATNA,community_mobilisation,5,240,201,0,10.4,demo_generated
+2026-06-06,12,Bihar,PATNA,literacy_camp,4,204,174,0,7.6,demo_generated
+2026-06-06,12,Bihar,PATNA,mdm_monitoring,5,200,191,0,13.8,demo_generated
+2026-06-06,12,Bihar,GAYA,enrollment_drive,4,121,108,0,10.8,demo_generated
+2026-06-06,12,Bihar,GAYA,community_mobilisation,2,81,64,0,4.3,demo_generated
+2026-06-06,12,Bihar,GAYA,remedial_class,3,97,81,0,4.8,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,community_mobilisation,1,45,37,0,2.4,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,enrollment_drive,4,122,97,0,11.4,demo_generated
+2026-06-06,12,Bihar,MUZAFFARPUR,literacy_camp,3,147,122,0,6.3,demo_generated
+2026-06-06,12,Bihar,ARARIA,literacy_camp,5,179,134,0,14.6,demo_generated
+2026-06-06,12,Bihar,ARARIA,teacher_training,2,71,59,1,4.5,demo_generated
+2026-06-06,12,Bihar,ARARIA,mdm_monitoring,3,143,108,0,7.8,demo_generated
+2026-06-06,12,Bihar,ARARIA,enrollment_drive,6,132,107,0,16.7,demo_generated
+2026-06-06,12,Bihar,SITAMARHI,enrollment_drive,2,97,83,0,3.5,demo_generated
+2026-06-06,12,Bihar,SITAMARHI,literacy_camp,2,94,76,0,5.8,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,girls_safety_audit,4,56,51,0,8.1,demo_generated
+2026-06-06,12,Rajasthan,JAIPUR,literacy_camp,1,19,17,0,2.4,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,teacher_training,5,228,199,0,9.6,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,literacy_camp,2,97,94,0,5.2,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,remedial_class,4,164,134,0,8.4,demo_generated
+2026-06-06,12,Rajasthan,JODHPUR,mdm_monitoring,3,103,93,0,6.8,demo_generated
+2026-06-06,12,Rajasthan,BARMER,teacher_training,4,165,157,0,8.9,demo_generated
+2026-06-06,12,Rajasthan,BARMER,community_mobilisation,1,39,32,0,2.0,demo_generated
+2026-06-06,12,Rajasthan,BARMER,enrollment_drive,4,153,138,0,7.3,demo_generated
+2026-06-06,12,Rajasthan,BARMER,literacy_camp,4,147,139,0,9.7,demo_generated
+2026-06-06,12,Rajasthan,DUNGARPUR,enrollment_drive,1,41,38,0,2.6,demo_generated
+2026-06-06,12,Rajasthan,DUNGARPUR,community_mobilisation,3,113,104,0,8.1,demo_generated
+2026-06-06,12,Rajasthan,BANSWARA,literacy_camp,3,75,61,0,6.7,demo_generated
+2026-06-06,12,Rajasthan,BANSWARA,enrollment_drive,2,94,97,0,5.2,demo_generated
+2026-06-06,12,Rajasthan,BANSWARA,teacher_training,3,133,118,2,8.0,demo_generated
+2026-06-06,12,Maharashtra,PUNE,mdm_monitoring,4,157,133,0,6.8,demo_generated
+2026-06-06,12,Maharashtra,PUNE,enrollment_drive,5,186,158,0,14.5,demo_generated
+2026-06-06,12,Maharashtra,PUNE,remedial_class,5,168,165,0,7.7,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,community_mobilisation,4,47,41,0,11.1,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,literacy_camp,6,153,127,0,15.0,demo_generated
+2026-06-06,12,Maharashtra,NASHIK,girls_safety_audit,5,257,245,0,9.0,demo_generated
+2026-06-06,12,Maharashtra,NANDURBAR,enrollment_drive,5,103,93,0,9.8,demo_generated
+2026-06-06,12,Maharashtra,NANDURBAR,community_mobilisation,4,136,116,0,9.7,demo_generated
+2026-06-06,12,Maharashtra,GADCHIROLI,teacher_training,4,223,213,0,6.1,demo_generated
+2026-06-06,12,Maharashtra,GADCHIROLI,community_mobilisation,5,199,173,0,12.3,demo_generated
+2026-06-06,12,Maharashtra,GADCHIROLI,mdm_monitoring,5,257,250,0,14.3,demo_generated
+2026-06-06,12,Maharashtra,GADCHIROLI,literacy_camp,7,113,102,0,16.9,demo_generated
+2026-06-06,12,Maharashtra,GADCHIROLI,remedial_class,2,71,66,0,5.8,demo_generated
+2026-06-06,12,Maharashtra,OSMANABAD,literacy_camp,4,209,181,0,10.5,demo_generated
+2026-06-06,12,Maharashtra,OSMANABAD,mdm_monitoring,5,261,225,0,13.9,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,literacy_camp,2,73,67,0,6.0,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,community_mobilisation,3,74,67,0,6.2,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,enrollment_drive,3,70,58,0,6.5,demo_generated
+2026-06-06,12,Gujarat,AHMEDABAD,remedial_class,7,284,268,0,12.7,demo_generated
+2026-06-06,12,Gujarat,SURAT,enrollment_drive,6,149,143,0,10.5,demo_generated
+2026-06-06,12,Gujarat,SURAT,literacy_camp,5,221,198,0,9.0,demo_generated
+2026-06-06,12,Gujarat,SURAT,community_mobilisation,2,38,38,0,5.4,demo_generated
+2026-06-06,12,Gujarat,SURAT,remedial_class,2,76,70,0,3.3,demo_generated
+2026-06-06,12,Gujarat,DAHOD,enrollment_drive,5,164,135,0,8.5,demo_generated
+2026-06-06,12,Gujarat,DAHOD,remedial_class,5,121,116,0,12.4,demo_generated
+2026-06-06,12,Gujarat,DAHOD,literacy_camp,7,134,124,0,11.5,demo_generated
+2026-06-06,12,Gujarat,DAHOD,teacher_training,5,152,142,2,9.8,demo_generated
+2026-06-06,12,Gujarat,DAHOD,mdm_monitoring,1,27,25,0,1.7,demo_generated
+2026-06-06,12,Gujarat,NARMADA,literacy_camp,4,163,151,0,8.5,demo_generated
+2026-06-06,12,Gujarat,NARMADA,enrollment_drive,5,190,185,0,12.1,demo_generated
+2026-06-06,12,Gujarat,NARMADA,remedial_class,5,247,203,0,9.7,demo_generated
+2026-06-06,12,Gujarat,NARMADA,girls_safety_audit,5,189,164,0,10.5,demo_generated
+2026-06-06,12,Gujarat,TAPI,literacy_camp,4,172,142,0,7.6,demo_generated
+2026-06-06,12,Gujarat,TAPI,enrollment_drive,4,263,241,0,11.8,demo_generated
+2026-06-06,12,Gujarat,TAPI,teacher_training,2,103,90,2,4.2,demo_generated
+2026-06-06,12,Gujarat,TAPI,community_mobilisation,4,151,131,0,11.4,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,enrollment_drive,4,93,76,0,9.5,demo_generated
+2026-06-06,12,Madhya Pradesh,BHOPAL,remedial_class,3,128,114,0,7.7,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,remedial_class,4,164,144,0,7.2,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,literacy_camp,2,78,69,0,3.9,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,enrollment_drive,2,118,107,0,3.4,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,girls_safety_audit,4,133,120,0,8.3,demo_generated
+2026-06-06,12,Madhya Pradesh,INDORE,teacher_training,5,197,177,2,9.0,demo_generated
+2026-06-06,12,Madhya Pradesh,SHEOPUR,mdm_monitoring,3,104,101,0,4.7,demo_generated
+2026-06-06,12,Madhya Pradesh,SHEOPUR,community_mobilisation,6,154,143,0,17.4,demo_generated
+2026-06-06,12,Madhya Pradesh,SHEOPUR,remedial_class,4,177,161,0,8.2,demo_generated
+2026-06-06,12,Madhya Pradesh,SHEOPUR,literacy_camp,4,168,154,0,6.0,demo_generated
+2026-06-06,12,Madhya Pradesh,BARWANI,literacy_camp,5,207,181,0,10.6,demo_generated
+2026-06-06,12,Madhya Pradesh,BARWANI,community_mobilisation,3,118,100,0,5.0,demo_generated
+2026-06-06,12,Madhya Pradesh,BARWANI,teacher_training,4,191,181,2,8.9,demo_generated
+2026-06-06,12,Madhya Pradesh,BARWANI,enrollment_drive,5,152,132,0,9.8,demo_generated
+2026-06-06,12,Madhya Pradesh,BARWANI,girls_safety_audit,3,88,84,0,5.9,demo_generated
+2026-06-06,12,Madhya Pradesh,DINDORI,teacher_training,5,114,109,2,13.8,demo_generated
+2026-06-06,12,Madhya Pradesh,DINDORI,literacy_camp,4,122,113,0,8.5,demo_generated
